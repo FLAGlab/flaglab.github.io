@@ -1,16 +1,17 @@
 ---
 title: PiL
 image: /img/PiL-no-name.png
-description: 
-  Programming language implementations.
+description: Programming language implementations.
 
 people:
   - prof-nc
   - prof-st
   
 layout: areas
-last-updated: 2015-05-05
+order: 1
 ---
 
-
-Long description
+PiL focuses on the design an implementation of porgramming languages.
+DSLs
+Verification and type systems
+Adaptive systems and context-oriented porgramming

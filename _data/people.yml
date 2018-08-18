@@ -9,21 +9,25 @@ prof-nc:
 
 prof-rc:
     display_name: "Rodrigo Cardoso"
+    image: img/people/fotoRodrigoCardoso.jpg
     role: labhead
 
 prof-jd:
     display_name: "Jorge Duitama"
+    image: img/people/fotoJorgeDuitama.jpg
     role: labhead
 
 prof-om:
     display_name: "Olga Mariño"
     webpage: ""
+    image: img/people/fotoOlgaMarino.jpg
     role: labhead
     bio: Associate Professor
 
 prof-st:
     display_name: "Silvia Takahashi"
     webpage: ""
+    image: img/people/fotoSilviaTakahashi.jpg
     role: labhead
     bio: Associate Professor
 
@@ -31,7 +35,71 @@ phd-rubenManrique:
     display_name: "Ruben Manrique"
     webpage: ""
     role: predoc
-    bio: Ph.D. Student on ....
+    bio: Ph.D. Student 
+    topic:
+
+stu-ChristianPoveda:
+    display_name: Christian Poveda
+    role: ugrad
+    image:
+    bio: MSc. MISIS
+    topic: Dependent types
+
+stu-JairoAriza:
+    display_name: Jairo Ariza
+    role: ugrad
+    image:
+    bio: MSc. MINE
+    topic: Service matching
+
+stu-SebastianSanchez:
+    display_name: Sebastian Sanchez
+    role: ugrad
+    image:
+    bio: MSc.
+    topic: Distributed datastructures
+
+stu-Daniel:
+    display_name: Daniel
+    role: ugrad
+    image:
+    bio: MSc. MBC
+    topic:
+
+stu-JuanManuelLovera:
+    display_name: Juan Manuel Lovera
+    role: ugrad
+    image:
+    bio: B.Eng.
+    topic:
+
+stu-TomasVenegas:
+    display_name: Tomas Venegas
+    role: ugrad
+    image:
+    bio: B.Eng.
+    topic:
+
+stu-JuanDChaves:
+    display_name: Juan Diego Chaves
+    role: ugrad
+    image:
+    bio: B.Eng.
+    topic: Defeasible logic
+
+stu-JuanCamiloBages:
+    display_name: Juan Camilo Bages
+    role: ugrad
+    image:
+    bio: B.Eng.
+    topic: 
+
+stu-RafaelMantilla:
+    display_name: Rafael Mantilla
+    role: ugrad
+    image:
+    bio: B.Eng.
+    topic: Dynamic symbolic execution
 
 alumni-jorgeCastro:
     display_name: "Jorge Castro"

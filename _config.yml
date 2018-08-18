@@ -1,4 +1,4 @@
-name: Awesome Research Group
+name: FLAG Research lab
 url: http://flaglab.github.io
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
@@ -23,7 +23,14 @@ roles:
     name: Alumni
   - key: collab
     name: Collaborators
-  
+
+# Sections on the "collaborators" page.
+collab_types:
+  - key: university
+    name: University
+  - key: researcher
+    name: Researchers
+
 # Number of news stories on the front page.
 front_page_news: 0
 
@@ -34,11 +41,13 @@ base: ''
 collections:
   projects:
     output: true
+  reserachareas:
+    output: true
 
 # Navigation bar links.
 navigation:
   - title: Home
-    link: /
+    link: /index.html
   - title: Members
     link: /members.html
   - title: Research Areas
