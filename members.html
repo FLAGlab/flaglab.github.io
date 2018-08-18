@@ -1,0 +1,54 @@
+---
+layout: default
+title: People
+notitle: true
+role-tables:
+- - roles: [labhead]
+    width: 3
+    image: true
+- - roles: [predoc]
+    width: 12
+    image: true
+- - roles: [ugrad]
+    width: 12
+    image: true
+- - roles: [alumni]
+    width: 12
+    image: false
+---
+
+
+{% for role-table in page.role-tables %} {% for role-column in role-table %} {% for role-key in role-column.roles %} {% for
+role in site.roles %} {% if role.key == role-key %}
+<div class="row">
+    <div class="col-lg-5" style="background-color: #000000; color: white; padding-top: 10px">
+        <h1>{{ role.name }}</h1>
+    </div>
+</div>
+<div class="card-columns role {{ role.key }}" style="padding-top: 15px">
+    {% for item in site.data.people %} {% assign person = item[1] %} 
+    {% if person.role == role.key %}
+    {% if person.role == role.alumni %}
+        <div class="card bg-inverse">
+            <div class="card-img-overlay d-flex flex-column justify-content-end" style="padding: 0px">
+                <div style="background-color: #ffffffff; color: rgb(0, 0, 0); padding-left: 5px">
+                    <h5 class="card-title" style="margin-bottom: 0px">{{person.display_name}}</h5>
+                    <h6>{{person.bio}} - {{person.now}}</h6>
+                </div>
+            </div>
+        </div>
+    {% endif %}
+    <a href="{{person.webpage}}">    
+            <div class="card bg-inverse">
+                <img class="card-img" src="{{ site.base }}{{ person.image }}" alt="{{person.display_name}}">
+                <div class="card-img-overlay d-flex flex-column justify-content-end" style="padding: 0px">
+                    <div style="background-color: #363636aa; color: white; padding-left: 5px">
+                        <h4 class="card-title" style="margin-bottom: 0px">{{person.display_name}}</h4>
+                        <h6>{{person.bio}}</h6>
+                    </div>
+                </div>
+            </div>
+        </a>
+    {% endif %} {% endfor %}
+</div>
+{% endif %} {% endfor %} {% endfor %} {% endfor %} {% endfor %}

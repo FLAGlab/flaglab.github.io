@@ -1,144 +1,40 @@
 
-facultyMario:
-    display_name: "Mario Linares-Vásquez"
-    role: faculty
-    image: /img/people/fotoMarioLinaresV.jpg
-    bio: "Assistant Professor"
-    webpage: "https://profesores.virtual.uniandes.edu.co/mlinaresv/en/inicio-en/"
-
-docOlga:
-    display_name: "Olga Vega"
-    role: grad
-    image: /img/people/fotoOlgaVega.jpg
-    bio: "Phd. Student"
-
-mastCamilo:
-    display_name: "Camilo Escobar-Velásquez"
-    role: grad
-    image: /img/people/fotoCamiloEscobarV.jpg
-    bio: "MSc. Student - Masters of Software Engineering"
-
-mastSantiago:
-    display_name: "Santiago Liñan"
-    role: grad
-    image: /img/people/fotoSantiagoLinan.jpg
-    bio: "MSc. Student - Masters of Software Engineering"
-
-mastSergio:
-    display_name: "Sergio Velásquez"
-    role: grad
-    image: /img/people/fotoSergioVelasquez.jpg
-    bio: "MSc. Student - Masters of Software Engineering"
-
-mastAlejandro:
-    display_name: "Alejandro Mazuera"
-    role: grad
-    image: /img/people/fotoAlejandroMazuera.jpg
-    bio: "MSc. Student - Masters of Information Security"
-
-mastJairo:
-    display_name: "Jairo Bautista"
-    role: grad
-    image: /img/people/fotoJairoBautista.jpg
-    bio: "MSc. Student - Masters of Software Engineering"    
-
-mastSamuel:
-    display_name: "Samuel Salazar"
-    role: grad
-    image: /img/people/fotoSamuelSalazar.jpg
-    bio: "MSc. Student - Masters of Software Engineering"
-
-mastDiego:
-    display_name: "Diego Rodríguez-Baquero"
-    role: grad
-    image: /img/people/fotoDiegoRodriguez.jpg
-    bio: "MSc. Student - Masters of Software Engineering"
-
-udgJuan:
-    display_name: "Juan Acevedo"
-    role: ugrad
-    image: /img/people/avatar2.png
-
-udgLaura:
-    display_name: "Laura Bello"
-    role: ugrad
-    image: /img/people/fotoLauraBello.jpg
-
-udgMaria:
-    display_name: "Maria Arevalo"
-    role: ugrad
-    image: /img/people/fotoMariaArevalo.jpg
-
-udgSofia:
-    display_name: "Sofia Hernández"
-    role: ugrad
-    image: /img/people/fotoSofiaHernandez.jpg
-
-udgValeria:
-    display_name: "Valeria Vanegas"
-    role: ugrad
-    image: /img/people/img_avatar2.png
-
-udgSantiago:
-    display_name: "Santiago Saenz"
-    role: ugrad
-    image: /img/people/fotoSantiagoSaenz.jpg
-
-udgCamilo:
-    display_name: "Camilo Sanchez"
-    role: ugrad
-    image: /img/people/fotoCamiloSanchez.jpg
-
-udgMichael:
-    display_name: "Michael Osorio"
-    role: ugrad
-    image: /img/people/avatar2.png
-
-collSandraRueda:
-    display_name: "Sandra Rueda"
-    role: "collab"
-    image: /img/people/fotoSandraRueda.jpg
-    webpage: "https://profesores.virtual.uniandes.edu.co/sarueda/en/inicio-en/"
-    bio: "Associate Professor at Universidad de Los Andes, Bogotá, Colombia"
-
-collGabrieleBavota:
-    display_name: "Gabriele Bavota"
-    role: "collab"
-    image: /img/people/fotoGabrieleBavota.jpg
-    webpage: "http://www.inf.usi.ch/faculty/bavota/"
-    bio: "Assistant Professor at University of Lugano, Lugano, Switzerland"
-
-collNicolasCardozo:
-    display_name: "Nicolas Cardozo"
-    role: "collab"
-    image: /img/people/fotoNicolasCardozo.jpg
+prof-nc:
+    display_name: "Nicolás Cardozo"
+    role: labhead
     webpage: "https://profesores.virtual.uniandes.edu.co/ncardozo/en/inicio-en/"
-    bio: "Assistant Professor at Universidad de Los Andes, Bogotá, Colombia"
+    github: ncardozo
+    image: img/people/fotoNicolasCardozo.jpg
+    bio: Assistant Professor
 
-collLauraMoreno: 
-    display_name: "Laura Moreno"
-    role: "collab"
-    image: /img/people/fotoLauraMoreno.jpg
-    webpage: "https://www.cs.colostate.edu/~lmorenoc/"
-    bio: "Assistant Professor at Colorado State University, Colorado, USA"
+prof-rc:
+    display_name: "Rodrigo Cardoso"
+    role: labhead
 
-collDenysPosh: 
-    display_name: "Denys Poshyvanyk"
-    role: "collab"
-    image: /img/people/fotoDenys.jpg
-    webpage: "http://www.cs.wm.edu/~denys/index.html"
-    bio: "Associate Professor at The College of Williaa JNIm and Mary, Virginia, USA"
+prof-jd:
+    display_name: "Jorge Duitama"
+    role: labhead
 
-collMassimiliano: 
-    display_name: "Massimiliano Di Penta"
-    role: "collab"
-    image: /img/people/dipenta.png
-    webpage: "http://www.ing.unisannio.it/mdipenta/"
-    bio: "Associate Professor at University of Sannio, Benevento, Italy"
+prof-om:
+    display_name: "Olga Mariño"
+    webpage: ""
+    role: labhead
+    bio: Associate Professor
 
-collChristopher:
-    display_name: "Christopher Vendome"
-    role: "collab"
-    image: "/img/people/fotoChristopherV.jpg"
-    webpage: "http://www.christophervendome.com"
-    bio: "Assistant Professor at Miami University, Ohio, USA"
+prof-st:
+    display_name: "Silvia Takahashi"
+    webpage: ""
+    role: labhead
+    bio: Associate Professor
+
+phd-rubenManrique:
+    display_name: "Ruben Manrique"
+    webpage: ""
+    role: predoc
+    bio: Ph.D. Student on ....
+
+alumni-jorgeCastro:
+    display_name: "Jorge Castro"
+    role: alumni
+    bio: Master in Software Engineering, 2018.
+    now: Now at --.

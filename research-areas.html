@@ -1,0 +1,23 @@
+---
+layout: default
+title: Research Areas
+notitle: true
+---
+
+<!--<div class="card-columns">-->
+    {% comment %}
+    Sort the projects by date, putting those without dates last
+    {% endcomment %}
+    {% assign areas = site.researchareas %}
+    {% for a in areas %}
+
+    <div class="row">
+        <div class="col-lg-5" style="background-color: #33a5db; color: white; padding-top: 10px">
+            <h1>{{a.title}}</h1>
+        </div>
+    </div>        
+        <div class="card-body">
+                {{a.description}}}
+        </div>
+    {% endfor %}
+<!--</div>-->
