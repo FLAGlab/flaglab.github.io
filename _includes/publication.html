@@ -1,0 +1,56 @@
+<table class="table">
+<tbody>
+	{% assign prev_year = 2000 %}
+	{% for entry in site.bib %}
+	<tr>
+		<td>
+			<span class="date">
+				{% if entry.year != prev_year %}
+				<big><strong>{{ entry.year }}</strong></big><br />
+				{% endif %}
+				{% assign prev_year = entry.year %}
+				{{ entry.month | monthname }}
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				{% capture myurl %} {{entry.doi }} {% endcapture %}
+				{% if myurl %}
+				<img src="img/PDF.png" width="16"
+					height="16" alt="PDF" />
+				<a href="{{ myurl | escape }}">{{ entry.title }}</a>.
+				{% else %}
+				{{ entry.title }}.
+				{% endif %}
+			</span><br />
+			<span class="authors">
+				{{ entry.author }}.
+			</span>
+			<span class="venuetype">{{ entry|venue_type -}}</span><span class="venue">{{ entry.booktitle -}} ({{ entry.series }})</span>.
+			<span class="publisher">{{ entry.publisher }}, {{ entry.address }}</span>.
+			{% if entry.note %}
+			<span class="note">
+			{% capture mynote %} {{ entry.note }} {% endcapture %}
+			{{ mynote | escape }}.
+			</span>
+			{% endif %}
+			<br />
+			<!-- <span class="links">
+			{% for url in (entry|extra_urls).iteritems() %}
+				[<a href="{{ myurl|escape }}">{{ escape }}</a>]
+			{% endfor %} -->
+				<!--{% if entry.fields['abstract'] %}
+				[<a class="dropdown-toggle" data-toggle="dropdown" href="javascript:void(0);" onclick="$('#abstract_{{entry.fields['key']}}').slideToggle('fast');return false;">abstract</a>]
+				{% endif %} -->
+			</span>
+			{% if entry.fields['abstract'] %}
+			<div id="abstract_{{entry.fields['key']}}" class="abstract">
+			{% capture myabstract %} {{ entry.abstract}} {% endcapture %} 
+			{{ myabstract |escape }}
+			</div>
+			{% endif %}
+		</td>
+	</tr>
+	{% endfor %}
+</tbody>
+</table>
