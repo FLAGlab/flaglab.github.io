@@ -1,24 +1,30 @@
 <table class="table">
 <tbody>
 	{% assign prev_year = 2000 %}
-	{% for entry in site.bib %}
+	{% assign current_year = 2018 %}
+	{% assign range = (prev_year .. current_year) | reverse %}
+	{% for year in range %}
+	{% assign already_there = false %}
+	{% for entry in site.bib %}	
 	<tr>
-		<td>
-			<span class="date">
-				{% if entry.year != prev_year %}
-				<big><strong>{{ entry.year }}</strong></big><br />
-				{% endif %}
-				{% assign prev_year = entry.year %}
-				{{ entry.month | monthname }}
-			</span>
-		</td>
+		{% if entry.year == year %}
+		{% if already_there == false %}
+			<td>
+				<span class="date">
+					<big><strong>{{ year }}</strong></big><br />
+				</span>
+			</td>
+			{% assign already_there = true %}
+		{% else %}	
+			<td></td>
+		{% endif %}
+
 		<td class="publication">
 			<span class="pubtitle">
-				{% capture myurl %} {{entry.doi }} {% endcapture %}
-				{% if myurl %}
+				{% if entry.doi %}
 				<img src="img/PDF.png" width="16"
 					height="16" alt="PDF" />
-				<a href="{{ myurl | escape }}">{{ entry.title }}</a>.
+				<a href="{{ entry.doi }}">{{ entry.title }}</a>.
 				{% else %}
 				{{ entry.title }}.
 				{% endif %}
@@ -26,7 +32,7 @@
 			<span class="authors">
 				{{ entry.author }}.
 			</span>
-			<span class="venuetype">{{ entry|venue_type -}}</span><span class="venue">{{ entry.booktitle -}} ({{ entry.series }})</span>.
+			<span class="venuetype">{{ entry|venue_type }}</span><span class="venue">{{ entry.booktitle }} ({{ entry.series }})</span>.
 			<span class="publisher">{{ entry.publisher }}, {{ entry.address }}</span>.
 			{% if entry.note %}
 			<span class="note">
@@ -43,14 +49,16 @@
 				[<a class="dropdown-toggle" data-toggle="dropdown" href="javascript:void(0);" onclick="$('#abstract_{{entry.fields['key']}}').slideToggle('fast');return false;">abstract</a>]
 				{% endif %} -->
 			</span>
-			{% if entry.fields['abstract'] %}
+			{% if entry.abstract %}
 			<div id="abstract_{{entry.fields['key']}}" class="abstract">
-			{% capture myabstract %} {{ entry.abstract}} {% endcapture %} 
-			{{ myabstract |escape }}
+				{% capture myabstract %} {{ entry.abstract}} {% endcapture %} 
+				{{ myabstract |escape }}
 			</div>
 			{% endif %}
 		</td>
+		{% endif %}
 	</tr>
+	{% endfor %}
 	{% endfor %}
 </tbody>
 </table>
