@@ -43,6 +43,8 @@ collections:
     output: true
   reserachareas:
     output: true
+  bib:
+    output: true
 
 # Navigation bar links.
 navigation:
