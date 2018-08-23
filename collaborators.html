@@ -1,28 +1,23 @@
 ---
 layout: default
-title: People
+title: Collaborators
 notitle: true
-role-tables:
-- - roles: [faculty]
+collab_types-tables:
+- - collab_types: [university]
     width: 4
     image: true
-- - roles: [grad]
-    width: 4
-    image: true
-- - roles: [ugrad]
-    width: 4
-    image: true
-- - roles: [collab]
+- - collab_types: [grad]
     width: 4
     image: true
 ---
 
 
-{% for role-table in page.role-tables %} {% for role-column in role-table %} {% for role-key in role-column.roles %} {% for
-role in site.roles %} {% if role.key == role-key %}
+{% for collab_types-table in page.collab_type-tables %} 
+{% for role-column in role-table %} {% for role-key in role-column.roles %} 
+{% for role in site.roles %} {% if role.key == role-key %}
 <div class="row">
-    <div class="col-lg-5" style="background-color: #33a5db; color: white; padding-top: 10px">
-        <h1>{{ role.name }}</h1>
+    <div class="col-lg-5" style="background-color: #000000; color: white; padding-top: 10px">
+        <h1>{{ collab_types.name }}</h1>
     </div>
 </div>
 <div class="card-columns role {{ role.key }}" style="padding-top: 15px">
