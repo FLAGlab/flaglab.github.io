@@ -10,27 +10,27 @@
 <div class="card">
     {% if project.notitle != true %}
     	<div class="card-header">
-	        <h5>{{  project.title }}</h5>
+	        <h5>{{ project.title }}</h5>
     	</div>
     {% endif %}
     <div class="card-body">
         
 	{% if project.image %}
-            {% assign imgurl = project.image %}
-            {% capture init %}{{ project.image | slice: 0,1 }}{% endcapture %}
-            {% if init == "/" %}
-                {% capture imgurl %}{{site.base}}{{project.image}}{% endcapture %}
-            {% endif %}
-            <div style="width: 100%; text-align: center">
-                <!-- <a href="{{ proj-url }}"> -->
-                    <img class="img-fluid mb-3 project-image" src="{{imgurl}}" alt="{{project.title}}"/>
-                <!-- </a> -->
-            </div>
+        {% assign imgurl = project.image %}
+        {% capture init %}{{ project.image | slice: 0,1 }}{% endcapture %}
+        {% if init == "/" %}
+            {% capture imgurl %}{{site.base}}{{project.image}}{% endcapture %}
+        {% endif %}
+        <div style="width: 100%; text-align: center">
+            <!-- <a href="{{ proj-url }}"> -->
+                <img class="img-fluid mb-3 project-image" src="{{imgurl}}" alt="{{project.title}}"/>
+            <!-- </a> -->
+        </div>
     {% endif %}
     {% if project.subtitle != null and project.subtitle != "" %}
         <h6 class="card-subtitle mb-2 text-muted">
-                {{  project.subtitle }}
-            </h6>
+            {{  project.subtitle }}
+        </h6>
     {% endif %}
         <div class="card-text">
             {{ project.description }}
@@ -40,7 +40,7 @@
         {% endif %}
     </div>
     {% if project.people %}
-        <div class="card-footer d-flex flex-row flex-wrap justify-content-center" style="background-color: #33a5db">
+        <div class="card-footer d-flex flex-row flex-wrap justify-content-center" style="background-color: #000000">
             {% for uname in project.people %}
                 <div>
                     {% assign person = site.data.people[uname]  %}

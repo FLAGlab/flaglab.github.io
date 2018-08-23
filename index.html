@@ -28,16 +28,14 @@ role-tables:
         <!--{% assign areas = site.researchareas  %} <!--| sort: 'order', 'first'
         {% assign areas = areas | reverse %} -->
         {% for a in site.researchareas %}
-            {% include project-card.html area = a %}
+            {% include area-card.html area = a %}
         {% endfor %}
     </div>
 </section>
 
 <section>
-    <div class="row">
-        <div class="col-lg-3" style="background-color: #000000; color: white">
-            <h3>News</h3>
-        </div>
-        <p>Twitter</p>
-    </div>
+    <h2>News</h2>
+    <br />
+    <a class="twitter-timeline" data-lang="en" data-theme="dark" href="https://twitter.com/FLaGlab&ref_src=twsrc%5Etfw" data-tweet-limit="8">FLAG news</a> 
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </section> 
