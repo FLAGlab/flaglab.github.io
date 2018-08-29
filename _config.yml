@@ -16,7 +16,7 @@ roles:
   - key: postdoc
     name: Post-docs
   - key: predoc
-    name: Doctoral Candidates
+    name: Doctoral Students
   - key: ugrad
     name: Students
   - key: alumni
