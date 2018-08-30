@@ -11,11 +11,13 @@ prof-rc:
     display_name: "Rodrigo Cardoso"
     image: img/people/fotoRodrigoCardoso.jpg
     role: labhead
+    bio: Associate Professor
 
 prof-jd:
     display_name: "Jorge Duitama"
     image: img/people/fotoJorgeDuitama.jpg
     role: labhead
+    bio: Assistant Professor
 
 prof-om:
     display_name: "Olga Mariño"
@@ -59,12 +61,12 @@ stu-SebastianSanchez:
     bio: MSc.
     topic: Distributed datastructures
 
-stu-Daniel:
-    display_name: Daniel
+stu-Danieltello:
+    display_name: Daniel Tello
     role: ugrad
     image:
     bio: MSc. MBC
-    topic:
+    topic: Genome sequencing
 
 stu-JuanManuelLovera:
     display_name: Juan Manuel Lovera
