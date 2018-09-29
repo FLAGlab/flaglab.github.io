@@ -37,7 +37,7 @@ phd-rubenManrique:
     display_name: "Ruben Manrique"
     webpage: ""
     role: predoc
-    bio: Ph.D. Student 
+    bio: 
     topic:
 
 stu-ChristianPoveda:
@@ -58,7 +58,7 @@ stu-SebastianSanchez:
     display_name: Sebastian Sanchez
     role: ugrad
     image:
-    bio: MSc.
+    bio: MSc. MISIS
     topic: Distributed datastructures
 
 stu-Danieltello:
@@ -106,5 +106,5 @@ stu-RafaelMantilla:
 alumni-jorgeCastro:
     display_name: "Jorge Castro"
     role: alumni
-    bio: Master in Software Engineering, 2018.
+    bio: Master of Software Engineering, 2018.
     now: Now at --.

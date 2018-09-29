@@ -1,7 +1,7 @@
 name: FLAG Research lab
 url: http://flaglab.github.io
 
-exclude: [bibble, README.md, Makefile, screenshot.png]
+exclude: [bibble, README.md, Makefile]
 
 # colorize code snippets with the pygments module
 highlighter: rouge
@@ -41,7 +41,9 @@ base: ''
 collections:
   projects:
     output: true
-  reserachareas:
+  researchareas:
+    output: true
+  thesistopics:
     output: true
   bib:
     output: true
@@ -50,13 +52,15 @@ collections:
 navigation:
   - title: Home
     link: /index.html
-  - title: Members
-    link: /members.html
   - title: Research Areas
     link: /research-areas.html
   - title: Publications
     link: /publications.html
+  - title: Members
+    link: /members.html  
   - title: Collaborators
     link: /collaborators.html
   - title: Artifacts
     link: /artifacts.html
+  - title: Thesis topics
+    link: /thesis.html
