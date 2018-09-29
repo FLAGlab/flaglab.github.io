@@ -29,18 +29,13 @@ role-tables:
     </div>
 </div>
 <div class="card-columns role {{ role.key }}" style="padding-top: 15px">
-    {% for item in site.data.people %} {% assign person = item[1] %} 
+    {% for item in site.data.people %} 
+    {% assign person = item[1] %} 
     {% if person.role == role.key %}
     {% if person.role == role.alumni %}
-        <div class="card bg-inverse">
-            <div class="card-img-overlay d-flex flex-column justify-content-end" style="padding: 0px">
-                <div style="background-color: #ffffffff; color: rgb(0, 0, 0); padding-left: 5px">
-                    <h5 class="card-title" style="margin-bottom: 0px">{{person.display_name}}</h5>
-                    <h6>{{person.bio}} - {{person.now}}</h6>
-                </div>
-            </div>
-        </div>
+        <h6>{{person.display_name}}: {{person.bio}} - {{person.now}}</h6>
     {% endif %}
+
     <a href="{{person.webpage}}">    
             <div class="card bg-inverse">
                 <img class="card-img" src="{{ site.base }}{{ person.image }}" alt="{{person.display_name}}">
