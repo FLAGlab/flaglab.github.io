@@ -1,0 +1,54 @@
+<table class="table">
+    <tbody>
+        {% assign undergrad_there = false %}
+        {% assign master_there = false %}
+        {% assign year = site.time | date: '%Y' | plus: 0 %}
+        {% for entry in site.thesistopics %}	
+        {% if entry.period >= year %}
+        <tr>
+            {% if entry.level == "undergrad" %}
+                {% if undergrad_there == false %}
+                <td>
+                    <span class="level">
+                        <big><strong>Undergrad theses</strong></big><br />
+                    </span>
+                </td>
+                {% assign undergrad_there = true %}
+                {% else %}	
+                <td></td>
+                {% endif %}
+            {% else %}
+                {% if master_there == false %}
+                <td>
+                    <span class="level">
+                        <big><strong>Master theses</strong></big><br />
+                    </span>
+                </td>
+                {% assign master_there = true %}
+                {% else %}	
+                <td></td>
+                {% endif %}
+            {% endif %}
+            <td class="topic">
+                <span class="thesis_title">
+                    {{ entry.title }}.
+                </span><br />
+                <span class="area">
+                    {{ entry.area }}
+                </span>
+                <span class="publisher"><strong>{{ entry.period }}</strong></span>.
+                
+                <br />
+                <!--
+                <div id="description_{{entry.fields['key']}}" class="description">
+                    {% capture mydescription %} {{ entry.description}} {% endcapture %} 
+                    {{ mydescription | escape }}
+                </div>
+                -->
+            </td>
+        </tr>
+        {% endif %}
+        {% endfor %} 
+    </tbody>
+    </table>
+    
