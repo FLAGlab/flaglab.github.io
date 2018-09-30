@@ -24,18 +24,12 @@ role-tables:
 
 <section>
     <h2>Research Areas</h2>
-    <div class="card-columns">
-        <!--{% assign areas = site.researchareas  %} <!--| sort: 'order', 'first'
-        {% assign areas = areas | reverse %} -->
-        {% for a in site.researchareas %}
-            {% include area-card.html area = a %}
-        {% endfor %}
-    </div>
+    {% include area-card.html %}
 </section>
 
 <section>
     <h2>News</h2>
     <br />
-    <a class="twitter-timeline" data-lang="en" data-theme="dark" href="https://twitter.com/FLaGlab&ref_src=twsrc%5Etfw" data-tweet-limit="8">FLAG news</a> 
+    <a class="twitter-timeline" data-lang="en" data-width="600" data-height="1100" data-dnt="true" data-theme="dark" href="https://twitter.com/FlaGlab?ref_src=twsrc%5Etfw">FlAGlab news</a> 
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </section> 
