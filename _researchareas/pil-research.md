@@ -1,7 +1,7 @@
 ---
 title: PiL
-image: /img/PiL-no-name.png
-description: Programming language implementations.
+image: img/PiL-no-name.png
+description: We work on programming language design and implementation to reduce the complexity of software development
 
 people:
   - prof-nc
