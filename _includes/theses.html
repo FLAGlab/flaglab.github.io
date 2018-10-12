@@ -30,21 +30,16 @@
                 {% endif %}
             {% endif %}
             <td class="topic">
+                <span class="publish_year"><strong>{{ entry.period }}</strong></span>.
                 <span class="thesis_title">
                     {{ entry.title }}.
-                </span><br />
-                <span class="area">
-                    {{ entry.area }}
                 </span>
-                <span class="publisher"><strong>{{ entry.period }}</strong></span>.
-                
-                <br />
-                <!--
-                <div id="description_{{entry.fields['key']}}" class="description">
-                    {% capture mydescription %} {{ entry.description}} {% endcapture %} 
-                    {{ mydescription | escape }}
-                </div>
-                -->
+                <p> <strong> Short description: </strong>  {{ entry.abstract }} </p>
+                <span class="promotors"><strong>Advisors: </strong> {{ entry.people }} </span>
+                <span class="area">
+                    -  <i>{{ entry.area }}</i>.
+                </span>
+                <a href="">Read more...</a>
             </td>
         </tr>
         {% endif %}
