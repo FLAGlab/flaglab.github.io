@@ -1,5 +1,5 @@
 ---
-title: Abstract interpretation of Rust subset
+title: Abstract interpretation of Rust Programs
 period: 2019
 level: master
 area: pil
@@ -18,3 +18,5 @@ The implemetation of the interpreter and unification of graphs should go as foll
 
 
 ### Background and Literature
+[1] Rust
+[2] Cesk
