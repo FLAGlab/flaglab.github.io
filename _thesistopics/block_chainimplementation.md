@@ -5,6 +5,7 @@ level: undergrad
 area: algorithms
 abstract: blockchain sucks. Imagine how famous you would get if you actually provide a good implementation of the underlaing data structures. Claim your fame, complete your thesis
 people: Nicolas Cardozo, Sebastían Sanchez
+file: block_chainimplementation
 ---
 
 ### Context

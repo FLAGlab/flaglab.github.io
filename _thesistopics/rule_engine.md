@@ -5,6 +5,7 @@ level: undergrad
 area: algorithms
 abstract: Implement a rule engine to build gamification experiences
 people: Nicolas Cardozo, Christian Poveda
+file: rule_engine
 ---
 
 ### Context

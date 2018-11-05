@@ -5,6 +5,7 @@ level: undergrad
 area: pil
 abstract: Implement different algorithms to automatically prove propositional logic formulas
 people: Nicolas Cardozo, Christian Poveda
+file: logic_prover
 ---
 
 ### Context
@@ -12,5 +13,6 @@ people: Nicolas Cardozo, Christian Poveda
  
 ### Objective
 
+### 
  
-## Supervision
+### Contact

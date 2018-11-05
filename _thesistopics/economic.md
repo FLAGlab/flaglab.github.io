@@ -5,6 +5,7 @@ level: master
 area: ai
 abstract: Use learning algorithms to study the variability of economic markets
 people: Nicolas Cardozo, David Perez-Reyna
+file: economic
 ---
 
 
