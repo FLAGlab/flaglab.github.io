@@ -31,5 +31,5 @@ The implemetation of the representation and unification algorithms should go as 
 - [1] The Rust Programming Language. Steve Klabnik and Carol Nichols, 2018.
 - [2] https://blog.rust-lang.org/2016/04/19/MIR.html
 - [3] https://github.com/rust-lang/rfcs/blob/master/text/1211-mir.md
-- [4] Cesk
+- [4] [Cesk] (http://matt.might.net/articles/cesk-machines/)
 - [5] https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-705.pdf
