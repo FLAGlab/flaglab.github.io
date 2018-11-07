@@ -28,5 +28,5 @@ This project will be based around studying algorithms to decide if a proposition
 - Computational complexity: A modern approach. Sanjeev Arora and Boaz Barak, 2007
 
 ### Contact
-n.cardozo\[at\]uniandes.edu.co
-cn.poveda542\[at\]uniandes.edu.co
+- Nicolás Cardozo: n.cardozo\[at\]uniandes.edu.co
+- Christian Poveda: cn.poveda542\[at\]uniandes.edu.co
