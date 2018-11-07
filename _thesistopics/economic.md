@@ -17,5 +17,5 @@ The objective of this project is to estimate the production function of firms to
  
 The algorithm and economic model will be applied to the case of Colombia for a variety of industries, showing that the proposed assessment can be used to analyze resource misallocation. In particular we will use information from the Colombian Manufacturing Survey.
  
-## Supervision
-This project will be supervised by Nicolás Cardozo and David Perez-Reyna (from the Department of Economics).
+### Supervision
+This project will be supervised by Nicolás Cardozo and David Perez-Reyna (from the Economics Department).

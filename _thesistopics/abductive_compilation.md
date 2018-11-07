@@ -19,11 +19,17 @@ The main objective of this project is to implement a new debugger equipped with 
 
 
 ### Implementation plan
-To implement the abductive debugger, we will use the Smalltalk language [2]. This decision is driven by the fully reflective system (e.g., Java reflaction) available in the language. Additionally we will use couple the debugger to with the __lively programming__ programming technique of Smalltalk, in which programs do not crash, but rather are paused, can be fix and continue without errors.
+To implement the abductive debugger[3,4], we will use the Smalltalk language [2]. This decision is driven by the fully reflective system (e.g., Java reflaction but well done) available in the language. Additionally we will couple the debugger to with the __lively programming__ programming technique of Smalltalk, in which programs do not crash, but rather are paused, can be fix and continue without errors.
 
 
 ### Background and Literature
-[1] Abductive reasoning
-[2] PharoSmalltalk
-[3] Abduction in Smalltalk
-[4] Debugger implementation
+[1] [Abductive reasoning](https://en.wikipedia.org/wiki/Abductive_reasoning)
+
+[2] [PharoSmalltalk](https://pharo.org)
+
+[3] [Abduction in Smalltalk](https://released.info.ucl.ac.be/pmwiki/uploads/Publications/DiagnosingAndCorrectingDesignInconsistenciesInSourceCodeWithLogicalAbduction/2010-scico-castro.pdf)
+
+[4] [Debugger implementation](http://www.sigops.org/s/conferences/sosp/2009/papers/glerum-sosp09.pdf)
+
+### Contact
+n.cardozo
