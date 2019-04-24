@@ -1,5 +1,6 @@
 ---
 title: Bioinformatics
+long-title: Bioinformatics Tools and ALgorithms
 image: img/bio.png
 description: We design new algorithms to solve bioinformatics problems
 
@@ -11,3 +12,4 @@ layout: areas
 order: 4
 ---
 
+We design new algorithms to solve bioinformatics problems
