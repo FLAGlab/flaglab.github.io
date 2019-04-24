@@ -31,11 +31,8 @@ role-tables:
 <div class="card-columns role {{ role.key }}" style="padding-top: 15px">
     {% for item in site.data.people %} 
     {% assign person = item[1] %} 
-    {% if person.role == role.key %}
-    {% if person.role == role.alumni %}
-        <h6>{{person.display_name}}: {{person.bio}} - {{person.now}}</h6>
-    {% endif %}
-
+    {% if role-key == person.role %} 
+    {% if person.role == "labhead" or person.role == "predoc" %}
     <a href="{{person.webpage}}">    
             <div class="card bg-inverse">
                 <img class="card-img" src="{{ site.base }}/{{ person.image }}" alt="{{person.display_name}}">
@@ -47,6 +44,19 @@ role-tables:
                 </div>
             </div>
         </a>
-    {% endif %} {% endfor %}
+    {% elsif person.role == "alumni" %}
+        <h6>{{person.display_name}}: {{person.bio}} - {{person.now}}</h6>
+    {% else %}
+        <div class="card bg-inverse">
+            <div class="card-img-overlay d-flex flex-column justify-content-end" style="padding: 0px">
+                <div style="background-color: #363636aa; color: white; padding-left: 5px">
+                    <h4 class="card-title" style="margin-bottom: 0px">{{person.display_name}}</h4>
+                    <h6>{{person.bio}}</h6>
+                </div>
+            </div>
+        </div>
+    {% endif %}
+    {% endif %}
+    {% endfor %}
 </div>
-{% endif %} {% endfor %} {% endfor %} {% endfor %} {% endfor %}
+{% endif %}{% endfor %} {% endfor %} {% endfor %} {% endfor %}
