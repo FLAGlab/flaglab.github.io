@@ -73,7 +73,7 @@
                         {% for item in site.data.people %}
                             {% assign person = item[1] %}
                             {% if person.id == p %}
-                                {{ person.display-name }}
+                                {{ person.display_name }} - 
                             {% endif %}
                         {% endfor %}
                         {% endfor %}
