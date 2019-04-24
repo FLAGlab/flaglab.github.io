@@ -1,5 +1,6 @@
 
 prof-nc:
+    id: "prof-nc"
     display_name: "Nicolás Cardozo"
     role: labhead
     webpage: "https://profesores.virtual.uniandes.edu.co/ncardozo/en/inicio-en/"
@@ -8,18 +9,21 @@ prof-nc:
     bio: Assistant Professor
 
 prof-rc:
+    id: "prof-rc"
     display_name: "Rodrigo Cardoso"
     image: img/people/fotoRodrigoCardoso.jpg
     role: labhead
     bio: Associate Professor
 
 prof-jd:
+    id: "prof-jd"
     display_name: "Jorge Duitama"
     image: img/people/fotoJorgeDuitama.jpg
     role: labhead
     bio: Assistant Professor
 
 prof-om:
+    id: "prof-om"
     display_name: "Olga Mariño"
     webpage: ""
     image: img/people/fotoOlgaMarino.jpg
@@ -27,6 +31,7 @@ prof-om:
     bio: Associate Professor
 
 prof-st:
+    id: "prof-st"
     display_name: "Silvia Takahashi"
     webpage: ""
     image: img/people/fotoSilviaTakahashi.jpg
@@ -34,6 +39,7 @@ prof-st:
     bio: Associate Professor
 
 prof-hn:
+    id: "prof-hn"
     display_name: "Haydemar Nuñez"
     webpage: ""
     image: img/people/fotoHaydemarNunez.jpg
@@ -41,6 +47,7 @@ prof-hn:
     bio: Visiting Professor
 
 phd-rubenManrique:
+    id: "phd-rubenManrique"
     display_name: "Ruben Manrique"
     image: img/people/fotoRubenManrique.jpg
     webpage: ""
