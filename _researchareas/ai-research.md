@@ -15,9 +15,8 @@ layout: areas
 order: 2
 ---
 
-<p>
-The Artificial Intelligence and Machine Learning research pillar at the FLAG lab, focuses in the development of cutting edge approaches for the advancement of this prommising domain.
+The Artificial Intelligence (AI) and Machine Learning research pillar at the FLAG lab, focuses in the development of cutting edge approaches for the advancement of this important domain. 
+Furthermore, we are interested in the intersection of AI and Machine Learning with other disciplines in the domain of computer science such as recomender systems, smart cities, Internet of Things
 
-We apply the proposed approaches in a variety of domains including computer aided learning, software verification, and programming languages.
-</p>
+We apply the proposed approaches in a variety of domains including technology enchanced learning, software verification, and programming languages.
 

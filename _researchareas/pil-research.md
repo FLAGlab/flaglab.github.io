@@ -12,7 +12,9 @@ layout: areas
 order: 1
 ---
 
-PiL focuses on the design an implementation of porgramming languages.
-DSLs
-Verification and type systems
-Adaptive systems and context-oriented porgramming (COP)
+The PiL pilar of the FLAGlab on the design and implementation of new programming languages and paradigms for the development of new generation software systems.
+
+Our work focuses in the developping Domain Specific Languages (DSLs), type systems, and the
+verification and validation of software sytems at the programming language level.
+
+Our main application domain is adaptive systems for smart cities, context-oriented porgramming (COP) languages, and other engineering domains.
