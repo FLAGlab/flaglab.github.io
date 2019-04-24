@@ -35,7 +35,7 @@ collab_types:
 front_page_news: 0
 
 # Base pathname for links.
-base: ''
+base: 'http://flaglab.github.io'
 
 # make pages for the _projects folder
 collections:
