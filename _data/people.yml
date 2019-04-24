@@ -33,6 +33,13 @@ prof-st:
     role: labhead
     bio: Associate Professor
 
+prof-hn:
+    display_name: "Haydemar Nuñez"
+    webpage: ""
+    image: img/people/fotoHaydemarNunez.jpg
+    role: labhead
+    bio: Visiting Professor
+
 phd-rubenManrique:
     display_name: "Ruben Manrique"
     image: img/people/fotoRubenManrique.jpg
