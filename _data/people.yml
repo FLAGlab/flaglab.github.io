@@ -76,40 +76,33 @@ stu-SebastianSanchez:
     bio: MSc. MISIS
     topic: Distributed datastructures
 
-stu-Danieltello:
-    display_name: Daniel Tello
+stu-Felipe Cueto:
+    display_name: Felipe Cueto
     role: ugrad
     image:
-    bio: MSc. MBC
-    topic: Genome sequencing
-
-stu-JuanManuelLovera:
-    display_name: Juan Manuel Lovera
-    role: ugrad
-    image:
-    bio: B.Eng.
-    topic:
-
-stu-TomasVenegas:
-    display_name: Tomas Venegas
-    role: ugrad
-    image:
-    bio: B.Eng.
-    topic:
-
-stu-JuanDChaves:
-    display_name: Juan Diego Chaves
-    role: ugrad
-    image:
-    bio: B.Eng.
-    topic: Defeasible logic
-
-stu-JuanCamiloBages:
-    display_name: Juan Camilo Bages
-    role: ugrad
-    image:
-    bio: B.Eng.
+    bio: MSc. MISIS
     topic: 
+
+stu-DivaMartinez:
+    display_name: Diva Martinez
+    role: ugrad
+    image:
+    bio: MSc. MINE
+    topic: Datastream processing
+
+stu-JuanSosa:
+    display_name: Juan Sebastian Sosa
+    role: ugrad
+    image:
+    bio: B. Eng.
+    topic: Distributed Context Petri nets
+
+stu-JoseFanidino:
+    display_name: Jose Daniel Fandiño de la Hoz
+    role: ugrad
+    image:
+    bio: B. Eng
+    topic: Distributed Context Petri nets
 
 stu-RafaelMantilla:
     display_name: Rafael Mantilla
@@ -122,4 +115,28 @@ alumni-jorgeCastro:
     display_name: "Jorge Castro"
     role: alumni
     bio: Master of Software Engineering, 2018.
+    now: Now at --.
+
+alumni-JuanManuelLovera:
+    display_name: Juan Manuel Lovera
+    role: alumni
+    bio: B.Eng.
+    now: Now at --.
+
+alumni-TomasVenegas:
+    display_name: Tomas Venegas
+    role: alumni
+    bio: B.Eng.
+    now: Now at --.
+
+alumni-JuanDChaves:
+    display_name: Juan Diego Chaves
+    role: alumni
+    bio: B.Eng.
+    now: Now at --.
+
+alumni-JuanCamiloBages:
+    display_name: Juan Camilo Bages
+    role: alumni
+    bio: B.Eng.
     now: Now at --.
