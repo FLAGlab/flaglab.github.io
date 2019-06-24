@@ -1,0 +1,56 @@
+<table class="table">
+    <tbody>
+        {% assign bio = false %}
+        {% assign pil = false %}
+        {% assign algo = false %}
+        {% assign ai = false %}
+        {% for entry in site.artifacts %}	
+            <tr>
+                {% if entry.area == "PiL" and pil == false %}
+                <td>
+                    <span class="area">
+                        <big><strong>{{ entry.area }}</strong></big><br />
+                    </span>
+                    {% assign pil = true %}
+                </td>
+                {% else if entry.area == "Bioinformatics" and bio == false%}
+                <td>
+                    <span class="area">
+                        <big><strong>{{ entry.area }}</strong></big><br />
+                    </span>
+                    {% assign bio = true %}
+                </td>
+                {% else if entry.area == "Algorithms" and algo == false %}
+                <td>
+                    <span class="area">
+                        <big><strong>{{ entry.area }}</strong></big><br />
+                    </span>
+                    {% assign algo = true %}
+                </td>
+                {% else if entry.area == "A.I." and ai == false%}
+                <td>
+                    <span class="area">
+                        <big><strong>{{ entry.area }}</strong></big><br />
+                    </span>
+                    {% assign ai = true %}
+                </td>
+                {% else %}
+                <td></td>
+                {% endif %}
+                <td class="artifact">
+                    <span class="artifact-name">
+                        {{ entry.title }}: <a href="{{ entry.link }}">{{ entry.link }}</a>
+                    </span><br />
+                    <div id="abstract_{{entry.fields['title']}}" class="abstract">
+                        {% capture myabstract %} {{ entry.abstract }} {% endcapture %} 
+                        {{ myabstract | escape }}
+                    </div><br />
+                    <span class="people">
+                        {{ entry.people }}
+                    </span>
+                </td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
+    
