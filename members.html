@@ -47,14 +47,8 @@ role-tables:
     {% elsif person.role == "alumni" %}
         <h6>{{person.display_name}}: {{person.bio}} - {{person.now}}</h6>
     {% else %}
-        <div class="card bg-inverse">
-            <div class="card-img-overlay d-flex flex-column justify-content-end" style="padding: 0px">
-                <div style="background-color: #363636aa; color: white; padding-left: 5px">
-                    <h4 class="card-title" style="margin-bottom: 0px">{{person.display_name}}</h4>
-                    <h6>{{person.bio}}</h6>
-                </div>
-            </div>
-        </div>
+        <h4 class="card-title" style="margin-bottom: 0px">{{person.display_name}}</h4>
+        <h6>{{person.bio}}</h6>
     {% endif %}
     {% endif %}
     {% endfor %}
