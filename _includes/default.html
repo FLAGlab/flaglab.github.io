@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>{{ site.name }}: {{ page.title }}</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet"
+              href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
+              integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb"
+              crossorigin="anonymous">
+        <link rel="stylesheet"
+              href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="{{ site.base }}/css/group.css">
+        <!--<link rel="shortcut icon" href="{{site.base}}/img/tsdl.ico" type="image/x-icon">-->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+            <div class="container" style="font-size: 1.35em !important;">
+                <div class="navbar-brand" style="font-size: 1.3em !important;">
+                </div>
+                <div class="collapse navbar-collapse">
+                    <ul class="navbar-nav ml-auto">
+                        {% assign shorturl = page.url | replace:'.html','' | replace:'index','' %}
+                        {% for item in site.navigation %}
+
+                            {% assign itemshorturl = item.link | replace:'.html','' %}
+
+                            {% assign maybe-active = '' %}
+                            {% if item.title == 'Research Areas' and page.layout == 'project' %}
+                                {% assign maybe-active = 'active' %}
+                            {% endif %}
+                            {% if itemshorturl == shorturl or is-research %}
+                                {% assign maybe-active = 'active' %}
+                            {% endif %}
+
+                            <li class="nav-item {{ maybe-active }}" >
+                                <a class="nav-link"
+                                href="{{ site.base }}/{{ item.link }}">
+                                    {{ item.title }}
+                                </a>
+                            </li>
+
+                        {% endfor %}
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <div class="container body-container" style="padding-top: 20px">
+            <!-- This is a bit nasty, but it basically says be a column first, and on larger screens be a spaced out row -->
+            {% if page.image %}
+            <div class="row" style="padding-top: 15px">
+                <div class="col-sm-12 col-md-12 col-lg-12">
+                    <img src="{{site.base}}/{{ page.image }}" alt="{{ page.title }}" id="pageImage" class="img-fluid mx-auto d-block mb-4" />
+                </div>
+            </div>
+            {% endif %}
+            {% if page.jumbotron %}
+            <div class="row" style="padding-top: 1px">
+                <div class="col-sm-12 col-md-12 col-lg-12">
+                        <p>
+                            The FLAG research lab is part of the 
+                            <a href="http://sistemas.uniandes.edu.co">Systems and Computing Engineering</a> department 
+                            at <a href="http://uniandes.edu.co">Universidad de los Andes</a>. 
+                            Our research focuses on the Foundations, Languages, Artificial intelligence, and Algorithms of computer programming.
+                        </p>
+                </div>
+            </div>
+            {% endif %}
+
+            {% if page.notitle != true %}
+                <div class="row" style="padding-top: 15px">
+                    <div class="col-sm-12 col-md-12 col-lg-12">
+                        <h1>{{ page.title }}</h1>
+                    </div>
+                </div>
+                
+            {% endif %}
+
+            {{ content }}
+
+        </div> <!-- /container -->
+        <br />
+        <div style="text-align: center;">
+            Universidad de los Andes | Vigilada Mineducaci&oacute;n<br> 
+            Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964.<br> 
+            Reconocimiento personer&iacute;a jur&iacute;dica: Resoluci&oacute;n 28 del 23 de febrero de 1949 Minjusticia <br> 
+            Edificio Mario Laserna Cra 1Este No 19A - 40 Bogot&aacute; (Colombia) | Tel: [571] 3394949 Ext: 2860, 2861, 2862 | Fax: [571] 3324325 <br> 
+            © {{ site.time | date: '%Y'}} - <a href="/">Departamento de Ingenier&iacute;a de Sistemas y Computaci&oacute;n</a>
+        </div>
+        <!-- Support retina images. -->
+    </body>
+
+    <script type="text/javascript"
+    src="{{ site.base }}js/srcset-polyfill.js"></script>
+</html>
