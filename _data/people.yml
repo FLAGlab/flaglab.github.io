@@ -52,29 +52,14 @@ phd-rubenManrique:
     image: img/people/fotoRubenManrique.jpg
     webpage: ""
     role: predoc
-    bio: 
     topic:
 
-stu-ChristianPoveda:
-    display_name: Christian Poveda
+# MASTER
+stu-JorgeHernandez:
+    display_name: Jorge Hernandez
     role: ugrad
-    image:
     bio: MSc. MISIS
-    topic: Dependent types
-
-stu-JairoAriza:
-    display_name: Jairo Ariza
-    role: ugrad
-    image:
-    bio: MSc. MINE
-    topic: Service matching
-
-stu-SebastianSanchez:
-    display_name: Sebastian Sanchez
-    role: ugrad
-    image:
-    bio: MSc. MISIS
-    topic: Distributed datastructures
+    topic: Embedded adaptive programming languages
 
 stu-Felipe Cueto:
     display_name: Felipe Cueto
@@ -90,6 +75,7 @@ stu-DivaMartinez:
     bio: MSc. MINE
     topic: Datastream processing
 
+# UNDERGRADS 
 stu-JuanSosa:
     display_name: Juan Sebastian Sosa
     role: ugrad
@@ -97,46 +83,67 @@ stu-JuanSosa:
     bio: B. Eng.
     topic: Distributed Context Petri nets
 
-stu-JoseFanidino:
-    display_name: Jose Daniel Fandiño de la Hoz
-    role: ugrad
-    image:
-    bio: B. Eng
-    topic: Distributed Context Petri nets
-
 stu-RafaelMantilla:
     display_name: Rafael Mantilla
     role: ugrad
     image:
     bio: B.Eng.
-    topic: Dynamic symbolic execution
+    topic: Parametrization of adaptation learning
+
+# PAST 
+alumni-JairoAriza:
+    display_name: Jairo Ariza
+    role: alumni
+    bio: MSc. MINE
+    topic: Service matching
 
 alumni-jorgeCastro:
     display_name: "Jorge Castro"
     role: alumni
     bio: Master of Software Engineering, 2018.
-    now: Now at --.
+    now: 
 
 alumni-JuanManuelLovera:
     display_name: Juan Manuel Lovera
     role: alumni
     bio: B.Eng.
-    now: Now at --.
+    now: 
 
 alumni-TomasVenegas:
     display_name: Tomas Venegas
     role: alumni
     bio: B.Eng.
-    now: Now at --.
+    now: 
 
 alumni-JuanDChaves:
     display_name: Juan Diego Chaves
     role: alumni
     bio: B.Eng.
-    now: Now at --.
+    now: 
 
 alumni-JuanCamiloBages:
     display_name: Juan Camilo Bages
     role: alumni
-    bio: B.Eng.
-    now: Now at --.
+    bio: Bachelor of Engineering, 2018.
+    now: 
+
+alumni-ChristianPoveda:
+    display_name: Christian Poveda
+    role: alumni
+    bio: Master of Engineering, Systems and Computing engineering, 2019. 
+    topic: Dependent types
+    now: Now at Fermilab
+
+alumni-JoseFanidino:
+    display_name: Jose Daniel Fandiño de la Hoz
+    role: alumni
+    bio: Bachelor of Engineering, 2019.
+    topic: Distributed Context Petri nets
+    now: Now at Google
+
+alumni-SebastianSanchez:
+    display_name: Sebastian Sanchez
+    role: alumni
+    bio: Master of Engineering, Systems and Computing Engineering, 2019.
+    topic: Distributed datastructures
+    now: 
