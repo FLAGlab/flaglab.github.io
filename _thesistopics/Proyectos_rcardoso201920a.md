@@ -1,7 +1,7 @@
 ---
 title: Validación estadística de Software
 period: 2019
-level: Pregrado, Maestría
+level: master, undergrad
 area: software_testing
 abstract: Uso de métodos estadísticos para validación de sw. A partir de conocer las distribuciones de probabilidad de los datos de un método se pueden realizar experimentos estadísticos que permitan establecer la corrección con alguna certeza deseada. Se quiere establecer el número de experimentos que se deben realizar y llevarlos a cabo de manera automática. La corrección de una clase o de un sistema de sw se puede establecer a partir de la de los métodos.
 people: 1+
