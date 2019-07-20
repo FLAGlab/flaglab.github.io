@@ -5,7 +5,7 @@ level: undergrad
 area: pil
 abstract: New programming models require new ways to interact with your programs. Here we will explore a new IDE for the definition of adaptive systems using Context Traits.
 people: Nicolas Cardozo
-file: 
+file: copnide_ncardozo
 ---
 
 ### Context

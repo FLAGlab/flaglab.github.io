@@ -5,7 +5,7 @@ level: undergrad
 area: ai
 abstract: Recomendación de productos académicos para investigadores
 people: Olga Mariño
-file: 
+file: papers_omarino
 ---
 
 ### Context

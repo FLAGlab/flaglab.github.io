@@ -5,7 +5,7 @@ level: undergrad
 area: ai
 abstract: La deserción académica es uno de los problemas más grandes que enfrentan las universidades. Con técnicas de machine learning y web semántica queremos desarrollarun sistema para detección temprana de riesgo de deserción académica universitaria.
 people: Olga Mariño
-file: 
+file: desertion_omarino
 ---
 
 ### Context
