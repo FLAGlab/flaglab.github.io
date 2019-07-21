@@ -4,7 +4,7 @@ period: 2019
 level: undergrad
 area: Software Testing
 abstract: Calificación automática de tareas de programación. Se plantean casos de prueba aleatoriamente generados. Se califica según los casos de prueba aprobados. Requiere conocimiento estadístico de los datos (para generar casos de prueba). La evaluación de resultados se hace contra un oráculo (un sw que se sabe correcto, como una solución oficial de la tarea).
-people: 1-2
+people: Rodrigo Cardoso (1-2 estudiantes)
 file: Proyectos_rcardoso201920b
 ---
 
