@@ -1,6 +1,6 @@
 ---
 title: A Better Blockchain for All
-period: 2019
+period: 2020
 level: undergrad
 area: algorithms
 abstract: blockchain sucks. Imagine how famous you would get if you actually provide a good implementation of the underlaing data structures. Claim your fame, complete your thesis
