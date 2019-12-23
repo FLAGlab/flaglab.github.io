@@ -1,6 +1,6 @@
 ---
 title: Abductive Debuggers for Program (self) Explanation
-period: 2019
+period: 2020
 level: master
 area: pil
 abstract: Debuggers provide localized information whenever an error is detected in the system. However, such information provides little to no information explaining the cause of the error. This thesis aims to implement a debugger that explains the resons why code braeks and helps you to solve them.
