@@ -1,6 +1,6 @@
 ---
 title: Make Gold great again!
-period: 2019
+period: 2020
 level: undergrad
 area: pil
 abstract: Gold has been used in the LyM course for the past years. Gold can be extended with different automatons. The idea is to determine what extensions are worthy and to implement and deploy the new  version of Gold.

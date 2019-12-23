@@ -1,6 +1,6 @@
 ---
 title: Automated logic prover
-period: 2019
+period: 2020
 level: undergrad
 area: pil
 abstract: Implement different algorithms to automatically prove propositional logic formulas
