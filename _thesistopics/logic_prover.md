@@ -4,7 +4,7 @@ period: 2020
 level: undergrad
 area: pil
 abstract: Implement different algorithms to automatically prove propositional logic formulas
-people: Nicolas Cardozo, Christian Poveda
+people: Nicolas Cardozo
 file: logic_prover
 ---
 
@@ -28,5 +28,5 @@ This project will be based around studying algorithms to decide if a proposition
 - Computational complexity: A modern approach. Sanjeev Arora and Boaz Barak, 2007
 
 ### Contact
-- Nicolás Cardozo: n.cardozo\[at\]uniandes.edu.co
-- Christian Poveda: cn.poveda542\[at\]uniandes.edu.co
+- n.cardozo\[at\]uniandes.edu.co
+

@@ -20,13 +20,13 @@ This partial view on these systems makes bug diagnosis hard. While one could sim
 ### Project proposal
 The objective of this project is to develop techniques based on abductive reasoning that automatically analyze available run time and log information and provide a higher-level explanation of, for instance, the reason for an exception. This will simplify reproduction and error diagnosis, therefore reducing the cost of bug fixes.
 
-Specifically, abductive reasoning will enable us to utilize contextual information of an error and infer possible causes across microservices by combining the information fragments available from logging as well as the runtime state at the point in which the exception is detected. In a first step, we will instrument a dynamic language runtime such as TruffleRuby to be able to access runtime state on errors as well as to identify which program statements correspond to specific log entries. Then, we will apply abductive reasoning to utilize the information to identify the root-cause of a fault. For this research, we have access to the Ruby source code and issue tracking system of our industrial partners, which allows us to work with real bugs to develop novel abductive reasoning techniques.
+Specifically, abductive reasoning [5,1] will enable us to utilize contextual information of an error and infer possible causes across microservices by combining the information fragments available from logging as well as the runtime state at the point in which the exception is detected. In a first step, we will instrument a dynamic language runtime such as TruffleRuby to be able to access runtime state on errors as well as to identify which program statements correspond to specific log entries. Then, we will apply abductive reasoning to utilize the information to identify the root-cause of a fault. For this research, we have access to the Ruby source code and issue tracking system of our industrial partners, which allows us to work with real bugs to develop novel abductive reasoning techniques.
 
 
 ### Implementation plan
 For this purpose, we rely on previous work on diagnosis and correction of inconsistencies between source code and documentation rules [1], which demonstrates the use of abductive reasoning to detect and correct inconsistencies in source code. Additionally, the use of abductive reasoning has also proven beneficial in dynamic software updates [3] using a process similar to that of abductive reasoning. We will also utilize our previous work on low-overhead tracing [2] and dynamic runtime systems as foundation. This will be especially relevant for an application in microservice environments and its use in production systems.
 
-The project will be implemented in Ruby, and it'll be validated using an industrial case study.
+The project will be implemented in Ruby, and it will be validated using an industrial case study.
 
 
 ### Background and Literature

@@ -23,3 +23,6 @@ This thesis will explore Software Module theory (SMT) approximations to the exam
 
 ### Background and Literature
 - [1] [Oscar](https://www.info.ucl.ac.be/~pschaus/oscardoc/oscar-cp.html)
+
+### Contact
+- n.cardozo

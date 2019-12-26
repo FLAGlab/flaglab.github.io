@@ -25,7 +25,7 @@ On top of the technical work, the thesis development will (ideally) be accompani
 This project will be based on the implementations of Gold as an internal DSL in the Scala programming language. To do this, you will have to follow these stepes.
 1. Get familiar with Scala and DSL definitions in Scala
 2. Port the basic ideas of the data structures and algorithms currently implemented in GOLD to the new DSL
-3. Extend GOLD with new 
+3. Extend GOLD with new features to ease the development of automata nad Turing machines
 
 ### Background and Literature
 [1] Gold - [thesis](https://profesores.virtual.uniandes.edu.co/~isis1106/dokuwiki/lib/exe/fetch.php?media=tutoriales:gold3_documento.pdf)

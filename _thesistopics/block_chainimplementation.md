@@ -4,7 +4,7 @@ period: 2020
 level: undergrad
 area: algorithms
 abstract: blockchain sucks. Imagine how famous you would get if you actually provide a good implementation of the underlaing data structures. Claim your fame, complete your thesis
-people: Nicolas Cardozo, Sebastían Sanchez
+people: Nicolas Cardozo
 file: block_chainimplementation
 ---
 
@@ -36,11 +36,10 @@ The implementation of the project will be in Go [1].
 Once the implementation of GHOST is finished, you will have to provide.
 
 ### Background and Literature
-[1] https://golang.org
-[2] X. Xu et al., “A Taxonomy of Blockchain-Based Systems for Architecture Design,” in 2017 IEEE International Conference on Software Architecture (ICSA), 2017, pp. 243–252.
-[3] https://eprint.iacr.org/2013/881.pdf
+- [1] https://golang.org
+- [2] X. Xu et al., “A Taxonomy of Blockchain-Based Systems for Architecture Design,” in 2017 IEEE International Conference on Software Architecture (ICSA), 2017, pp. 243–252.
+- [3] https://eprint.iacr.org/2013/881.pdf
 
 
 ### Contact
-Sebastián - s.sanchez59
-Nicolas - n.cardozo
+- n.cardozo
