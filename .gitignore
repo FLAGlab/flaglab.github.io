@@ -1,5 +1,7 @@
 _site
 _includes/pubs.html
-/test-deploy.sh
-/_thesistopics/template.md
-/.vscode
+test-deploy.sh
+_thesistopics/template.md
+.vscode
+venv
+.jekyll-cache
