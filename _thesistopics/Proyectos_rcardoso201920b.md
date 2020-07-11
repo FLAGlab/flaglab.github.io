@@ -9,17 +9,25 @@ file: Proyectos_rcardoso201920b
 ---
 
 ### Context
+
 Evaluación de tareas de programación, v.gr., los cursos de APO
 
 ### Project proposal
-Automatización de la corrección de tareas 
+
+Automatización de la corrección de tareas
 
 ### Implementation plan
+
 Se plantea al definir el alcance del proyecto. Las etapas podróan ser:
 1 problemas determinísticos sencillos 
 2 problemas mo determinísticos sencillos
 3 problemas interactivos  
 
 ### Background and Literature
+
 Experiencia en evaluaci+on de proiblemas en maratones de programación.
 Software libre asociado con este problema
+
+### Contact
+
+rcardoso

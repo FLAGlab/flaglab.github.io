@@ -38,7 +38,7 @@ In order to successfully implement this project you are required to
 
 ### Background and Literature
 
-[1] Natural Language Processing for Online Applications: Text retrieval, extraction and categorization. 
+[1] Natural Language Processing for Online Applications: Text retrieval, extraction and categorization.
 [2] Combining NLP Approaches for Rule Extraction from Legal Documents - https://hal.archives-ouvertes.fr/hal-01572443/
 
 ### Contact

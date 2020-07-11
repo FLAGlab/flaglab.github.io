@@ -1,10 +1,10 @@
 ---
-title: Slack responder
+title: Professor Slacker
 period: 2020
 level: undergrad 
 area: ai
 abstract: Implement a slack bot to help beginer programmers resolving programming questions
-people: Nicolas Cardozo 
+people: Nicolas Cardozo, Mario Sanchez 
 file: slack_programmer
 ---
 
