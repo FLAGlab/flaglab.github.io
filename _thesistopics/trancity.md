@@ -1,7 +1,7 @@
 ---
 title: TranCity simulator
 period: 2020 
-level: undergad
+level: undergrad
 area: pil
 abstract: Implementation of a transport management system simulator 
 people: Nicolas Cardozo
@@ -22,7 +22,7 @@ The implementation of the project consists in fully building the simulator for T
 
 ### Background and Literature
 
-[1] https://github.com/FLAGlab/TransportManager
+[1] <https://github.com/FLAGlab/TransportManager>
 
 ### Contact
 
