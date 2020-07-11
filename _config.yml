@@ -31,9 +31,6 @@ collab_types:
 # Number of news stories on the front page.
 front_page_news: 0
 
-# Base pathname for links.
-base: 'http://flaglab.github.io'
-
 # make pages for the _projects folder
 collections:
   projects:
@@ -50,16 +47,16 @@ collections:
 # Navigation bar links.
 navigation:
   - title: Home
-    link: /index.html
+    link: index.html
   - title: Research Areas
-    link: /research-areas.html
+    link: research-areas.html
   - title: Publications
-    link: /publications.html
+    link: publications.html
   - title: Members
-    link: /members.html  
+    link: members.html
   - title: Collaborators
-    link: /collaborators.html
+    link: collaborators.html
   - title: Artifacts
-    link: /artifacts.html
+    link: artifacts.html
   - title: Thesis topics
-    link: /thesis.html
+    link: thesis.html
