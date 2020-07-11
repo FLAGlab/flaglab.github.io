@@ -1,6 +1,6 @@
 ---
 title: Evaluación de tareas con oráculos
-period: 2019
+period: 2020
 level: undergrad
 area: Software Testing
 abstract: Calificación automática de tareas de programación. Se plantean casos de prueba aleatoriamente generados. Se califica según los casos de prueba aprobados. Requiere conocimiento estadístico de los datos (para generar casos de prueba). La evaluación de resultados se hace contra un oráculo (un sw que se sabe correcto, como una solución oficial de la tarea).
