@@ -10,6 +10,7 @@ people:
   - prof-nc
   - prof-hn
   - phd-rubenManrique
+  - stu-JuanSosa
   
 layout: areas
 order: 2
@@ -22,7 +23,3 @@ These approaches are applied in a variety of domains including technology enchan
 We are actively working on Reinforcement Learning (RL) techniques in collaboration with the Science Foundation Ireland center for research training in AI, Trinity College Dublin, and the [Software Design lab](https://thesoftwaredesignlab.github.io) at Uniandes.
 
 To check out our current work you can check our dedicated [github repositories](https://github.com/orgs/FLAGlab/teams/ai)
-
-#### PIs
-
-Olga Mariño - Silvia Takahashi - Haydemar Nuñez - Nicolas Cardozo

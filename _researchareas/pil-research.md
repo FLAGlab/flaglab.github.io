@@ -20,7 +20,3 @@ verification and validation of software sytems at the programming language level
 Our main application domain is adaptive systems for smart cities, context-oriented porgramming (COP) languages, and other engineering domains.
 
 To check out our current work you can check our dedicated [github repositories](https://github.com/orgs/FLAGlab/teams/pil)
-
-#### PIs
-
-Silvia Takahashi - Nicolas Cardozo

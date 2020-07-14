@@ -68,21 +68,14 @@ stu-Felipe Cueto:
     bio: MSc. MISIS
     topic: 
 
-stu-DivaMartinez:
-    display_name: Diva Martinez
-    role: ugrad
-    image:
-    bio: MSc. MINE
-    topic: Datastream processing
-
-# UNDERGRADS 
 stu-JuanSosa:
     display_name: Juan Sebastian Sosa
     role: ugrad
     image:
-    bio: B. Eng.
-    topic: Distributed Context Petri nets
+    bio: MSc. Misis
+    topic: Reinforcementl learning
 
+# UNDERGRADS 
 stu-RafaelMantilla:
     display_name: Rafael Mantilla
     role: ugrad
@@ -147,3 +140,10 @@ alumni-SebastianSanchez:
     bio: Master of Engineering, Systems and Computing Engineering, 2019.
     topic: Distributed datastructures
     now: 
+
+alumni-DivaMartinez:
+    display_name: Diva Martinez
+    role: alumni
+    image:
+    bio: MSc. MINE
+    topic: Datastream processing
