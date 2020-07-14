@@ -9,6 +9,7 @@ file: abductive_compilation
 ---
 
 ### Context
+
 In modern microservices applications it is hard to replicate and debug issues, because they need to rely on basic logging of each of its parts to diagnose an issue. We will develop novel techniques to automatically reason about the system to provide more descriptive logging information by augmenting it with additional context and high-level information to facilitate debugging and issue resolution.
 
 Today’s software systems are built from various parts, often spanning multiple programs that communicate remotely with each other forming microservice architectures. Such architectures have many benefits for scalability and decoupling. However, they also increase the complexity of the system. For example, when using asynchronous messages to communicate between two microservices, if an error occurs, it becomes more difficult to pinpoint the cause of the error as none of the microservices have complete information about the computation.
