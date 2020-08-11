@@ -1,4 +1,4 @@
-<div class="row">
+<div class="row" style="width: 100%;">
     <div class="divtitle">
         <h1>Research artifacts</h1>
     </div>
@@ -68,44 +68,9 @@
 </div>
 <table class="table">
     <tbody>
-        {% assign bio = false %}
-        {% assign pil = false %}
-        {% assign algo = false %}
-        {% assign ai = false %}
-{% for entry in site.artifacts %}	
-    {% if entry.type == "teaching" %}
-    <tr>
-        {% if entry.area == "PiL" and pil == false %}
-        <td>
-            <span class="area">
-                <big><strong>{{ entry.area }}</strong></big><br />
-            </span>
-            {% assign pil = true %}
-        </td>
-        {% else if entry.area == "Bioinformatics" and bio == false%}
-        <td>
-            <span class="area">
-                <big><strong>{{ entry.area }}</strong></big><br />
-            </span>
-            {% assign bio = true %}
-        </td>
-        {% else if entry.area == "Algorithms" and algo == false %}
-        <td>
-            <span class="area">
-                <big><strong>{{ entry.area }}</strong></big><br />
-            </span>
-            {% assign algo = true %}
-        </td>
-        {% else if entry.area == "A.I." and ai == false%}
-        <td>
-            <span class="area">
-                <big><strong>{{ entry.area }}</strong></big><br />
-            </span>
-            {% assign ai = true %}
-        </td>
-        {% else %}
-        <td></td>
-        {% endif %}
+    {% for entry in site.artifacts %}	
+        {% if entry.type == "teaching" %}
+        <tr> 
         <td class="artifact">
             <span class="artifact-name">
                 {{ entry.title }}: <a href="{{ entry.link }}">{{ entry.link }}</a>
@@ -118,8 +83,8 @@
                 {{ entry.people }}
             </span>
         </td>
-    </tr>
-    {% endif %}
-{% endfor %}    
-</tbody>
+        </tr>
+        {% endif %}
+    {% endfor %}    
+    </tbody>
 </table>
