@@ -1,5 +1,5 @@
 <div class="row" style="width: 100%;">
-    <div class="divtitle">
+    <div class="col-lg-5" style="background-color: #000000; color: white; padding-top: 10px; width: 100%;">
         <h1>Research artifacts</h1>
     </div>
 </div>
@@ -80,7 +80,14 @@
                 {{ myabstract | escape }}
             </div><br />
             <span class="people">
-                {{ entry.people }}
+                {%for p in entry.people %}
+                    {% for item in site.data.people %}
+                        {% assign person = item[1] %}
+                        {% if person.id == p %}
+                            {{ person.display_name }}, 
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
             </span>
         </td>
         </tr>
