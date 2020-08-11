@@ -6,6 +6,12 @@
     font-size: 0.8em;
 }
 
+.divtitle {
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
 .header {
     display: none;
 }
