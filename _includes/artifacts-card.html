@@ -4,7 +4,13 @@
         {% assign pil = false %}
         {% assign algo = false %}
         {% assign ai = false %}
+        <div class="row">
+            <div class="col-lg-5" style="background-color: #000000; color: white; padding-top: 10px; width: 100%;">
+                <h1>Research artifacts</h1>
+            </div>
+        </div>
         {% for entry in site.artifacts %}	
+            {% if entry.type == "research" %}
             <tr>
                 {% if entry.area == "PiL" and pil == false %}
                 <td>
@@ -50,6 +56,61 @@
                     </span>
                 </td>
             </tr>
+            {% endif %}
+        {% endfor %}
+        <div class="row">
+            <div class="col-lg-5" style="background-color: #000000; color: white; padding-top: 10px; width: 100%;">
+                <h1>Educational artifacts</h1>
+            </div>
+        </div>
+        {% for entry in site.artifacts %}	
+            {% if entry.type == "teaching" %}
+            <tr>
+                {% if entry.area == "PiL" and pil == false %}
+                <td>
+                    <span class="area">
+                        <big><strong>{{ entry.area }}</strong></big><br />
+                    </span>
+                    {% assign pil = true %}
+                </td>
+                {% else if entry.area == "Bioinformatics" and bio == false%}
+                <td>
+                    <span class="area">
+                        <big><strong>{{ entry.area }}</strong></big><br />
+                    </span>
+                    {% assign bio = true %}
+                </td>
+                {% else if entry.area == "Algorithms" and algo == false %}
+                <td>
+                    <span class="area">
+                        <big><strong>{{ entry.area }}</strong></big><br />
+                    </span>
+                    {% assign algo = true %}
+                </td>
+                {% else if entry.area == "A.I." and ai == false%}
+                <td>
+                    <span class="area">
+                        <big><strong>{{ entry.area }}</strong></big><br />
+                    </span>
+                    {% assign ai = true %}
+                </td>
+                {% else %}
+                <td></td>
+                {% endif %}
+                <td class="artifact">
+                    <span class="artifact-name">
+                        {{ entry.title }}: <a href="{{ entry.link }}">{{ entry.link }}</a>
+                    </span><br />
+                    <div id="abstract_{{entry.fields['title']}}" class="abstract">
+                        {% capture myabstract %} {{ entry.abstract }} {% endcapture %} 
+                        {{ myabstract | escape }}
+                    </div><br />
+                    <span class="people">
+                        {{ entry.people }}
+                    </span>
+                </td>
+            </tr>
+            {% endif %}
         {% endfor %}
     </tbody>
 </table>
