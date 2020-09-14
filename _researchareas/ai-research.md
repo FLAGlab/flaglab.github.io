@@ -20,6 +20,10 @@ The Artificial Intelligence (AI) and Machine Learning (ML) research pillar at th
 Furthermore, we are interested in the intersection of AI and Machine Learning with other disciplines in the domain of computer science such as recomender systems, smart cities, and the Internet of Things, to mention a few.
 These approaches are applied in a variety of domains including technology enchanced learning, software verification, and programming languages.
 
+### Reinforcement Learning
+
 We are actively working on Reinforcement Learning (RL) techniques in collaboration with the Science Foundation Ireland center for research training in AI, Trinity College Dublin, and the [Software Design lab](https://thesoftwaredesignlab.github.io) at Uniandes.
 
-To check out our current work you can check our dedicated [github repositories](https://github.com/orgs/FLAGlab/teams/ai)
+#### Get into the code
+
+To check out our current work you can go to our dedicated [github repositories](https://github.com/orgs/FLAGlab/teams/ai)
