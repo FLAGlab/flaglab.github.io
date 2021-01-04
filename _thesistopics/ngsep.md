@@ -1,6 +1,6 @@
 ---
 title: Desarrollo de software para bioinformática
-period: 2020
+period: 2021
 level: undergrad
 area: bioinformatics
 abstract: Se buscan estudiantes que quieran trabajar en bioinformática contribuyendo de diferentes maneras con el desarrollo del software NGSEP 
@@ -25,9 +25,11 @@ De manera alternativa, también busco un estudiante que contribuya a mejorar la 
 
 ### Implementation plan
 
+A ser discutido con el asesor
 
 ### Background and Literature
 
 
 ### Contact
+
 ja.duitama
