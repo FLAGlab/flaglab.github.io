@@ -25,10 +25,10 @@ De manera alternativa, también busco un estudiante que contribuya a mejorar la 
 
 ### Implementation plan
 
-A ser discutido con el asesor
+A ser discutido con el asesor.
+Disponibilidad para dos estudiantes.
 
 ### Background and Literature
-
 
 ### Contact
 

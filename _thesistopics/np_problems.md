@@ -1,5 +1,5 @@
 ---
-title: Exact approximation to NP-problmes
+title: Exact approximation of NP-problems
 period: 2021 
 level: undergrad
 area: algorithms
