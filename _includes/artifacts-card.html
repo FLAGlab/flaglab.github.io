@@ -50,9 +50,16 @@
                     <div id="abstract_{{entry.fields['title']}}" class="abstract">
                         {% capture myabstract %} {{ entry.abstract }} {% endcapture %} 
                         {{ myabstract | escape }}
-                    </div><br />
+                    </div>
                     <span class="people">
-                        {{ entry.people }}
+                        People: {%for p in entry.people %}
+                            {% for item in site.data.people %}
+                                {% assign person = item[1] %}
+                                {% if person.id == p %}
+                                    {{ person.display_name }}, 
+                                {% endif %}
+                            {% endfor %}
+                        {% endfor %}
                     </span>
                 </td>
             </tr>
@@ -78,9 +85,9 @@
             <div id="abstract_{{entry.fields['title']}}" class="abstract">
                 {% capture myabstract %} {{ entry.abstract }} {% endcapture %} 
                 {{ myabstract | escape }}
-            </div><br />
+            </div>
             <span class="people">
-                {%for p in entry.people %}
+                People: {%for p in entry.people %}
                     {% for item in site.data.people %}
                         {% assign person = item[1] %}
                         {% if person.id == p %}
