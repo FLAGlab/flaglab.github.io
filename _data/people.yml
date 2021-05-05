@@ -11,6 +11,7 @@ prof-nc:
 prof-rc:
     id: "prof-rc"
     display_name: "Rodrigo Cardoso"
+    webpage: "https://profesores.virtual.uniandes.edu.co/rcardoso/en/inicio-en/"
     image: img/people/fotoRodrigoCardoso.jpg
     role: labhead
     bio: Associate Professor
@@ -18,6 +19,7 @@ prof-rc:
 prof-jd:
     id: "prof-jd"
     display_name: "Jorge Duitama"
+    webpage: "https://profesores.virtual.uniandes.edu.co/jaduitama/en/inicio-en/"
     image: img/people/fotoJorgeDuitama.jpg
     role: labhead
     bio: Assistant Professor
@@ -25,7 +27,7 @@ prof-jd:
 prof-om:
     id: "prof-om"
     display_name: "Olga Mariño"
-    webpage: ""
+    webpage: "https://profesores.virtual.uniandes.edu.co/olmarino/en/inicio-en/"
     image: img/people/fotoOlgaMarino.jpg
     role: labhead
     bio: Associate Professor
@@ -33,7 +35,7 @@ prof-om:
 prof-st:
     id: "prof-st"
     display_name: "Silvia Takahashi"
-    webpage: ""
+    webpage: "https://profesores.virtual.uniandes.edu.co/stakahas/en/inicio-en/"
     image: img/people/fotoSilviaTakahashi.jpg
     role: labhead
     bio: Associate Professor
@@ -61,18 +63,11 @@ stu-JorgeHernandez:
     bio: MSc. MISIS
     topic: Embedded adaptive programming languages
 
-stu-Felipe Cueto:
-    display_name: Felipe Cueto
-    role: ugrad
-    image:
-    bio: MSc. MISIS
-    topic: 
-
 stu-JuanSosa:
     display_name: Juan Sebastian Sosa
     role: ugrad
     image:
-    bio: MSc. Misis
+    bio: MSc. MISIS
     topic: Reinforcementl learning
 
 # UNDERGRADS 
@@ -84,6 +79,13 @@ stu-RafaelMantilla:
     topic: Parametrization of adaptation learning
 
 # PAST 
+alumni-Felipe Cueto:
+    display_name: Felipe Cueto
+    role: ugrad
+    image:
+    bio: MSc. MISIS, 2020
+    topic: 
+
 alumni-JairoAriza:
     display_name: Jairo Ariza
     role: alumni
@@ -93,7 +95,7 @@ alumni-JairoAriza:
 alumni-jorgeCastro:
     display_name: "Jorge Castro"
     role: alumni
-    bio: Master of Software Engineering, 2018.
+    bio: MSc. MISO, 2018.
     now: 
 
 alumni-JuanManuelLovera:
@@ -117,33 +119,26 @@ alumni-JuanDChaves:
 alumni-JuanCamiloBages:
     display_name: Juan Camilo Bages
     role: alumni
-    bio: Bachelor of Engineering, 2018.
+    bio: B.Eng, 2018.
     now: Now at Stripe
 
 alumni-ChristianPoveda:
     display_name: Christian Poveda
     role: alumni
-    bio: Master of Engineering, Systems and Computing engineering, 2019. 
+    bio: MSc. MISIS
     topic: Dependent types
-    now: Now at Fermilab
+    now: 
 
 alumni-JoseFanidino:
     display_name: Jose Daniel Fandiño de la Hoz
     role: alumni
-    bio: Bachelor of Engineering, 2019.
+    bio: B.Eng, 2019.
     topic: Distributed Context Petri nets
     now: Now at Google
 
 alumni-SebastianSanchez:
     display_name: Sebastian Sanchez
     role: alumni
-    bio: Master of Engineering, Systems and Computing Engineering, 2019.
+    bio: MSc. MISIS, 2019.
     topic: Distributed datastructures
     now: 
-
-alumni-DivaMartinez:
-    display_name: Diva Martinez
-    role: alumni
-    image:
-    bio: MSc. MINE
-    topic: Datastream processing
