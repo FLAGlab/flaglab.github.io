@@ -48,8 +48,8 @@ collections:
 navigation:
   - title: Home
     link: index.html
-  - title: Research Areas
-    link: research-areas.html
+#  - title: Research Areas
+#    link: research-areas.html
   - title: Publications
     link: publications.html
   - title: Members
