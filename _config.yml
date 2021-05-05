@@ -60,5 +60,5 @@ navigation:
     link: artifacts.html
   - title: Thesis topics
     link: thesis.html
-  - vacancies: Vacancies
+  - title: Vacancies
     link: vacancies.html
