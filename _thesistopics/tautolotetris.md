@@ -1,6 +1,6 @@
 ---
 title: Tautolotetris
-period: 2020
+period: 2021
 level: undergrad
 area: pil
 abstract: Develop a propositional logic-based tetris game 

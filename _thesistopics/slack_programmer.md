@@ -1,9 +1,9 @@
 ---
 title: Professor Slacker
-period: 2020
+period: 2021
 level: undergrad 
 area: ai
-abstract: Implement a slack bot to help beginer programmers resolving programming questions
+abstract: Implement a slack bot to help beginer programmers to solve python programming questions
 people: Nicolas Cardozo, Mario Sanchez 
 file: slack_programmer
 ---
