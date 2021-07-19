@@ -4,7 +4,7 @@ period: 2021
 level: undergrad
 area: pil
 abstract: Extend the grammar of a mobile language to include features strictly related to the UI. 
-people: n.cardozo
+people: Nicolas Cardozo
 file: ui-parser
 ---
 
