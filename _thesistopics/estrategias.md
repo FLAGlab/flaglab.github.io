@@ -1,7 +1,7 @@
 ---
 title: Estrategias de preservación de lenguas indígenas Colombianas usando estrategias de Procesamiento de Lenguaje Natural 
-period: master 
-level: 2021
+period: 2021 
+level: master
 area: ai
 abstract: 
 people: Ruben Manrique
