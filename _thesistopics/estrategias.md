@@ -22,7 +22,7 @@ A ser discutido con el asesor
 
 ### Background and Literature
 
-- [The First Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)][http://turing.iimas.unam.mx/americasnlp/call.html]
+- [The First Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)](http://turing.iimas.unam.mx/americasnlp/call.html)
 
 ### Contact
 

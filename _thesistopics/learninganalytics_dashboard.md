@@ -22,9 +22,9 @@ A ser discutido con el asesor.
 
 ### Background and Literature
 
-[A Teacher-facing Learning Analytics Dashboard for Process-oriented Feedback in Online Learning | LAK21: 11th International Learning Analytics and Knowledge Conference][https://dl.acm.org/doi/10.1145/3448139.3448187]
+[A Teacher-facing Learning Analytics Dashboard for Process-oriented Feedback in Online Learning | LAK21: 11th International Learning Analytics and Knowledge Conference](https://dl.acm.org/doi/10.1145/3448139.3448187)
 
-[Factors that affect the success of learning analytics dashboards][https://link.springer.com/article/10.1007/s11423-019-09693-0]
+[Factors that affect the success of learning analytics dashboards](https://link.springer.com/article/10.1007/s11423-019-09693-0)
 
 ### Contact
 

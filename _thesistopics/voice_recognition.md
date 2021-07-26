@@ -22,7 +22,7 @@ A ser discutido con el asesor.
 
 ### Background and Literature
 
-- [Racial disparities in automated speech recognition - pnas.org - pnas.org][https://www.pnas.org/content/117/14/7684]
+- [Racial disparities in automated speech recognition - pnas.org.](https://www.pnas.org/content/117/14/7684)
 
 ### Contact
 

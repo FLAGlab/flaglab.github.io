@@ -1,5 +1,5 @@
 ---
-title: Search as learning: Learning to Rank for Educational Search Engines
+title: Search as learning, Learning to Rank for Educational Search Engines
 period: 2021 
 level: master
 area: ai
@@ -22,9 +22,9 @@ A ser discutido con el asesor.
 
 ### Background and Literature
 
-- [Learning to Rank for Educational Search Engines | IEEE Journals & Magazine.][https://ieeexplore.ieee.org/document/9416797]
+- [Learning to Rank for Educational Search Engines | IEEE Journals & Magazine.](https://ieeexplore.ieee.org/document/9416797)
 
-- [Current Challenges for Studying Search as Learning Processes][https://www.tib.eu/fileadmin/Daten/dokumente/forschung-entwicklung/LILE_Workshop_SALIENT_position_paper.pdf]
+- [Current Challenges for Studying Search as Learning Processes](https://www.tib.eu/fileadmin/Daten/dokumente/forschung-entwicklung/LILE_Workshop_SALIENT_position_paper.pdf)
 
 ### Contact
 

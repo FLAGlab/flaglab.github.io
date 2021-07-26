@@ -22,7 +22,7 @@ A ser discutido con el asesor
 
 ### Background and Literature
 
-- [ASVspoof][https://www.asvspoof.org/]
+- [ASVspoof](https://www.asvspoof.org/)
 
 ### Contact
 

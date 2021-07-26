@@ -18,7 +18,7 @@ Este proyecto tiene por objetivo explorar la data generada por diferentes portal
 
 ### Implementation plan
 
- A ser discutido con el asesor.
+A ser discutido con el asesor.
 
 ### Contact
 

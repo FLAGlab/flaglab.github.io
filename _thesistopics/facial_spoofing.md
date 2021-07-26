@@ -22,7 +22,7 @@ A ser discutido con el asesor
 
 ### Background and Literature
 
-- [Face Anti-spoofing Challenge - Challenge@CVPR2020][https://sites.google.com/qq.com/face-anti-spoofing/welcome/challengecvpr2020]
+- [Face Anti-spoofing Challenge - Challenge@CVPR2020](https://sites.google.com/qq.com/face-anti-spoofing/welcome/challengecvpr2020)
 
 ### Contact
 

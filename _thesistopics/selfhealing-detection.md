@@ -3,7 +3,7 @@ title: Self-healing Detection mechanisms
 period: 2021 
 level: master
 area: pil
-abstract: 
+abstract: Detect points of failure for running programs and generate the infrastructure to fix them automatically
 people: Nicolas Cardozo
 file: selfhealing-detection
 ---

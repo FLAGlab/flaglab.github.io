@@ -14,7 +14,7 @@ Para la construcción de modelos semánticos, uno de los procesos de preparació
 
 ### Project proposal
 
-Este proyecto busca desarrollar una plataforma que permita gestionar el proceso de anotación semántica de documentos y videos, integrando herramientas existentes para extracción de entidades y vinculación a grafos de conocimiento, extracción de lenguaje hablado de videos, y diversas herramientas libres para extracción de texto de documentos (e.g., word, pdf).
+Este proyecto busca desarrollar una plataforma que permita gestionar el proceso de anotación semántica de documentos y videos, integrando herramientas existentes para extracción de entidades y vinculación a grafos de conocimiento, extracción de lenguaje hablado de videos, y diversas herramientas libres para extracción de texto de documentos (e.g., txt, word, pdf).
 
 ### Implementation plan
 
