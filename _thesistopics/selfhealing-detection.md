@@ -1,5 +1,5 @@
 ---
-title: 
+title: Self-healing Detection mechanisms
 period: 2021 
 level: master
 area: pil
