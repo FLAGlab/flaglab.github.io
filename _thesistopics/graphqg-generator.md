@@ -1,6 +1,6 @@
 ---
-title: GraphQl Generator
-period: 2021  
+title: GraphQL Generator
+period: 2022  
 level: undergrad 
 area: pil
 abstract: Build a framework to generate random information on top of GraphQL
