@@ -20,7 +20,6 @@ The game is similar to tetris, where different propositional letters (e.g., p, q
 
 The project consists in developpping the game and its interaction. The game implementation can be done either on a web or mobile platform
 
-
 ### Background and Literature
 
 [1] MEL, [notas del curso]

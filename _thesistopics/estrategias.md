@@ -1,6 +1,6 @@
 ---
 title: Estrategias de preservación de lenguas indígenas Colombianas usando estrategias de Procesamiento de Lenguaje Natural 
-period: 2021 
+period: 2022 
 level: master
 area: ai
 abstract: 
