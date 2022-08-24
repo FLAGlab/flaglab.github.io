@@ -48,10 +48,42 @@ prof-hn:
     role: labhead
     bio: Visiting Professor
 
-phd-rubenManrique:
-    id: "phd-rubenManrique"
+prof-rubenManrique:
+    id: "prof-rm"
     display_name: "Ruben Manrique"
     image: img/people/fotoRubenManrique.jpg
+    webpage: ""
+    role: labhead
+    topic:
+
+phd-MateoSanabria:
+    id: "phd-mateoSanabria"
+    display_name: "Mateo Sanabria"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: predoc
+    topic:
+
+phd-JCSanguino:
+    id: "phd-jcSanguino"
+    display_name: "Juan Camilo Sanguino"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: predoc
+    topic:
+
+phd-LauraGonzalez:
+    id: "phd-LauraGonzalez"
+    display_name: "Laura Gonzalez"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: predoc
+    topic:
+
+phd-JorgeDiaz:
+    id: "phd-JorgeDiaz"
+    display_name: "Jorge Diaz"
+    image: img/people/temp.jpg
     webpage: ""
     role: predoc
     topic:
