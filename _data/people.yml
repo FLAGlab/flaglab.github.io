@@ -8,14 +8,6 @@ prof-nc:
     image: img/people/fotoNicolasCardozo.jpg
     bio: Assistant Professor
 
-prof-rc:
-    id: "prof-rc"
-    display_name: "Rodrigo Cardoso"
-    webpage: "https://profesores.virtual.uniandes.edu.co/rcardoso/en/inicio-en/"
-    image: img/people/fotoRodrigoCardoso.jpg
-    role: labhead
-    bio: Associate Professor
-
 prof-jd:
     id: "prof-jd"
     display_name: "Jorge Duitama"
@@ -88,89 +80,11 @@ phd-JorgeDiaz:
     role: predoc
     topic:
 
-# MASTER
-stu-JorgeHernandez:
-    display_name: Jorge Hernandez
-    role: ugrad
-    bio: MSc. MISIS
-    topic: Embedded adaptive programming languages
 
-stu-JuanSosa:
-    display_name: Juan Sebastian Sosa
-    role: ugrad
-    image:
-    bio: MSc. MISIS
-    topic: Reinforcementl learning
-
-# UNDERGRADS 
-stu-RafaelMantilla:
-    display_name: Rafael Mantilla
-    role: ugrad
-    image:
-    bio: B.Eng.
-    topic: Parametrization of adaptation learning
-
-# PAST 
-alumni-Felipe Cueto:
-    display_name: Felipe Cueto
-    role: ugrad
-    image:
-    bio: MSc. MISIS, 2020
-    topic: 
-
-alumni-JairoAriza:
-    display_name: Jairo Ariza
-    role: alumni
-    bio: MSc. MINE
-    topic: Service matching
-
-alumni-jorgeCastro:
-    display_name: "Jorge Castro"
-    role: alumni
-    bio: MSc. MISO, 2018.
-    now: 
-
-alumni-JuanManuelLovera:
-    display_name: Juan Manuel Lovera
-    role: alumni
-    bio: B.Eng.
-    now: 
-
-alumni-TomasVenegas:
-    display_name: Tomas Venegas
-    role: alumni
-    bio: B.Eng.
-    now: 
-
-alumni-JuanDChaves:
-    display_name: Juan Diego Chaves
-    role: alumni
-    bio: B.Eng.
-    now: 
-
-alumni-JuanCamiloBages:
-    display_name: Juan Camilo Bages
-    role: alumni
-    bio: B.Eng, 2018.
-    now: Now at Stripe
-
-alumni-ChristianPoveda:
-    display_name: Christian Poveda
-    role: alumni
-    bio: MSc. MISIS
-    topic: Dependent types
-    now: 
-
-alumni-JoseFanidino:
-    display_name: Jose Daniel Fandiño de la Hoz
-    role: alumni
-    bio: B.Eng, 2019.
-    topic: Distributed Context Petri nets
-    now: Now at Google
-
-alumni-SebastianSanchez:
-    display_name: Sebastian Sanchez
-    role: alumni
-    bio: MSc. MISIS, 2019.
-    topic: Distributed datastructures
-    now: 
+exprof-rc:
+    id: "exprof-rc"
+    display_name: "Rodrigo Cardoso"
+    webpage: "https://profesores.virtual.uniandes.edu.co/rcardoso/en/inicio-en/"
+    image: img/people/fotoRodrigoCardoso.jpg
+    role: ff
+    bio: Associate Professor
