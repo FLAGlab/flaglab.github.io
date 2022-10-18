@@ -6,7 +6,7 @@ prof-nc:
     webpage: "https://profesores.virtual.uniandes.edu.co/ncardozo/en/inicio-en/"
     github: ncardozo
     image: img/people/fotoNicolasCardozo.jpg
-    bio: Assistant Professor
+    bio: Associate Professor
 
 prof-jd:
     id: "prof-jd"
@@ -14,7 +14,7 @@ prof-jd:
     webpage: "https://profesores.virtual.uniandes.edu.co/jaduitama/en/inicio-en/"
     image: img/people/fotoJorgeDuitama.jpg
     role: labhead
-    bio: Assistant Professor
+    bio: Associate Professor
 
 prof-om:
     id: "prof-om"
