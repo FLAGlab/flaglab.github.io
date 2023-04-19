@@ -1,5 +1,5 @@
 ---
-title: MCI: Minimal Circular Intersection Algorithm
+title: MCI. Minimal Circular Intersection Algorithm
 period: 2023
 level: undergrad
 area: algo
