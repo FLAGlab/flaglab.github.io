@@ -2,8 +2,8 @@
   <div class="row">
     {% for a in site.researchareas %}
     <div class="col-12 col-sm-5 col-lg card m-2 p-2">
-        <div class="card-header text-center">
-          <img class="{{ a.title }}" src="{{ a.image }}" width="40%"/>
+        <div class="card-header text-center" style="background-color: white;">
+          <img class="{{ a.title }}" src="{{ a.image }}" style="aspect-ratio: 1/1;" width="40%"/>
         </div>
         <div class="card-body">
           <strong class="card-title">{{ a.title }} </strong>

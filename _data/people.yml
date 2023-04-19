@@ -35,7 +35,7 @@ prof-st:
 prof-hn:
     id: "prof-hn"
     display_name: "Haydemar Nuñez"
-    webpage: ""
+    webpage: "https://profesores.virtual.uniandes.edu.co/hnunez/en/inicio-en/"
     image: img/people/fotoHaydemarNunez.jpg
     role: labhead
     bio: Visiting Professor
@@ -44,9 +44,9 @@ prof-rubenManrique:
     id: "prof-rm"
     display_name: "Ruben Manrique"
     image: img/people/fotoRubenManrique.jpg
-    webpage: ""
+    webpage: "https://profesores.virtual.uniandes.edu.co/rfmanrique/en/inicio-en/"
     role: labhead
-    topic:
+    bio: Assistant Professor  
 
 phd-MateoSanabria:
     id: "phd-mateoSanabria"
@@ -54,7 +54,7 @@ phd-MateoSanabria:
     image: img/people/temp.jpg
     webpage: ""
     role: predoc
-    topic:
+    bio: Graduate assistant
 
 phd-JCSanguino:
     id: "phd-jcSanguino"
@@ -62,7 +62,7 @@ phd-JCSanguino:
     image: img/people/temp.jpg
     webpage: ""
     role: predoc
-    topic:
+    bio: Graduate assistant
 
 phd-LauraGonzalez:
     id: "phd-LauraGonzalez"
@@ -70,7 +70,7 @@ phd-LauraGonzalez:
     image: img/people/temp.jpg
     webpage: ""
     role: predoc
-    topic:
+    bio: Graduate assistant
 
 phd-JorgeDiaz:
     id: "phd-JorgeDiaz"
@@ -78,7 +78,7 @@ phd-JorgeDiaz:
     image: img/people/temp.jpg
     webpage: ""
     role: predoc
-    topic:
+    bio: Graduate assistant
 
 
 exprof-rc:

@@ -18,7 +18,7 @@ role-tables:
 {% for role in site.roles %} 
 {% if role.key == role-key %}
 <div class="row">
-    <div class="col-lg-5" style="background-color: #000000; color: white; padding-top: 10px; width: 100%;">
+    <div class="col-lg-5" style="background-color: #000000; color: white; padding-top: 10px; width: 100%">
         <h1>{{ role.name }}</h1>
     </div>
 </div>
@@ -27,9 +27,9 @@ role-tables:
     {% assign person = item[1] %} 
     {% if role-key == person.role %} 
     {% if person.role == "labhead" or person.role == "predoc" %}
-    <a href="{{person.webpage}}">    
-            <div class="card bg-inverse">
-                <img class="card-img" src="{{ site.base }}/{{ person.image }}" alt="{{person.display_name}}">
+    <a href="{{person.webpage}}" target="_blank">
+            <div class="card bg-inverse" >
+                <img class="card-img" style="aspect-ratio: 1/1;" src="{{ site.base }}/{{ person.image }}" alt="{{person.display_name}}">
                 <div class="card-img-overlay d-flex flex-column justify-content-end" style="padding: 0px">
                     <div style="background-color: #363636aa; color: white; padding-left: 5px">
                         <h4 class="card-title" style="margin-bottom: 0px">{{person.display_name}}</h4>
@@ -47,4 +47,5 @@ role-tables:
     {% endif %}
     {% endfor %}
 </div>
+<br> <br> 
 {% endif %}{% endfor %} {% endfor %} {% endfor %} {% endfor %}
