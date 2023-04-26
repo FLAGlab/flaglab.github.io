@@ -51,10 +51,10 @@ prof-rubenManrique:
 phd-MateoSanabria:
     id: "phd-mateoSanabria"
     display_name: "Mateo Sanabria"
-    image: img/people/temp.jpg
+    image: img/people/fotoMateoSanabria.png
     webpage: ""
     role: predoc
-    bio: Graduate assistant
+    bio: Doctoral Teaching assistant
 
 phd-JCSanguino:
     id: "phd-jcSanguino"
@@ -80,6 +80,29 @@ phd-JorgeDiaz:
     role: predoc
     bio: Graduate assistant
 
+other-DanielBarrero:
+    id: "other-DanielBarrero"
+    display_name: "Daniel Barrero"
+    image: img/people/fotoDanielBarrero.jpg
+    webpage: ""
+    role: others
+    bio: Instructor
+
+other-JuanCastaneda:
+    id: "other-JuanCastaneda"
+    display_name: "Juan Fernando Castañeda"
+    image: img/people/fotoJuanCastaneda.jpg
+    webpage: ""
+    role: others
+    bio: Master's teaching assistant
+
+other-SebastianLemmus:
+    id: "other-SebastianLemmus"
+    display_name: "Sebastián Lemmus"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: others
+    bio: Master's student
 
 exprof-rc:
     id: "exprof-rc"

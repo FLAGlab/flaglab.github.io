@@ -1,4 +1,4 @@
-name: FLAG Research lab
+name: FLAG Research Lab
 url: http://flaglab.github.io
 
 exclude: [bibble, README.md, Makefile]
@@ -20,6 +20,8 @@ roles:
     name: Alumni
   - key: collab
     name: Collaborators
+  - key: others
+    name: Other members
 
 # Sections on the "collaborators" page.
 collab_types:
