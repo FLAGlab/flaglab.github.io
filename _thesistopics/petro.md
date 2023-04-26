@@ -6,6 +6,7 @@ area: pil
 abstract: We are going to implement new an interesting was of interaction for Petri nets
 people: Nicolas Cardozo
 file: petro
+layout: default
 ---
 
 ### Context

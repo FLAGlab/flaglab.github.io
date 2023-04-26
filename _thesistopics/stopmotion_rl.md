@@ -6,6 +6,7 @@ area: ai
 abstract: Building a timeline of historic events from images
 people: Nicolas Cardozo
 file: stopmotion_rl
+layout: default
 ---
 
 ### Context

@@ -6,6 +6,7 @@ area: algo
 abstract: While python is very popular for ML development, it is also very slow to fulfill such purpose. We need to implement popular network libraries in faster languages.
 people: Nicolas Cardozo, Mario Linares
 file: fast_bayes
+layout: default
 ---
 
 ### Context

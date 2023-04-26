@@ -6,6 +6,7 @@ area: ai
 abstract: RL agents have been widely used to play simple atari games, but can they cope with more complex ones?
 people: Nicolas Cardozo
 file: net_fighting
+layout: default
 ---
 
 ### Context
@@ -27,8 +28,7 @@ The implementation cycle for each algorithm will include:
 - Performance evaluation
 
 ### Background and Literature
-
-- [1] <https://d1wqtxts1xzle7.cloudfront.net/38529120/9780262257053_index-libre.pdf?1440112186=&response-content-disposition=inline%3B+filename%3DReinforcement_Learning_index_Index.pdf&Expires=1671474017&Signature=NY2Na7w~vl5DAQwAnnpu~Xcn1cvw-qnOjAdUMznPIJKdksFhY8k13rsWtBMnkcy8FeJpPEs-DpSq-ym-ADc8jsAiTeo4knkp~XA1aXXsFjR8ukCr2LzJGrTWxBiCiYJUazuA-gjEP9woTrnvjIR10pUuKmLGZcuGnEFBjqIxQwS3euNzKFbakzkK4ZETktoXi5xgvJ6aBPlSTzwU5GNfE4C2lX3St2eZpwsIsIIxi5Eh5~FRGZwztmhkgHDLBJPZDAbgrOrVUkzI~VCjS9pY0AF~cCTlZzoTN74VO0dGcgxxMoHwIz9t94USh7X92fvZoWGQFjZfxv8M~pqpGNAM6w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA>
+[//]: <> (Link muerto. - [1] <https://d1wqtxts1xzle7.cloudfront.net/38529120/9780262257053_index-libre.pdf?1440112186=&response-content-disposition=inline%3B+filename%3DReinforcement_Learning_index_Index.pdf&Expires=1671474017&Signature=NY2Na7w~vl5DAQwAnnpu~Xcn1cvw-qnOjAdUMznPIJKdksFhY8k13rsWtBMnkcy8FeJpPEs-DpSq-ym-ADc8jsAiTeo4knkp~XA1aXXsFjR8ukCr2LzJGrTWxBiCiYJUazuA-gjEP9woTrnvjIR10pUuKmLGZcuGnEFBjqIxQwS3euNzKFbakzkK4ZETktoXi5xgvJ6aBPlSTzwU5GNfE4C2lX3St2eZpwsIsIIxi5Eh5~FRGZwztmhkgHDLBJPZDAbgrOrVUkzI~VCjS9pY0AF~cCTlZzoTN74VO0dGcgxxMoHwIz9t94USh7X92fvZoWGQFjZfxv8M~pqpGNAM6w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA>)
 - [2] <https://arxiv.org/pdf/1701.07274.pdf?source=post_page--------------------------->
 
 ### Contact

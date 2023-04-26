@@ -6,6 +6,7 @@ area: algo
 abstract: Visualization is important for the success of informtive software. Setting a correct layout can change the perception of a result from simple to complex. We will improve the visualization of circular layouts.
 people: Nicolas Cardozo, Jorge Duitama
 file: circular_intersection
+layout: default
 ---
 
 ### Context
