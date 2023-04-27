@@ -6,6 +6,7 @@ area: algo
 abstract: Creating a new architecture for the Pepper API interface
 people: Nicolas Cardozo
 file: ros_architecture
+layout: default
 ---
 
 ### Context

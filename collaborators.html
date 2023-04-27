@@ -11,28 +11,33 @@ collab_types-tables:
     image: true
 ---
 
-
-{% for collab_types-table in page.collab_type-tables %} 
-{% for role-column in role-table %} {% for role-key in role-column.roles %} 
-{% for role in site.roles %} {% if role.key == role-key %}
+{% for collab_types-table in page.collab_types-tables %} 
+{% for collab_types-column in collab_types-table %} 
+{% for collab_types-key in collab_types-column.collab_types %} 
+{% for collab_types in site.collab_types %} 
+{% if collab_types.key == collab_types-key %}
 <div class="row">
     <div class="col-lg-5" style="background-color: #000000; color: white; padding-top: 10px">
         <h1>{{ collab_types.name }}</h1>
     </div>
 </div>
-<div class="card-columns role {{ role.key }}" style="padding-top: 15px">
-    {% for item in site.data.people %} {% assign person = item[1] %} {% if person.role == role.key %}
-    <a href="{{person.webpage}}">
-        <div class="card bg-inverse">
-            <img class="card-img" src="{{ site.base }}{{ person.image }}" alt="{{person.display_name}}">
-            <div class="card-img-overlay d-flex flex-column justify-content-end" style="padding: 0px">
-                <div style="background-color: #363636aa; color: white; padding-left: 5px">
-                    <h4 class="card-title" style="margin-bottom: 0px">{{person.display_name}}</h4>
-                    <h6>{{person.bio}}</h6>
+<div class="row">
+    {% for item in site.data.collaborators %} 
+    {% assign collaborator = item[1] %} 
+    {% if collab_types-key == collaborator.collab_type %}
+    <div class="col-md-6 {{ collab_types.key }}" style="padding-top: 15px">
+        <a href="{{collaborator.webpage}}" target="_blank">
+            <div class="card bg-inverse" >
+                <img class="card-img" style="aspect-ratio: 2/1;" src="{{ site.base }}/{{ collaborator.image }}" alt="{{collaborator.name}}">
+                <div class="card-img-overlay d-flex flex-column justify-content-end" style="padding: 0px">
+                    <div style="background-color: #363636aa; color: white; padding-left: 5px">
+                        <h4 class="card-title" style="margin-bottom: 0px">{{collaborator.name}}</h4>
+                    </div>
                 </div>
             </div>
-        </div>
-    </a>
-    {% endif %} {% endfor %}
+        </a>
+    </div>
+    {% endif %} 
+    {% endfor %}
 </div>
 {% endif %} {% endfor %} {% endfor %} {% endfor %} {% endfor %}

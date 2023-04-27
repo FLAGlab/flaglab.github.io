@@ -1,9 +1,11 @@
 uni-vub:
   name: Vrije Universiteit Brussel
   image: img/collaborators/univ/vub-logo.jpg
+  webpage: https://www.vub.be/nl
   collab_type: university
 
 uni-tcd:
   name: Trinity College Dublin
-  image: img/collabortors/univ/tcd-logo.jpg
+  image: img/collaborators/univ/tcd-logo.jpg
+  webpage: https://www.tcd.ie
   collab_type: university

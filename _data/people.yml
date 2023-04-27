@@ -35,7 +35,7 @@ prof-st:
 prof-hn:
     id: "prof-hn"
     display_name: "Haydemar Nuñez"
-    webpage: ""
+    webpage: "https://profesores.virtual.uniandes.edu.co/hnunez/en/inicio-en/"
     image: img/people/fotoHaydemarNunez.jpg
     role: labhead
     bio: Visiting Professor
@@ -44,17 +44,17 @@ prof-rubenManrique:
     id: "prof-rm"
     display_name: "Ruben Manrique"
     image: img/people/fotoRubenManrique.jpg
-    webpage: ""
+    webpage: "https://profesores.virtual.uniandes.edu.co/rfmanrique/en/inicio-en/"
     role: labhead
-    topic:
+    bio: Assistant Professor  
 
 phd-MateoSanabria:
     id: "phd-mateoSanabria"
     display_name: "Mateo Sanabria"
-    image: img/people/temp.jpg
+    image: img/people/fotoMateoSanabria.png
     webpage: ""
     role: predoc
-    topic:
+    bio: Doctoral Teaching assistant
 
 phd-JCSanguino:
     id: "phd-jcSanguino"
@@ -62,7 +62,7 @@ phd-JCSanguino:
     image: img/people/temp.jpg
     webpage: ""
     role: predoc
-    topic:
+    bio: Graduate assistant
 
 phd-LauraGonzalez:
     id: "phd-LauraGonzalez"
@@ -70,7 +70,7 @@ phd-LauraGonzalez:
     image: img/people/temp.jpg
     webpage: ""
     role: predoc
-    topic:
+    bio: Graduate assistant
 
 phd-JorgeDiaz:
     id: "phd-JorgeDiaz"
@@ -78,8 +78,31 @@ phd-JorgeDiaz:
     image: img/people/temp.jpg
     webpage: ""
     role: predoc
-    topic:
+    bio: Graduate assistant
 
+other-DanielBarrero:
+    id: "other-DanielBarrero"
+    display_name: "Daniel Barrero"
+    image: img/people/fotoDanielBarrero.jpg
+    webpage: ""
+    role: others
+    bio: Instructor
+
+other-JuanCastaneda:
+    id: "other-JuanCastaneda"
+    display_name: "Juan Fernando Castañeda"
+    image: img/people/fotoJuanCastaneda.jpg
+    webpage: ""
+    role: others
+    bio: Master's teaching assistant
+
+other-SebastianLemmus:
+    id: "other-SebastianLemmus"
+    display_name: "Sebastián Lemmus"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: others
+    bio: Master's student
 
 exprof-rc:
     id: "exprof-rc"
