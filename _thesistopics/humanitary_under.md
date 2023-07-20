@@ -1,5 +1,5 @@
 ---
-title: Evaluación de redes de sumunistro humanitario
+title: Evaluación de redes de suministro humanitario
 period: 2023 
 level: undergrad
 area: algo
