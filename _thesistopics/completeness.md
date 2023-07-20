@@ -1,6 +1,6 @@
 ---
-title: Completeness analysis for JavaScript programs
-period: 2021
+title: Completeness analysis for adaptive JavaScript programs
+period: 2023
 level: master
 area: pil
 abstract: Evaluating completeness of JavaScript programs based on a completeness enhancement of the points-to analysis
