@@ -54,13 +54,13 @@ navigation:
 #    link: research-areas.html
   - title: Publications
     link: publications.html
+  - title: Thesis topics
+    link: thesis.html
   - title: Members
     link: members.html
   - title: Collaborators
     link: collaborators.html
   - title: Artifacts
     link: artifacts.html
-  - title: Thesis topics
-    link: thesis.html
   - title: Vacancies
     link: vacancies.html

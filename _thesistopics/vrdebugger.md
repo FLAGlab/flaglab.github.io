@@ -6,6 +6,7 @@ area: PiL
 abstract: Build interactive 3D development environments
 people: Nicolas Cardozo
 file: vrdebugger
+layout: default
 ---
 
 ### Context

@@ -1,7 +1,7 @@
 <table class="table">
 <tbody>
 	{% assign prev_year = 2000 %}
-	{% assign current_year = 2019 %}
+	{% assign current_year = 3000 %}
 	{% assign range = (prev_year .. current_year) | reverse %}
 	{% for year in range %}
 	{% assign already_there = false %}
@@ -24,16 +24,20 @@
 				{% if entry.doi %}
 				<img src="img/PDF.png" width="16"
 					height="16" alt="PDF" />
-				<a href="http://dx.doi.org/{{ entry.doi }}">{{ entry.title }}</a>.
+				<a href="http://dx.doi.org/{{ entry.doi }}" target="_blank">{{ entry.title }}</a>
 				{% else %}
-				{{ entry.title }}.
+				<img src="img/PDF.png" width="16"
+					height="16" alt="PDF" />
+				<a href="{{ entry.link }}" target="_blank">{{ entry.title }}</a>
 				{% endif %}
 			</span><br />
 			<span class="authors">
 				{{ entry.author }}.
 			</span>
 			<span class="venuetype">{{ entry|venue_type }}</span><span class="venue">{{ entry.booktitle }} ({{ entry.series }})</span>.
-			<span class="publisher">{{ entry.publisher }}, {{ entry.address }}</span>.
+			{% if entry.publisher %}
+			<span class="publisher">{{ entry.publisher }}</span>.
+			{% endif %}
 			{% if entry.note %}
 			<span class="note">
 			{% capture mynote %} {{ entry.note }} {% endcapture %}

@@ -6,6 +6,7 @@ area: ai
 abstract: Evaluation of RL techniques   
 people: Nicolas Cardozo
 file: dist_networks
+layout: default
 ---
 
 ### Context
