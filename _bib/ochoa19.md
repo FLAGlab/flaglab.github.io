@@ -9,6 +9,6 @@ publisher: Elsevier
 series: 
 title: Constraint programming heuristics for configuring optimal products in multi product lines
 month: February
-doi: 
+doi: 10.1016/j.ins.2018.09.042
 year: 2019
 ---

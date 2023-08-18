@@ -24,9 +24,11 @@
 				{% if entry.doi %}
 				<img src="img/PDF.png" width="16"
 					height="16" alt="PDF" />
-				<a href="http://dx.doi.org/{{ entry.doi }}">{{ entry.title }}</a>.
+				<a href="http://dx.doi.org/{{ entry.doi }}" target="_blank">{{ entry.title }}</a>
 				{% else %}
-				{{ entry.title }}.
+				<img src="img/PDF.png" width="16"
+					height="16" alt="PDF" />
+				<a href="{{ entry.link }}" target="_blank">{{ entry.title }}</a>
 				{% endif %}
 			</span><br />
 			<span class="authors">

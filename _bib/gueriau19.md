@@ -9,6 +9,6 @@ publisher: IEEE
 series: SASO 2019
 title: Con-RL Constructivist Approach to State Space Adaptation 
 month: June
-doi: 
+doi: 10.1109/SASO.2019.00016
 year: 2019
 ---
