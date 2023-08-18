@@ -6,6 +6,7 @@ area: pil
 abstract: Evaluating completeness of JavaScript programs based on a completeness enhancement of the points-to analysis
 people: Nicolas Cardozo
 file: completeness
+layout: default
 ---
 
 ### Context

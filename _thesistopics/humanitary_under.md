@@ -6,6 +6,7 @@ area: algo
 abstract: 
 people: Nicolas Cardozo, Andrea Herrera
 file: humanitary_under
+layout: default
 ---
 
 ### Context

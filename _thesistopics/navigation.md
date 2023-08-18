@@ -6,6 +6,7 @@ area: pil
 abstract: Program navigation using a PlayStation controller
 people: Nicolas Cardozo
 file: navigation
+layout: default
 ---
 
 ### Context

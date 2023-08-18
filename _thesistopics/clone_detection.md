@@ -6,6 +6,7 @@ area: pil
 abstract: Detection of repeated/plagearized code between iOS and android applications
 people: Nicolas Cardozo
 file: clone_detection
+layout: default
 ---
 
 ### Context
