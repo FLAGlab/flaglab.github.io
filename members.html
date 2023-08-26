@@ -13,38 +13,42 @@ role-tables:
 
 
 {% for role-table in page.role-tables %} 
-{% for role-column in role-table %} 
-{% for role-key in role-column.roles %} 
+{% for role-row in role-table %} 
+{% for role-key in role-row.roles %} 
 {% for role in site.roles %} 
 {% if role.key == role-key %}
 <div class="row">
-    <div class="col-lg-5" style="background-color: #000000; color: white; padding-top: 10px; width: 100%">
+    <div class="col-lg-6" style="background-color: #000000; color: white; padding-top: 10px; width: 100%">
         <h1>{{ role.name }}</h1>
     </div>
 </div>
-<div class="card-columns role {{ role.key }}" style="padding-top: 15px">
+<div class="role row {{ role.key }}" style="padding-top: 15px">
     {% for item in site.data.people %} 
     {% assign person = item[1] %} 
     {% if role-key == person.role %} 
     {% if person.webpage != "" %}
-    <a href="{{person.webpage}}" target="_blank">
-        <div class="card bg-inverse" >
+    <div class="col-md-6 col-lg-4 mb-3">
+        <div class="card bg-inverse p-2">
+            <a href="{{person.webpage}}" target="_blank">
+                <img class="card-img" style="aspect-ratio: 1/1;" src="{{ site.base }}/{{ person.image }}" alt="{{person.display_name}}">
+                <div class="card-img-overlay d-flex flex-column justify-content-end" style="padding: 0px">
+                    <div style="background-color: #363636aa; color: white; padding-left: 5px">
+                        <h4 class="card-title" style="margin-bottom: 0px">{{person.display_name}}</h4>
+                        <h6>{{person.bio}} </h6>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+    {% else %}
+    <div class="col-md-6 col-lg-4 mb-3">
+        <div class="card bg-inverse p-2" >
             <img class="card-img" style="aspect-ratio: 1/1;" src="{{ site.base }}/{{ person.image }}" alt="{{person.display_name}}">
             <div class="card-img-overlay d-flex flex-column justify-content-end" style="padding: 0px">
                 <div style="background-color: #363636aa; color: white; padding-left: 5px">
                     <h4 class="card-title" style="margin-bottom: 0px">{{person.display_name}}</h4>
                     <h6>{{person.bio}}</h6>
                 </div>
-            </div>
-        </div>
-    </a>
-    {% else %}
-    <div class="card bg-inverse" >
-        <img class="card-img" style="aspect-ratio: 1/1;" src="{{ site.base }}/{{ person.image }}" alt="{{person.display_name}}">
-        <div class="card-img-overlay d-flex flex-column justify-content-end" style="padding: 0px">
-            <div style="background-color: #363636aa; color: white; padding-left: 5px">
-                <h4 class="card-title" style="margin-bottom: 0px">{{person.display_name}}</h4>
-                <h6>{{person.bio}}</h6>
             </div>
         </div>
     </div>

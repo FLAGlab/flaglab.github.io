@@ -7,6 +7,15 @@ prof-nc:
     github: ncardozo
     image: img/people/fotoNicolasCardozo.jpg
     bio: Associate Professor
+    interests: Programming Languages, Reinforcement Learning
+
+prof-vg:
+    id: "prof-vg"
+    display_name: "Valerie Gauthier"
+    webpage: "https://scholar.google.com/citations?user=Vv_Vh60AAAAJ&hl"
+    image: img/people/fotoValerieGauthier.jpg
+    role: labhead
+    bio: Assistant Professor
 
 prof-jd:
     id: "prof-jd"
