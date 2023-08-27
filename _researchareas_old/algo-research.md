@@ -10,7 +10,7 @@ people:
   - prof-nc
   
 layout: areas
-order: 3
+order: 0
 ---
 
 The algorithms pilar of the FLAG lab is centered on the analysis, design, and development of exact and approximated algorithms and data structures to address the complex computational problems posed by the increasing volume and interconection of data.
