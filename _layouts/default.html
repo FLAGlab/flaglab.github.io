@@ -59,9 +59,11 @@
             <!-- This is a bit nasty, but it basically says be a column first, and on larger screens be a spaced out row -->
             {% if page.image %}
             <div class="row" style="padding-top: 15px">
-                <div class="col-sm-12 col-md-12 col-lg-12">
+                <div class="col-lg-2"></div>
+                <div class="col-sm-12 col-md-12 col-lg-8">
                     <img src="{{site.base}}/{{ page.image }}" alt="{{ page.title }}" id="pageImage" class="img-fluid mx-auto d-block mb-4" />
                 </div>
+                <div class="col-lg-2"></div>
             </div>
             {% endif %}
             {% if page.jumbotron %}
