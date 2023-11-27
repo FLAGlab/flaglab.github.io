@@ -1,7 +1,7 @@
 ---
 title: Self-healing Detection mechanisms
-period: 2021 
-level: master
+period: 2024 
+level: undergrad
 area: pil
 abstract: Detect points of failure for running programs and generate the infrastructure to fix them automatically
 people: Nicolas Cardozo
@@ -37,4 +37,5 @@ In particularm the work of this theis will focus on the first step in this proce
 
 ### Contact
 
+- m.sanabriaa
 - n.cardozo
