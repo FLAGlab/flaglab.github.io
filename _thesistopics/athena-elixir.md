@@ -6,6 +6,7 @@ area: pil
 abstract: Create a language bridge between a formal verification language (Athena) and programming language (Elixir) to assure the correct execution of distributed systems
 people: Mateo Sanabria, Nicolas Cardozo
 file: athena-elixir
+layout: default
 ---
 
 ### Context

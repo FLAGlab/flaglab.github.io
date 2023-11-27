@@ -6,6 +6,7 @@ area: ai
 abstract: 
 people: Ruben Manrique
 file: search_learning
+layout: default
 ---
 
 ### Context

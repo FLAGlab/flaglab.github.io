@@ -6,6 +6,7 @@ area: ai
 abstract: Análisis de español antiguo, como las palabras cambias su significado con el tiempo 
 people: Ruben Manrique
 file: espanol-antiguo
+layout: default
 ---
 
 ### Context

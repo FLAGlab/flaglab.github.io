@@ -6,6 +6,7 @@ area: ai
 abstract: Recomendación de referencias (citas) utilizando LLMs (large language models) y RAG (retrieval augmented generatio) 
 people: Ruben Manrique
 file: refs
+layout: default
 ---
 
 ### Context

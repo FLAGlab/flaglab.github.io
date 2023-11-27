@@ -6,6 +6,7 @@ area: ai
 abstract: LLMs (modelos grandes de lenguage) para la generación de lenguaje llano 
 people: Ruben Manrique
 file: llms-llano
+layout: default
 ---
 
 ### Context

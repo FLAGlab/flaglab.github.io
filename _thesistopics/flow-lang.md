@@ -3,7 +3,7 @@ title: Making bridges safer
 period: 2024
 level: master
 area: pil
-abstract: 
+abstract: Create a rule language from text specification to verify the safety code of bridges in colombia
 people: Nicolas Cardozo
 file: flow-lang
 layout: default
@@ -11,7 +11,7 @@ layout: default
 
 ### Context
 
-(Write here)
+The safety rules of bridges, in terms of their 
 
 ### Project proposal
 

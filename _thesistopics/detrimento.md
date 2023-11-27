@@ -6,6 +6,7 @@ area: ai
 abstract: Efecto del detrimento de la calidad de señal de audio en modelos de anti-spoofing de voz 
 people: Ruben Manrique
 file: deterimento
+layout: default
 ---
 
 ### Context

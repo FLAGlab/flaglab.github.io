@@ -6,6 +6,7 @@ area: pil
 abstract: Detect points of failure for running programs and generate the infrastructure to fix them automatically
 people: Nicolas Cardozo
 file: selfhealing-detection
+layout: default
 ---
 
 ### Context

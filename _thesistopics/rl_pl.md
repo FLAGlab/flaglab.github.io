@@ -1,11 +1,12 @@
 ---
 title: A programming language for reinforcement learning
-period: 2022
+period: 2024
 level: undergrad
 area: PiL
 abstract: Build programming language abstractions to facilitate the development of RL-based programs
 people: Nicolas Cardozo
 file: rl_pl
+layout: default
 ---
 
 ### Context
@@ -13,7 +14,6 @@ file: rl_pl
 The AI hype is starting to find its limits. A reason for these limits comes from the lack of appropriate programming models to represent and express the concepts of learning algorithms. One example of this appears in Reinforcement Learning (RL) programs, which often lack the standards and quality od regular software projets.
 
 This problem arises, in part, from the poor tools to express and represent the programs built using RL techniques.
-
 
 ### Project proposal
 
@@ -33,4 +33,4 @@ The implementation of the language will include:
 
 ### Contact
 
-n.cardozo
+- n.cardozo
