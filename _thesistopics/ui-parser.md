@@ -6,6 +6,7 @@ area: pil
 abstract: Extend the grammar of a mobile language to include features strictly related to the UI. 
 people: Nicolas Cardozo
 file: ui-parser
+layout: default
 ---
 
 ### Context

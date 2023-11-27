@@ -3,7 +3,7 @@ title: Petro nets
 period: 2023
 level: undergrad
 area: pil
-abstract: We are going to implement new an interesting was of interaction for Petri nets
+abstract: We are going to implement new an interesting way of interaction for Petri nets using token democratization
 people: Nicolas Cardozo
 file: petro
 layout: default

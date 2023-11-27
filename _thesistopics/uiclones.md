@@ -6,6 +6,7 @@ area: pil
 abstract: Detection of code clones across interface elements for Kotlin and Dart codebases
 people: Nicolas Cardozo
 file: uiclones
+layout: default
 ---
 
 ### Context

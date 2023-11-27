@@ -1,9 +1,9 @@
 ---
 title: Evaluación de redes de suministro humanitario
-period: 2023 
+period: 2024 
 level: undergrad
 area: algo
-abstract: 
+abstract: Implementación de redes de suministro humanitaria en casos de desastre teniendo en cuenta probabilidades dentro de la definición del grafo.
 people: Nicolas Cardozo, Andrea Herrera
 file: humanitary_under
 layout: default
