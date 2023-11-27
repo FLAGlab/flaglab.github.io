@@ -1,6 +1,6 @@
 ---
 title: Clone detection for UI elements
-period: 2022
+period: 2024
 level: undergrad
 area: pil
 abstract: Detection of code clones across interface elements for Kotlin and Dart codebases
