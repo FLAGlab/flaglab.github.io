@@ -1,6 +1,6 @@
 ---
 title: Desarrollo de software para bioinformática
-period: 2021
+period: 2024
 level: undergrad
 area: bioinformatics
 abstract: Se buscan estudiantes que quieran trabajar en bioinformática contribuyendo de diferentes maneras con el desarrollo del software NGSEP 
