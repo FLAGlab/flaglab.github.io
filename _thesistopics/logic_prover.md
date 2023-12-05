@@ -1,7 +1,7 @@
 ---
 title: Automated logic prover
-period: 2021
-level: undergrad
+period: 2024
+level: master
 area: pil
 abstract: Implement different algorithms to automatically prove propositional logic formulas
 people: Nicolas Cardozo
