@@ -4,7 +4,7 @@ period: 2024
 level: undergrad
 area: pil
 abstract: Detect points of failure for running programs and generate the infrastructure to fix them automatically
-people: Nicolas Cardozo
+people: Mateo Sanabria, Nicolas Cardozo
 file: selfhealing-detection
 layout: default
 ---
