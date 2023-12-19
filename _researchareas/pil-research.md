@@ -1,6 +1,6 @@
 ---
-title: PiL
-long-title: Programming Language Implementations
+title: Programming Language implementations
+long-title: Programming Language implementations (PiL)
 image: img/PiL-no-name.png
 description: We work on programming language design and implementation to reduce the complexity of software development
 
@@ -12,10 +12,10 @@ layout: areas
 order: 1
 ---
 
-The PiL pilar of the FLAGlab on the design and implementation of new programming languages and paradigms for the development of new generation software systems.
+The PiL pilar of FLAGlab focuses on the design and implementation of new programming languages and paradigms for the development of new generation software systems.
 
-Our work focuses in the development of Domain Specific Languages (DSLs), type systems, and the
-verification and validation of software sytems at the programming language level. We focuse in programming alnguages for smart, interconnected, and next generation environments.
+Our work is centered in the development of Domain Specific Languages (DSLs), type systems, and the
+verification and validation of software sytems at the programming language level. We are currently working programming languages for smart, interconnected, and next generation environments.
 
 ### Smart Environments
 
@@ -24,6 +24,8 @@ Our main application domain is on smart adaptive systems, which include smart ci
 ### Interconnected Environments
 
 We are currently developing new programming models for distributed systems tailored to manage uncertainty from the environment.
+
+Along side with the developing of programming languages we are developping new software verification mechanims to assure properties about the system execution. The main work in this area is called Avva a set of modules to verify the behavior of actor-based distributed systems build on top of Athena.
 
 #### Get into the code
 
