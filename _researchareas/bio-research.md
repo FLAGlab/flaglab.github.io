@@ -19,7 +19,11 @@ To check out our current work you can go to our dedicated [github repositories](
 
 ## Algorithms
 
-We are interested in different aspects of algorithm design, such as creating new algorithms to solve known problems, or algorithmic complexity.
+The algorithms pilar of the FLAG lab is centered on the analysis, design, and development of exact and approximated algorithms and data structures to address the complex computational problems posed by the increasing volume and interconection of data.
+
+### Competitive Programming
+
+One of ousr lines of work is dedicated in efficient algorithm design for real world problems. We actively participate in programming competitions (international: [ICPC](https://icpc.global), local: [CCPL](https://www.programmingleague.org) and [RPC](http://redprogramacioncompetitiva.com))
 
 #### Get into the code
 
