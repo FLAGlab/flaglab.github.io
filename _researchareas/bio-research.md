@@ -10,6 +10,7 @@ order: 4
 ---
 
 ## BioInformatics
+
 The Bioinformatics pilar of the FLAGlab focuses on the design new algorithms and tools addressing different bioinformatics problems. Our work is focused around the Next Generation Sequencing Experience Platform ([NGSEP](https://sourceforge.net/p/ngsep/wiki/Home/)).
 
 #### Get into the code
@@ -18,6 +19,7 @@ To check out our current work you can go to our dedicated [github repositories](
 
 ## Algorithms
 
+We are interested in different aspects of algorithm design, such as creating new algorithms to solve known problems, or algorithmic complexity.
 
 #### Get into the code
 

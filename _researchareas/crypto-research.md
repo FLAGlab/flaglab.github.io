@@ -1,7 +1,7 @@
 ---
 title: Cryptography
 long-title: Cryptography
-image: img/algorithms.png
+image: img/crypto.png
 description: We work in the development of post quantum crypto systems and crypto analysis. 
 
 people:
