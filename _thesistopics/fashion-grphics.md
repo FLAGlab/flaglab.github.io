@@ -1,5 +1,5 @@
 ---
-title: BINGO: a graphical search engine for fashion marketplaces
+title: BINGO. a graphical search engine for fashion marketplaces
 period: 2024
 level: undergrad
 area: ai

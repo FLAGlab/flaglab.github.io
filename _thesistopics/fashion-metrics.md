@@ -1,5 +1,5 @@
 ---
-title: BINGO: automesurement
+title: BINGO. automesurement
 period: 2024
 level: undergrad
 area: ai
