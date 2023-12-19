@@ -11,7 +11,7 @@ prof-nc:
 
 prof-vg:
     id: "prof-vg"
-    display_name: "Valerie Gauthier"
+    display_name: "Valérie Gauthier"
     webpage: "https://scholar.google.com/citations?user=Vv_Vh60AAAAJ&hl"
     image: img/people/fotoValerieGauthier.jpg
     role: labhead
@@ -47,9 +47,9 @@ prof-hn:
     webpage: "https://profesores.virtual.uniandes.edu.co/hnunez/en/inicio-en/"
     image: img/people/fotoHaydemarNunez.jpg
     role: labhead
-    bio: Visiting Professor
+    bio: Distinguished Professor
 
-prof-rubenManrique:
+prof-rm:
     id: "prof-rm"
     display_name: "Ruben Manrique"
     image: img/people/fotoRubenManrique.jpg
