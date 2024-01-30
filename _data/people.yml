@@ -16,6 +16,7 @@ prof-vg:
     image: img/people/fotoValerieGauthier.jpg
     role: labhead
     bio: Assistant Professor
+    interests: Cryptography
 
 prof-jd:
     id: "prof-jd"
@@ -71,15 +72,15 @@ phd-JCSanguino:
     image: img/people/temp.jpg
     webpage: ""
     role: predoc
-    bio: Graduate assistant
+    bio: Doctoral Research assistant
 
 phd-LauraGonzalez:
     id: "phd-LauraGonzalez"
     display_name: "Laura Gonzalez"
-    image: img/people/temp.jpg
+    image: img/people/fotoLauraGonzalez.jpg
     webpage: ""
     role: predoc
-    bio: Graduate assistant
+    bio: Doctoral Research assistant
 
 phd-JorgeDiaz:
     id: "phd-JorgeDiaz"
@@ -87,7 +88,7 @@ phd-JorgeDiaz:
     image: img/people/temp.jpg
     webpage: ""
     role: predoc
-    bio: Graduate assistant
+    bio: Doctoral Research assistant
 
 other-DanielBarrero:
     id: "other-DanielBarrero"
@@ -103,15 +104,15 @@ other-JuanCastaneda:
     image: img/people/fotoJuanCastaneda.jpg
     webpage: ""
     role: others
-    bio: Master's teaching assistant
+    bio: Teaching assistant
 
 other-SebastianLemmus:
-    id: "other-SebastianLemmus"
-    display_name: "Sebastián Lemmus"
+    id: "other-SebastianLemus"
+    display_name: "Sebastián Lemus"
     image: img/people/temp.jpg
     webpage: ""
     role: others
-    bio: Master's student
+    bio: Master student
 
 exprof-rc:
     id: "exprof-rc"
