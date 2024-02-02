@@ -69,7 +69,7 @@ phd-MateoSanabria:
 phd-JCSanguino:
     id: "phd-jcSanguino"
     display_name: "Juan Camilo Sanguino"
-    image: img/people/temp.jpg
+    image: img/people/fotoJuanSanguino.jpg
     webpage: ""
     role: predoc
     bio: Doctoral Research assistant
@@ -77,7 +77,7 @@ phd-JCSanguino:
 phd-LauraGonzalez:
     id: "phd-LauraGonzalez"
     display_name: "Laura Gonzalez"
-    image: img/people/fotoLauraGonzalez.jpg
+    image: img/people/fotoLauraGonzalez2.jpg
     webpage: ""
     role: predoc
     bio: Doctoral Research assistant
