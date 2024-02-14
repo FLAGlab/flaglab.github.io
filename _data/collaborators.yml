@@ -15,3 +15,21 @@ uni-ucl:
   image: img/collaborators/univ/ucl-logo.jpg
   webpage: https://uclouvain.be/en/research-institutes/icteam/ingi
   collab_type: university
+
+uni-teluq:
+  name: Université Téluq
+  image: img/collaborators/univ/teluq-logo.jpg
+  webpage: https://www.teluq.ca/site/salle_presse/medias.php
+  collab_type: university
+
+uni-lux:
+  name: Université du Luxembourg
+  image: img/collaborators/univ/unilux-logo.jpg
+  webpage: https://www.uni.lu/en/
+  collab_type: university
+
+uni-anu:
+  name: The Australian National university
+  image: img/collaborators/univ/anu-logo.jpg
+  webpage: https://www.anu.edu.au
+  collab_type: university
