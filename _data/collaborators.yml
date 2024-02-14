@@ -1,11 +1,17 @@
 uni-vub:
   name: Vrije Universiteit Brussel
   image: img/collaborators/univ/vub-logo.jpg
-  webpage: https://www.vub.be/nl
+  webpage: https://soft.vub.ac.be/soft/
   collab_type: university
 
 uni-tcd:
   name: Trinity College Dublin
   image: img/collaborators/univ/tcd-logo.jpg
   webpage: https://www.tcd.ie
+  collab_type: university
+
+uni-ucl:
+  name: Université catholique de Louvain
+  image: img/collaborators/univ/ucl-logo.jpg
+  webpage: https://uclouvain.be/en/research-institutes/icteam/ingi
   collab_type: university
