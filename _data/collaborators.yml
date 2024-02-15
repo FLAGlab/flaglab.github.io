@@ -30,6 +30,24 @@ uni-lux:
 
 uni-anu:
   name: The Australian National university
-  image: img/collaborators/univ/anu-logo.jpg
+  image: img/collaborators/univ/anu-logo.png
   webpage: https://www.anu.edu.au
+  collab_type: university
+
+uni-arizona:
+  name: Arizona state university
+  image: img/collaborators/univ/arizona-logo.png
+  webpage: https://www.asu.edu
+  collab_type: university
+
+uni-ird:
+  name: Institut de Recherche pour le Développement
+  image: img/collaborators/univ/ird-logo.png
+  webpage: http://www.ird.fr/
+  collab_type: university
+
+uni-cicy:
+  name: Centro de investigación científica de Yucatán
+  image: img/collaborators/univ/cicy-logo.png
+  webpage: https://www.cicy.mx
   collab_type: university
