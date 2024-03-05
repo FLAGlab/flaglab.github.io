@@ -77,7 +77,7 @@ phd-JCSanguino:
 phd-LauraGonzalez:
     id: "phd-LauraGonzalez"
     display_name: "Laura Gonzalez"
-    image: img/people/fotoLauraGonzalez2.jpg
+    image: img/people/fotoLauraGonzalez.jpg
     webpage: ""
     role: predoc
     bio: Doctoral Research assistant
@@ -106,6 +106,14 @@ other-JuanCastaneda:
     role: others
     bio: Teaching assistant
 
+other-LauraRodriguez:
+    id: "other-LauraRodriguez"
+    display_name: "Laura Rodriguez"
+    image: img/people/fotoLauraRodriguez.jpeg
+    webpage: ""
+    role: others
+    bio: Scholarship awarded student 
+
 other-SebastianLemmus:
     id: "other-SebastianLemus"
     display_name: "Sebastián Lemus"
@@ -113,6 +121,14 @@ other-SebastianLemmus:
     webpage: ""
     role: others
     bio: Master student
+
+other-JuanCamiloBonet:
+    id: "other-JuanCamiloBonet"
+    display_name: "Juan Camilo Bonet"
+    image: img/people/fotoJuanCamiloBonet.jpg
+    webpage: ""
+    role: others
+    bio: Advanced undergrad student
 
 exprof-rc:
     id: "exprof-rc"
