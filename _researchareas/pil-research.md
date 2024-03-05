@@ -1,7 +1,7 @@
 ---
 title: Programming Language implementations
 long-title: Programming Language implementations (PiL)
-image: img/PiL-no-name.png
+image: img/PiL.png
 description: We work on programming language design and implementation to reduce the complexity of software development
 
 people:

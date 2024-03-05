@@ -1,5 +1,5 @@
 ---
-title: DevOps: Analysis and implementation
+title: "DevOps: Analysis and implementation"
 period: 2024  
 level: undergrad
 area: pil

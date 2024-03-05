@@ -5,8 +5,6 @@ notitle: true
 role-tables:
 - - roles: [labhead]
     image: true
-- - roles: [postdoc]
-    image: true
 - - roles: [predoc]
     image: true
 - - roles: [others]
@@ -35,7 +33,12 @@ role-tables:
                 <img class="card-img" style="aspect-ratio: 1/1;" src="{{ site.base }}/{{ person.image }}" alt="{{person.display_name}}">
                 <div class="card-img-overlay d-flex flex-column justify-content-end" style="padding: 0px">
                     <div style="background-color: #363636aa; color: white; padding-left: 5px">
-                        <h4 class="card-title" style="margin-bottom: 0px">{{person.display_name}}</h4>
+                        <h4 class="card-title" style="margin-bottom: 0px">
+                            <a href="{{site.base}}/researchareas/{{person.main-subgroup}}-research.html">
+                                <img style="aspect-ratio: 1/1; width: 25px;" src = "{{ site.base }}/img/{{person.main-subgroup}}.png">
+                            </a>
+                             {{person.display_name}}
+                        </h4>
                         <h6>{{person.bio}} </h6>
                     </div>
                 </div>
@@ -48,7 +51,12 @@ role-tables:
             <img class="card-img" style="aspect-ratio: 1/1;" src="{{ site.base }}/{{ person.image }}" alt="{{person.display_name}}">
             <div class="card-img-overlay d-flex flex-column justify-content-end" style="padding: 0px">
                 <div style="background-color: #363636aa; color: white; padding-left: 5px">
-                    <h4 class="card-title" style="margin-bottom: 0px">{{person.display_name}}</h4>
+                    <h4 class="card-title" style="margin-bottom: 0px">
+                        <a href="{{site.base}}/researchareas/{{person.main-subgroup}}-research.html">
+                            <img style="aspect-ratio: 1/1; width: 25px;" src = "{{ site.base }}/img/{{person.main-subgroup}}.png">
+                        </a>
+                         {{person.display_name}}
+                    </h4>
                     <h6>{{person.bio}}</h6>
                 </div>
             </div>

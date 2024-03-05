@@ -8,6 +8,7 @@ prof-nc:
     image: img/people/fotoNicolasCardozo.jpg
     bio: Associate Professor
     interests: Programming Languages, Reinforcement Learning
+    main-subgroup: PiL 
 
 prof-vg:
     id: "prof-vg"
@@ -17,6 +18,7 @@ prof-vg:
     role: labhead
     bio: Assistant Professor
     interests: Cryptography
+    main-subgroup: crypto
 
 prof-jd:
     id: "prof-jd"
@@ -25,6 +27,7 @@ prof-jd:
     image: img/people/fotoJorgeDuitama.jpg
     role: labhead
     bio: Associate Professor
+    main-subgroup: bio
 
 prof-om:
     id: "prof-om"
@@ -33,6 +36,7 @@ prof-om:
     image: img/people/fotoOlgaMarino.jpg
     role: labhead
     bio: Associate Professor
+    main-subgroup: ai
 
 prof-st:
     id: "prof-st"
@@ -41,6 +45,7 @@ prof-st:
     image: img/people/fotoSilviaTakahashi.jpg
     role: labhead
     bio: Associate Professor
+    main-subgroup: ai
 
 prof-hn:
     id: "prof-hn"
@@ -49,6 +54,7 @@ prof-hn:
     image: img/people/fotoHaydemarNunez.jpg
     role: labhead
     bio: Distinguished Professor
+    main-subgroup: ai
 
 prof-rm:
     id: "prof-rm"
@@ -57,6 +63,7 @@ prof-rm:
     webpage: "https://profesores.virtual.uniandes.edu.co/rfmanrique/en/inicio-en/"
     role: labhead
     bio: Assistant Professor  
+    main-subgroup: ai
 
 phd-MateoSanabria:
     id: "phd-mateoSanabria"
@@ -65,6 +72,7 @@ phd-MateoSanabria:
     webpage: ""
     role: predoc
     bio: Doctoral Teaching assistant
+    main-subgroup: PiL
 
 phd-JCSanguino:
     id: "phd-jcSanguino"
@@ -73,22 +81,26 @@ phd-JCSanguino:
     webpage: ""
     role: predoc
     bio: Doctoral Research assistant
+    main-subgroup: ai
 
 phd-LauraGonzalez:
     id: "phd-LauraGonzalez"
     display_name: "Laura Gonzalez"
     image: img/people/fotoLauraGonzalez.jpg
-    webpage: ""
+    webpage: "https://academia.uniandes.edu.co/AcademyCv/ln.gonzalez138"
     role: predoc
     bio: Doctoral Research assistant
+    main-subgroup: bio
 
 phd-JorgeDiaz:
     id: "phd-JorgeDiaz"
     display_name: "Jorge Diaz"
-    image: img/people/temp.jpg
-    webpage: ""
+    image: img/people/fotoJorgeDiaz.jpg
+    webpage: "https://academia.uniandes.edu.co/AcademyCv/ji.diaz1"
     role: predoc
     bio: Doctoral Research assistant
+    main-subgroup: bio
+
 
 other-DanielBarrero:
     id: "other-DanielBarrero"
@@ -97,6 +109,7 @@ other-DanielBarrero:
     webpage: ""
     role: others
     bio: Instructor
+    main-subgroup: PiL
 
 other-JuanCastaneda:
     id: "other-JuanCastaneda"
@@ -105,6 +118,7 @@ other-JuanCastaneda:
     webpage: ""
     role: others
     bio: Teaching assistant
+    main-subgroup: PiL
 
 other-LauraRodriguez:
     id: "other-LauraRodriguez"
@@ -112,7 +126,8 @@ other-LauraRodriguez:
     image: img/people/fotoLauraRodriguez.jpeg
     webpage: ""
     role: others
-    bio: Scholarship awarded student 
+    bio: Scholarship awarded student
+    main-subgroup: ai
 
 other-SebastianLemmus:
     id: "other-SebastianLemus"
@@ -121,6 +136,7 @@ other-SebastianLemmus:
     webpage: ""
     role: others
     bio: Master student
+    main-subgroup: PiL
 
 other-JuanCamiloBonet:
     id: "other-JuanCamiloBonet"
@@ -129,6 +145,7 @@ other-JuanCamiloBonet:
     webpage: ""
     role: others
     bio: Advanced undergrad student
+    main-subgroup: PiL
 
 exprof-rc:
     id: "exprof-rc"
