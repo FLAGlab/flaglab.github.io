@@ -138,6 +138,15 @@ other-SebastianLemmus:
     bio: Master student
     main-subgroup: PiL
 
+other-CamiloCabrera:
+    id: "other-CamiloCabrera"
+    display_name: "Camilo Cabrera"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: others
+    bio: Teaching assistant
+    main-subgroup: PiL
+
 other-JuanCamiloBonet:
     id: "other-JuanCamiloBonet"
     display_name: "Juan Camilo Bonet"
