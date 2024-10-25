@@ -1,6 +1,6 @@
 ---
 title: Clone detection for UI elements
-period: 2024
+period: 2025
 level: undergrad
 area: pil
 abstract: Detection of code clones across interface elements for Kotlin and Dart codebases
@@ -34,7 +34,7 @@ The implementation plan of this thesis is focused on the extension of the Out Of
 ### Background and Literature
 
 - [1] Clone detection
-- [2] OOS
+- [2] Out Of Step:  https://www.sciencedirect.com/science/article/pii/S0167642324000352
 
 ### Contact
 

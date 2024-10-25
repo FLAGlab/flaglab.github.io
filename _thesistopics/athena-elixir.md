@@ -1,6 +1,6 @@
 ---
 title: Verification and testing, together again for the first time
-period: 2024 
+period: 2025 
 level: master
 area: pil
 abstract: Create a language bridge between a formal verification language (Athena) and programming language (Elixir) to assure the correct execution of distributed systems
@@ -23,6 +23,7 @@ The effect of this conenction is that it is now posible to define proofs that ar
 ### Implementation plan
 
 The implementation of this project consists of a dual IDE in which is possible:
+
   1. Write Elixir programs that "renders" to athena verification code.
   2. Write Athena proofs that "renders" Athena code to Elixir
 
@@ -30,7 +31,7 @@ To do this, it is necessary to create a mapping between the language abstraction
 
 ### Background and Literature
 
-[1]. Fundamental Proof Methods in Computer Science: A Computer-Based Approach. MIT Press, 2017. K. Arkudas and D. Musser
+[1] Fundamental Proof Methods in Computer Science: A Computer-Based Approach. MIT Press, 2017. K. Arkudas and D. Musser
 [2] Programming Elixir. Pragmatic Bookshelf, 2018.  D. Thomas.
 
 ### Contact
