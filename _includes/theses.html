@@ -3,7 +3,7 @@
         {% assign undergrad_there = false %}
         {% assign master_there = false %}
         {% assign year = site.time | date: '%Y' | plus: 0 %}
-        {% assign sortedTopics = site.thesistopics | sort: 'level' %}
+        {% assign sortedTopics = site.thesistopics | sort: 'level'  %}
         {% for entry in sortedTopics %}	
             {% assign file_name = entry.file %}
         {% if entry.period >= year %}
@@ -34,12 +34,13 @@
             <td class="topic">
                 <span class="publish_year"><strong>{{ entry.period }}</strong></span>.
                 <span class="thesis_title">
-                    {{ entry.title }}.
+                    <img src={{ entry.area }}".png">  {{ entry.title }}.
                 </span>
                 <p> <strong> Short description: </strong>  {{ entry.abstract }} </p>
                 <span class="promotors"><strong>Advisors: </strong> {{ entry.people }} </span>
                 <span class="area">
                     -  <i>{{ entry.area }}</i>.
+                    <img src={{ entry.area }}".png">
                 </span>
                 <a href="thesistopics/{{ entry.file }}.html">Read more...</a>
             </td>
