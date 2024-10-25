@@ -4,7 +4,7 @@
         {% assign master_there = false %}
         {% assign year = site.time | date: '%Y' | plus: 0 %}
         {% assign sortedTopics = site.thesistopics | sort: 'level' | sort: 'period'  %}
-        {% for entry in sortedTopics %}	
+        {% for entry in sortedTopics reversed %}	
             {% assign file_name = entry.file %}
         {% if entry.period >= year %}
         <tr>
