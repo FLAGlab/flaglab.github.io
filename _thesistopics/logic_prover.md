@@ -2,7 +2,7 @@
 title: Automated logic prover
 period: 2024
 level: master
-area: pil
+area: PiL
 abstract: Implement different algorithms to automatically prove propositional logic formulas
 people: Nicolas Cardozo
 file: logic_prover

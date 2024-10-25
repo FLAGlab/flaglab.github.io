@@ -2,7 +2,7 @@
 title: Modelos matemáticos para las cadenas de suministro humanitario
 period: 2023
 level: master
-area: algo
+area: algorithms
 abstract: 
 people: Nicolas Cardozo, Andrea Herrera
 file: humanitary_master

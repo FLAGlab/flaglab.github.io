@@ -2,7 +2,7 @@
 title: Consistency verification of COP programs using session types
 period: 2024
 level: master
-area: pil
+area: PiL
 abstract: Type systems are used to assure behavior of a system. This project will tackle the consistency and interaction of dynamic behavior for adaptive systems
 people: Nicolas Cardozo
 file: session-cop

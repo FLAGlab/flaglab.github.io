@@ -2,7 +2,7 @@
 title: A complete C grammar
 period: 2025
 level: undergrad
-area: pil
+area: PiL
 abstract: Build a grammar and parser for the C programming language.
 people: Nicolas Cardozo
 file: c-parser

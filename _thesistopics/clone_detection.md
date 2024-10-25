@@ -2,7 +2,7 @@
 title: Cross-language program analysis
 period: 2024
 level: master
-area: pil
+area: PiL
 abstract: Analyzing structural and quality properties of software systems across programming languages.
 people: Nicolas Cardozo
 file: clone_detection

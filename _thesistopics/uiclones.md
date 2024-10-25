@@ -2,7 +2,7 @@
 title: Clone detection for UI elements
 period: 2025
 level: undergrad
-area: pil
+area: PiL
 abstract: Detection of code clones across interface elements for Kotlin and Dart codebases
 people: Nicolas Cardozo
 file: uiclones

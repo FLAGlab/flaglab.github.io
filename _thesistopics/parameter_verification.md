@@ -2,7 +2,7 @@
 title: Verification of Parameter Passing Semantics in Actor Systems
 period: 2025
 level: undergrad
-area: pil
+area: PiL
 abstract: Formal verification of function distribution using pass-by-move semantics in actor systems
 people: Nicolas Cardozo, Mateo Sanabria
 file: parameter_verification

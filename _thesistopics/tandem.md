@@ -2,7 +2,7 @@
 title: Detección de repeticiones en tandem
 period: 2020
 level: undergrad
-area: bioinformatics
+area: bio
 abstract: Detección de repeticiones en tandem
 people: Jorge Duitama
 file: tandem

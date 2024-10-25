@@ -2,7 +2,7 @@
 title: Program navigation for interactive debugging
 period: 2023
 level: master
-area: pil
+area: PiL
 abstract: Program navigation using a PlayStation controller
 people: Nicolas Cardozo
 file: navigation

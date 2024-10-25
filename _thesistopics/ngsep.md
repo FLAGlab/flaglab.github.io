@@ -2,7 +2,7 @@
 title: Desarrollo de software para bioinformática
 period: 2024
 level: undergrad
-area: bioinformatics
+area: bio
 abstract: Se buscan estudiantes que quieran trabajar en bioinformática contribuyendo de diferentes maneras con el desarrollo del software NGSEP 
 people: Jorge Duitama
 file: ngsep

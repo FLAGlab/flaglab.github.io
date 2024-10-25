@@ -2,7 +2,7 @@
 title: Kotlin plug-in for code navigation
 period: 2022
 level: undergrad, master
-area: pil
+area: PiL
 abstract: 
 people: Nicolas Cardozo
 file: code_navigation

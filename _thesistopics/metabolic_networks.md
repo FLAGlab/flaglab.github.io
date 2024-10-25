@@ -2,7 +2,7 @@
 title: Construcción de redes metabólicas
 period: 2020
 level: undergrad
-area: bioinformatics
+area: bio
 abstract: Construcción de redes metabólicas
 people: Jorge Duitama
 file: metabolic_networks
