@@ -13,18 +13,18 @@ layout: default
 
 Tranlating a program from a given language to another is a common task, whichi is becoming ever more common. However, this task is quite difficult and it is usually incomplete or incorrect.
 
-Given the necessity of 
+Given the continuous need to translate between language, many different approaches have been defined over there years.
 
 ### Project proposal
 
-(Write here)
+The purpose of this project is to review all existing techniques to translate between languages, identify their weeknesses, strengths and identify possible strategies to improve in exisitng techniques.
 
 ### Implementation plan
 
-(Write here)
+The work will be framed under the generation of a systematic lierature review for language to language translation approaches.
+You will need to design an evaluation plan for the properties of existing appraoches and measure their appropriateness.
 
 ### Background and Literature
-
 
 
 ### Contact

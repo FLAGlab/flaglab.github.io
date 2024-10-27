@@ -3,7 +3,7 @@
         {% assign undergrad_there = false %}
         {% assign master_there = false %}
         {% assign year = site.time | date: '%Y' | plus: 0 %}
-        {% assign sortedTopics = site.thesistopics | sort: 'level' | sort: 'period'  %}
+        {% assign sortedTopics = site.thesistopics | sort: 'period' | sort: 'level' %}
         {% for entry in sortedTopics reversed %}	
             {% assign file_name = entry.file %}
         {% if entry.period >= year %}
