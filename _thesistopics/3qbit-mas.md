@@ -1,5 +1,5 @@
 ---
-title: Three Q-bit programming languages
+title: Two q-bit or not two q-bit
 period: 2025
 level: master
 area: PiL 

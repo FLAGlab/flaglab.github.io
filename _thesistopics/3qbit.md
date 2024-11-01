@@ -1,5 +1,5 @@
 ---
-title: Three Q-bit programming 
+title: Two q-bit or not two q-bit
 period: 2025
 level: undergrad
 area: PiL 
