@@ -104,7 +104,7 @@ phd-JorgeDiaz:
     main-subgroup: bio
 
 phd-DanielBarrero:
-    id: "other-DanielBarrero"
+    id: "phd-DanielBarrero"
     display_name: "Daniel Barrero"
     image: img/people/fotoDanielBarrero.jpg
     webpage: ""
@@ -113,7 +113,7 @@ phd-DanielBarrero:
     main-subgroup: PiL
 
 phd-ManuelMosquera:
-    id: "other-ManuelMosquera"
+    id: "phd-ManuelMosquera"
     display_name: "Manuel Mosquera"
     image: img/people/temp.jpg
     webpage: ""
@@ -122,7 +122,7 @@ phd-ManuelMosquera:
     main-subgroup: ai
 
 phd-AlfredoMijares:
-    id: "other-AlfredoMijares"
+    id: "phd-AlfredoMijares"
     display_name: "Alfredo Mijares"
     image: img/people/temp.jpg
     webpage: ""
@@ -136,7 +136,7 @@ master-LauraRodriguez:
     display_name: "Laura Rodriguez"
     image: img/people/fotoLauraRodriguez.jpeg
     webpage: ""
-    role: other
+    role: others
     bio: Scholarship awarded student
     main-subgroup: ai
 
@@ -149,8 +149,8 @@ master-SebastianLemmus:
     bio: Master student
     main-subgroup: PiL
 
-other-RauldelaRosa:
-    id: "other-RauldelaRosa"
+master-RauldelaRosa:
+    id: "master-RauldelaRosa"
     display_name: "Raul de la Rosa"
     image: img/people/temp.jpg
     webpage: ""
@@ -158,8 +158,8 @@ other-RauldelaRosa:
     bio: Master student
     main-subgroup: ai
 
-other-AndresFlorian:
-    id: "other-AndresFlorian"
+master-AndresFlorian:
+    id: "master-AndresFlorian"
     display_name: "Andrés Florian"
     image: img/people/temp.jpg
     webpage: ""
@@ -167,8 +167,8 @@ other-AndresFlorian:
     bio: Master student
     main-subgroup: crypto
 
-other-IsabelaMartinez:
-    id: "other-IsabelaMartinez"
+master-IsabelaMartinez:
+    id: "master-IsabelaMartinez"
     display_name: "Isabela Martinez"
     image: img/people/temp.jpg
     webpage: ""
@@ -176,8 +176,8 @@ other-IsabelaMartinez:
     bio: Master student
     main-subgroup: crypto
 
-other-AlejandroMedina:
-    id: "other-AlejandroMedina"
+master-AlejandroMedina:
+    id: "master-AlejandroMedina"
     display_name: "Alejandro Medina"
     image: img/people/temp.jpg
     webpage: ""
@@ -185,8 +185,8 @@ other-AlejandroMedina:
     bio: Master student
     main-subgroup: ai
 
-other-LeonardoAngel:
-    id: "other-LeonardoAngel"
+master-LeonardoAngel:
+    id: "master-LeonardoAngel"
     display_name: "Leonardo Angel"
     image: img/people/temp.jpg
     webpage: ""
@@ -205,7 +205,7 @@ other-JuanCamiloBonet:
     main-subgroup: PiL
 
 ugrad-JuanFelipeCarballo:
-    id: "other-JuanFelipeCarballo"
+    id: "ugrad-JuanFelipeCarballo"
     display_name: "Juan Felipe Carballo"
     image: img/people/temp.jpg
     webpage: ""
@@ -213,8 +213,8 @@ ugrad-JuanFelipeCarballo:
     bio: Undergrad student
     main-subgroup: PiL
 
-other-SebastianOspino:
-    id: "other-SebastianOspino"
+ugrad-SebastianOspino:
+    id: "ugrad-SebastianOspino"
     display_name: "Sebastian Ospino"
     image: img/people/temp.jpg
     webpage: ""
@@ -222,8 +222,8 @@ other-SebastianOspino:
     bio: Undergrad student
     main-subgroup: PiL
 
-other-SantiagoRodriguez:
-    id: "other-SantiagoRodriguez"
+ugrad-SantiagoRodriguez:
+    id: "ugrad-SantiagoRodriguez"
     display_name: "Santiago Rodriguez"
     image: img/people/temp.jpg
     webpage: ""
@@ -231,8 +231,8 @@ other-SantiagoRodriguez:
     bio: Undergrad student
     main-subgroup: ai
     
-other-NicolasLondono:
-    id: "other-NicolasLondono"
+ugrad-NicolasLondono:
+    id: "ugrad-NicolasLondono"
     display_name: "Nicolas Londoño"
     image: img/people/temp.jpg
     webpage: ""
@@ -240,8 +240,8 @@ other-NicolasLondono:
     bio: Undergrad student
     main-subgroup: PiL
     
-other-NicolasRozo:
-    id: "other-NicolasRozo"
+ugrad-NicolasRozo:
+    id: "ugrad-NicolasRozo"
     display_name: "Nicolas Rozo"
     image: img/people/temp.jpg
     webpage: ""
@@ -249,8 +249,8 @@ other-NicolasRozo:
     bio: Undergrad student
     main-subgroup: bio
     
-other-DanielaEspinosa:
-    id: "other-DanielaEspinosa"
+ugrad-DanielaEspinosa:
+    id: "ugrad-DanielaEspinosa"
     display_name: "Daniela Espinosa"
     image: img/people/temp.jpg
     webpage: ""
@@ -258,8 +258,8 @@ other-DanielaEspinosa:
     bio: Undergrad student
     main-subgroup: crypto
     
-other-JuanDavidVasquez:
-    id: "other-JuanDavidVasquez"
+ugrad-JuanDavidVasquez:
+    id: "ugrad-JuanDavidVasquez"
     display_name: "Juan David Vasquez"
     image: img/people/temp.jpg
     webpage: ""
@@ -267,8 +267,8 @@ other-JuanDavidVasquez:
     bio: Undergrad student
     main-subgroup: crypto
     
-other-JuanAndresEslava:
-    id: "other-JuanAndresEslava"
+ugrad-JuanAndresEslava:
+    id: "ugrad-JuanAndresEslava"
     display_name: "Juan Andres Eslava"
     image: img/people/temp.jpg
     webpage: ""
@@ -276,8 +276,8 @@ other-JuanAndresEslava:
     bio: Undergrad student
     main-subgroup: crypto
 
-other-AlejandroJoseSegura:
-    id: "other-AlejandroJoseSegura"
+ugrad-AlejandroJoseSegura:
+    id: "ugrad-AlejandroJoseSegura"
     display_name: "Alejandro Jose Segura"
     image: img/people/temp.jpg
     webpage: ""
@@ -285,8 +285,8 @@ other-AlejandroJoseSegura:
     bio: Undergrad student
     main-subgroup: crypto
 
-other-JuanBernal:
-    id: "other-JuanBernal"
+ugrad-JuanBernal:
+    id: "ugrad-JuanBernal"
     display_name: "Juan Bernal"
     image: img/people/temp.jpg
     webpage: ""
@@ -294,8 +294,8 @@ other-JuanBernal:
     bio: Undergrad student
     main-subgroup: ai
 
-other-NicolasSaavedra:
-    id: "other-NicolasSaavedra"
+ugrad-NicolasSaavedra:
+    id: "ugrad-NicolasSaavedra"
     display_name: "Nicolas Saavedra"
     image: img/people/temp.jpg
     webpage: ""
@@ -303,8 +303,8 @@ other-NicolasSaavedra:
     bio: Undergrad student
     main-subgroup: PiL
 
-other-NicolasRiveros:
-    id: "other-NicolasRiveros"
+ugrad-NicolasRiveros:
+    id: "ugrad-NicolasRiveros"
     display_name: "Nicolas Riveros"
     image: img/people/temp.jpg
     webpage: ""
@@ -312,8 +312,8 @@ other-NicolasRiveros:
     bio: Undergrad student
     main-subgroup: ai
 
-other-DavidCuevasAlba:
-    id: "other-DavidCuevasAlba"
+ugrad-DavidCuevasAlba:
+    id: "ugrad-DavidCuevasAlba"
     display_name: "David Cuevas Alba"
     image: img/people/temp.jpg
     webpage: ""
@@ -321,8 +321,8 @@ other-DavidCuevasAlba:
     bio: Undergrad student
     main-subgroup: ai
 
-other-EduardoJoseHerreraAlba:
-    id: "other-EduardoJoseHerreraAlba"
+ugrad-EduardoJoseHerreraAlba:
+    id: "ugrad-EduardoJoseHerreraAlba"
     display_name: "Eduardo Jose Herrera Alba"
     image: img/people/temp.jpg
     webpage: ""
@@ -330,8 +330,8 @@ other-EduardoJoseHerreraAlba:
     bio: Undergrad student
     main-subgroup: ai
 
-other-SergioAndresOliverosBarbosa:
-    id: "other-SergioAndresOliverosBarbosa"
+ugrad-SergioAndresOliverosBarbosa:
+    id: "ugrad-SergioAndresOliverosBarbosa"
     display_name: "Sergio Andres Oliveros Barbosa"
     image: img/people/temp.jpg
     webpage: ""
