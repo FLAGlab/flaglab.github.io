@@ -158,6 +158,42 @@ other-RauldelaRosa:
     bio: Master student
     main-subgroup: ai
 
+other-AndresFlorian:
+    id: "other-AndresFlorian"
+    display_name: "Andrés Florian"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: crypto
+
+other-IsabelaMartinez:
+    id: "other-IsabelaMartinez"
+    display_name: "Isabela Martinez"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: crypto
+
+other-AlejandroMedina:
+    id: "other-AlejandroMedina"
+    display_name: "Alejandro Medina"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: ai
+
+other-LeonardoAngel:
+    id: "other-LeonardoAngel"
+    display_name: "Leonardo Angel"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: PiL
+
 #Undergrads
 other-JuanCamiloBonet:
     id: "other-JuanCamiloBonet"
