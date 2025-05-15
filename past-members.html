@@ -1,0 +1,49 @@
+---
+layout: default
+title: ExMembers
+notitle: true
+role-tables:
+- - roles: [labhead]
+    image: true
+- - roles: [predoc]
+    image: true
+- - roles: [master]
+    image: true
+- - roles: [ugrad]
+    image: true
+- - roles: [others]
+    image: true
+---
+
+{% for role-table in page.role-tables %} 
+{% for role-row in role-table %} 
+{% for role-key in role-row.roles %} 
+{% for role in site.roles %} 
+{% if role.key == role-key %}
+<div class="row">
+    <div class="col-lg-6" style="background-color: #000000; color: white; padding-top: 10px; width: 100%">
+        <h1>{{ role.name }}</h1>
+    </div>
+</div>
+<div class="role row {{ role.key }}" style="padding-top: 15px">
+    {% for item in site.data.people %} 
+    {% assign person = item[1] %} 
+    {% if role-key == person.role %} 
+    <div class="col-md-6 col-lg-4 mb-3">
+        <div class="card bg-inverse p-2">
+            <a href="{{person.webpage}}" target="_blank">
+                <div class="card-img-overlay d-flex flex-column justify-content-end" style="padding: 0px">
+                            <a href="{{site.base}}/researchareas/{{person.main-subgroup}}-research.html">
+                                <img style="aspect-ratio: 1/1; width: 25px;" src = "{{ site.base }}/img/{{person.main-subgroup}}.png">
+                            </a>
+                             {{person.display_name}} - {{person.bio}}
+                        </h4>
+                </div>
+            </a>
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>
+<br> <br> 
+{% endif %}{% endfor %} {% endfor %} {% endfor %} {% endfor %}
