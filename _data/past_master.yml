@@ -1,0 +1,17 @@
+past-CamiloCabrera:
+    id: "other-CamiloCabrera"
+    display_name: "Camilo Cabrera"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: alumni
+    bio: Teaching assistant
+    main-subgroup: PiL
+
+past-JuanCastaneda:
+    id: "other-JuanCastaneda"
+    display_name: "Juan Fernando Castañeda"
+    image: img/people/fotoJuanCastaneda.jpg
+    webpage: ""
+    role: alumni
+    bio: Teaching assistant
+    main-subgroup: PiL

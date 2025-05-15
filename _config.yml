@@ -11,11 +11,13 @@ roles:
   - key: labhead
     name: Principal Investigators
   - key: postdoc
-    name: Post-docs
+    name: Post-doctoral Researcher
   - key: predoc
     name: Doctoral Students
   - key: ugrad
     name: Students
+  - key: master
+    name: Master Students
   - key: alumni
     name: Alumni
   - key: collab
