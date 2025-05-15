@@ -131,8 +131,8 @@ phd-AlfredoMijares:
     main-subgroup: crypto
 
 #Master
-other-LauraRodriguez:
-    id: "other-LauraRodriguez"
+master-LauraRodriguez:
+    id: "master-LauraRodriguez"
     display_name: "Laura Rodriguez"
     image: img/people/fotoLauraRodriguez.jpeg
     webpage: ""
@@ -140,8 +140,8 @@ other-LauraRodriguez:
     bio: Scholarship awarded student
     main-subgroup: ai
 
-other-SebastianLemmus:
-    id: "other-SebastianLemus"
+master-SebastianLemmus:
+    id: "master-SebastianLemus"
     display_name: "Sebastián Lemus"
     image: img/people/temp.jpg
     webpage: ""
@@ -204,7 +204,7 @@ other-JuanCamiloBonet:
     bio: Advanced undergrad student
     main-subgroup: PiL
 
-other-JuanFelipeCarballo:
+ugrad-JuanFelipeCarballo:
     id: "other-JuanFelipeCarballo"
     display_name: "Juan Felipe Carballo"
     image: img/people/temp.jpg
