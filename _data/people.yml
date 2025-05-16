@@ -167,14 +167,14 @@ master-AndresFlorian:
     bio: Master student
     main-subgroup: crypto
 
-master-IsabelaMartinez:
-    id: "master-IsabelaMartinez"
-    display_name: "Isabela Martinez"
+master-LucasGandara:
+    id: "master-LucasGandara"
+    display_name: "Lucas Gandara"
     image: img/people/temp.jpg
     webpage: ""
     role: master
     bio: Master student
-    main-subgroup: crypto
+    main-subgroup: ai
 
 master-AlejandroMedina:
     id: "master-AlejandroMedina"
