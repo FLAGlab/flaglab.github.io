@@ -194,6 +194,24 @@ master-LeonardoAngel:
     bio: Master student
     main-subgroup: PiL
 
+master-IsabellaMartinez:
+    id: "master-IsabellaMartinez"
+    display_name: "Isabella Martinez"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: crypto
+
+master-EstefaniaLaverde:
+    id: "master-EstefaniaLaverde"
+    display_name: "Estefania Laverde"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: crypto
+
 #Undergrads
 other-JuanCamiloBonet:
     id: "other-JuanCamiloBonet"
