@@ -2,7 +2,7 @@
 title: Quantum Cryptography
 long-title: Quantum Programming and Cryptography
 image: img/crypto.png
-description: We work in the development of quantum algorithms and systems, focused on (post-) quantum crypto systems and crypto analysis. 
+description: We work in the development of quantum algorithms and systems, focused on (post-) quantum cryptography systems and crypto analysis. 
 
 people:
   - prof-vg
