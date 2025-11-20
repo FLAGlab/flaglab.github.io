@@ -33,7 +33,7 @@ role-tables:
         <div class="card bg-inverse p-2">
             <a href="{{person.webpage}}" target="_blank">
                 <div class="card-img-overlay d-flex flex-column justify-content-end" style="padding: 0px">
-                            <a href="{{site.base}}/researchareas/{{person.main-subgroup}}-research.html">
+                            <a href="{{site.base}}/researchareas/{{person.main-subgroup | downcase}}-research.html">
                                 <img style="aspect-ratio: 1/1; width: 25px;" src = "{{ site.base }}/img/{{person.main-subgroup}}.png">
                             </a>
                              {{person.display_name}} - {{person.bio}}
