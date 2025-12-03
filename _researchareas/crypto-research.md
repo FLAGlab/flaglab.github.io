@@ -2,7 +2,7 @@
 title: Post-Quantum Cryptography
 long-title: Post-Quantum Cryptography and Quantum Computing
 image: img/crypto.png
-description: We work in the development of quantum and post-quantum algorithms and systems, focused on (post-) quantum cryptography systems and crypto analysis. 
+description: We work in the development of quantum and post-quantum algorithms and systems, focused on (post-) quantum cryptography systems and crypto analysis, as well as the development of quantum computing algorithms. 
 people:
   - prof-vg
 layout: areas
@@ -18,3 +18,6 @@ Additionally, we are interested on the development and optimization of new Quant
 #### Coding theory
 
 We follow closely the NIST, its contests, and the brand new research that gets published in the area. Our main focus is Coding Theory. Nonetheless, when working with allies we thrive in crypto analysis.
+
+### Quantum Computing
+

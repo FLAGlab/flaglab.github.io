@@ -1,6 +1,6 @@
 ---
 title: Programming robots
-period: 2025 
+period: 2026 
 level: undergrad
 area: ai
 abstract: Using reinforcement learning on robot environments
@@ -19,14 +19,19 @@ With this thesis proposal you will be able to work in one of several topics to i
 
 - Free movement (walking, moving arms, climbing steps)
 - Speech (just talk in spanish, explain its behavior)
-- Fullfill tasks (pack elements, fetch elements)
-
+- Fullfill complex tasks (pack elements, fetch elements)
+- Evolving behavior and transferable behavior for different tasks
+- Capability evaluation between multiple systems
+- Conciousness transfer between heterogeneous robotic environments
 
 ### Implementation plan
 
 - Implement the appropriate RL algorithm for the task at hand
 
 ### Background and Literature
+
+- RL
+- ROS
 
 ### Contact
 

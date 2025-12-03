@@ -1,6 +1,6 @@
 ---
 title: Verification and testing, together again for the first time
-period: 2025 
+period: 2026 
 level: master
 area: PiL
 abstract: Create a language bridge between a formal verification language (Athena) and programming language (Elixir) to assure the correct execution of distributed systems

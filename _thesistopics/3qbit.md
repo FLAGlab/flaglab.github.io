@@ -1,6 +1,6 @@
 ---
 title: Two q-bit or not two q-bit
-period: 2025
+period: 2026
 level: undergrad
 area: PiL 
 abstract: Build programs on real programming languages for actual quantum computers
