@@ -3,12 +3,12 @@ title: TinyML
 period: 2026
 level: undergrad
 area: ai 
-abstract:Exploring tinyML algorithmms, models and capabilities in different constrained devices 
+abstract:Exploring tinyML algorithmms, models and capabilities in different constrained devices
 people: Nicolas Cardozo
 file: tinyml
 layout: default
 ---
-s
+
 ### Context
 
 ML is awesome!....
