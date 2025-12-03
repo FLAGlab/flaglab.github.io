@@ -19,7 +19,7 @@ verification and validation of software sytems at the programming language level
 
 ### Smart Environments
 
-Our main application domain is on smart adaptive systems, which include smart cities, smart transport, IoT and cyberphysical environments. In this domain area we work on Context-oriented Porgramming (COP) languages as a driver to foster smarter systems that can react to the conditions of their surrounding environment and offer the most appropriate behavior to users.
+Our main application domain is on smart adaptive systems, which include smart cities, smart transport, IoT and cyberphysical environments. In this domain area we work on Context-oriented Programming (COP) languages as a driver to foster smarter systems that can react to the conditions of their surrounding environment and offer the most appropriate behavior to users.
 
 ### Interconnected Environments
 
