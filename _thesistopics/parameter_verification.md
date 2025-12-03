@@ -1,6 +1,6 @@
 ---
 title: Verification of Parameter Passing Semantics in Actor Systems
-period: 2025
+period: 2026
 level: undergrad
 area: PiL
 abstract: Formal verification of function distribution using pass-by-move semantics in actor systems

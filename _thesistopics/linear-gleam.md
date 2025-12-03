@@ -1,10 +1,10 @@
 ---
 title: Linear types for Quantum computing in Gleam
-period: 2025
+period: 2026
 level: undergrad
 area: PiL
 abstract: Develop a linear type system in gleam to be used in the development of Quantum computing programs
-people: Nicolas Cardozo, Daniel Barrero
+people: Nicolas Cardozo
 file: linear-gleam
 layout: default
 ---
@@ -13,7 +13,7 @@ layout: default
 
 Software verification at the type system level is used to check that programs are sound ahead of time. the idea of type systems is that if programs type-check, they will execute properly (or their strange behavior will be outside of the type system). Linear types [4], are a particular type system in which variables must be used exactly once in a program.
 
-This idea is of particular interest in the case of Quantum programming, as one of its prperties is that as soon as a q-bit is observed, it cannot longer be used.
+This idea is of particular interest in the case of Quantum programming, and in particular the BB84 protocol [5] as one of its properties is that as soon as a q-bit is observed, it cannot longer be used.
 
 ### Project proposal
 
@@ -36,8 +36,9 @@ The implementation plan for this project is:
 [2] [Quantex](https://github.com/piacerex/quantex)
 [3] [Gleam](https://gleam.run)
 [4] [Linear Types](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=24c850390fba27fc6f3241cb34ce7bc6f3765627)
+[5] [BB84](https://arxiv.org/html/2312.05609v1)
 
 ### Contact
 
 n.cardozo
-dr.barrero2562
+
