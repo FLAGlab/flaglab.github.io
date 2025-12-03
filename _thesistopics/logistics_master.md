@@ -1,7 +1,7 @@
 ---
 title: Reinforcement Learning for logistics
 period: 2026
-level: undergrad
+level: master
 area: ai 
 abstract: Using RL techniques to improve the organization, management and behavior of different logistics processes
 people: Nicolas Cardozo
