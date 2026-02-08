@@ -85,24 +85,6 @@ phd-JCSanguino:
     bio: Doctoral Research assistant
     main-subgroup: ai
 
-phd-LauraGonzalez:
-    id: "phd-LauraGonzalez"
-    display_name: "Laura Gonzalez"
-    image: img/people/fotoLauraGonzalez.jpg
-    webpage: "https://academia.uniandes.edu.co/AcademyCv/ln.gonzalez138"
-    role: predoc
-    bio: Doctoral Research assistant
-    main-subgroup: bio
-
-phd-JorgeDiaz:
-    id: "phd-JorgeDiaz"
-    display_name: "Jorge Diaz"
-    image: img/people/fotoJorgeDiaz.jpg
-    webpage: "https://academia.uniandes.edu.co/AcademyCv/ji.diaz1"
-    role: predoc
-    bio: Doctoral Research assistant
-    main-subgroup: bio
-
 phd-DanielBarrero:
     id: "phd-DanielBarrero"
     display_name: "Daniel Barrero"
@@ -139,25 +121,25 @@ phd-DanielMahecha:
     bio: Doctoral Research assistant 
     main-subgroup: bio
 
-#Master
-master-LauraRodriguez:
-    id: "master-LauraRodriguez"
-    display_name: "Laura Rodriguez"
-    image: img/people/fotoLauraRodriguez.jpeg
-    webpage: ""
-    role: others
-    bio: Scholarship awarded student
-    main-subgroup: ai
-
-master-SebastianLemmus:
-    id: "master-SebastianLemus"
-    display_name: "Sebastián Lemus"
+phd-NicolasSegura:
+    id: "phd-NicolasSegura"
+    display_name: "Nicolás Segura"
     image: img/people/temp.jpg
     webpage: ""
-    role: master
-    bio: Master student
-    main-subgroup: PiL
+    role: predoc
+    bio: Doctoral Research assistant 
+    main-subgroup: crypto, pil
 
+phd-AndresFlorian:
+    id: "phd-AndresFlorian"
+    display_name: "Andrés Florian"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: phd
+    bio: Doctoral Research assistant
+    main-subgroup: crypto
+
+#Master
 master-RauldelaRosa:
     id: "master-RauldelaRosa"
     display_name: "Raul de la Rosa"
@@ -167,58 +149,22 @@ master-RauldelaRosa:
     bio: Master student
     main-subgroup: ai
 
-master-AndresFlorian:
-    id: "master-AndresFlorian"
-    display_name: "Andrés Florian"
+master-AnamariaHenao:
+    id: "master-AnamariaHenao"
+    display_name: "Ana Maria Henao"
     image: img/people/temp.jpg
     webpage: ""
     role: master
     bio: Master student
     main-subgroup: crypto
 
-master-LucasGandara:
-    id: "master-LucasGandara"
-    display_name: "Lucas Gandara"
+master-JuanDiegoSanchez:
+    id: "master-JuanDiegoSanchez"
+    display_name: "Juan Diego Sanchez"
     image: img/people/temp.jpg
     webpage: ""
-    role: master
-    bio: Master student
-    main-subgroup: ai
-
-master-AlejandroMedina:
-    id: "master-AlejandroMedina"
-    display_name: "Alejandro Medina"
-    image: img/people/temp.jpg
-    webpage: ""
-    role: master
-    bio: Master student
-    main-subgroup: ai
-
-master-LeonardoAngel:
-    id: "master-LeonardoAngel"
-    display_name: "Leonardo Angel"
-    image: img/people/temp.jpg
-    webpage: ""
-    role: master
-    bio: Master student
-    main-subgroup: PiL
-
-master-IsabellaMartinez:
-    id: "master-IsabellaMartinez"
-    display_name: "Isabella Martinez"
-    image: img/people/temp.jpg
-    webpage: ""
-    role: master
-    bio: Master student
-    main-subgroup: crypto
-
-master-EstefaniaLaverde:
-    id: "master-EstefaniaLaverde"
-    display_name: "Estefania Laverde"
-    image: img/people/temp.jpg
-    webpage: ""
-    role: master
-    bio: Master student
+    role: ugrad
+    bio: Undergrad student
     main-subgroup: crypto
 
 #Undergrads
@@ -366,14 +312,6 @@ ugrad-SergioAndresOliverosBarbosa:
     bio: Undergrad student
     main-subgroup: ai
 
-ugrad-JuanDiegoSanchez:
-    id: "ugrad-JuanDiegoSanchez"
-    display_name: "Juan Diego Sanchez"
-    image: img/people/temp.jpg
-    webpage: ""
-    role: ugrad
-    bio: Undergrad student
-    main-subgroup: crypto
 
 ugrad-JuanPabloBaron:
     id: "ugrad-JuanPabloBaron"

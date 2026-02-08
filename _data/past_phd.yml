@@ -1,0 +1,17 @@
+phd-LauraGonzalez:
+    id: "phd-LauraGonzalez"
+    display_name: "Laura Gonzalez"
+    image: img/people/fotoLauraGonzalez.jpg
+    webpage: "https://academia.uniandes.edu.co/AcademyCv/ln.gonzalez138"
+    role: predoc
+    bio: Doctoral Research assistant
+    main-subgroup: bio
+
+phd-JorgeDiaz:
+    id: "phd-JorgeDiaz"
+    display_name: "Jorge Diaz"
+    image: img/people/fotoJorgeDiaz.jpg
+    webpage: "https://academia.uniandes.edu.co/AcademyCv/ji.diaz1"
+    role: predoc
+    bio: Doctoral Research assistant
+    main-subgroup: bio

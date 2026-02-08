@@ -15,3 +15,66 @@ past-JuanCastaneda:
     role: alumni
     bio: Teaching assistant
     main-subgroup: PiL
+
+master-LucasGandara:
+    id: "master-LucasGandara"
+    display_name: "Lucas Gandara"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: ai
+
+master-AlejandroMedina:
+    id: "master-AlejandroMedina"
+    display_name: "Alejandro Medina"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: ai
+
+master-LeonardoAngel:
+    id: "master-LeonardoAngel"
+    display_name: "Leonardo Angel"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: PiL
+
+master-IsabellaMartinez:
+    id: "master-IsabellaMartinez"
+    display_name: "Isabella Martinez"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: crypto
+
+master-EstefaniaLaverde:
+    id: "master-EstefaniaLaverde"
+    display_name: "Estefania Laverde"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: crypto
+
+master-LauraRodriguez:
+    id: "master-LauraRodriguez"
+    display_name: "Laura Rodriguez"
+    image: img/people/fotoLauraRodriguez.jpeg
+    webpage: ""
+    role: others
+    bio: Scholarship awarded student
+    main-subgroup: ai
+
+master-SebastianLemmus:
+    id: "master-SebastianLemus"
+    display_name: "Sebastián Lemus"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: PiL

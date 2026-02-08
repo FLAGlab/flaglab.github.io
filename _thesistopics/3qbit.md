@@ -32,8 +32,6 @@ In the second phase, we will focuse on building real quantum programs executed o
 
 ### Background and Literature
 
-
-
 ### Contact
 
 n.cardozo
