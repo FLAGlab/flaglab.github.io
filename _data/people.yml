@@ -1,6 +1,6 @@
 
-prof-nc:
-    id: "prof-nc"
+nc:
+    id: "nc"
     display_name: "Nicolás Cardozo"
     role: labhead
     webpage: "https://profesores.virtual.uniandes.edu.co/ncardozo/en/inicio-en/"
@@ -10,8 +10,8 @@ prof-nc:
     interests: Programming Languages, Reinforcement Learning
     main-subgroup: PiL 
 
-prof-vg:
-    id: "prof-vg"
+vg:
+    id: "vg"
     display_name: "Valérie Gauthier"
     webpage: "https://scholar.google.com/citations?user=Vv_Vh60AAAAJ&hl"
     image: img/people/fotoValerieGauthier.jpg
@@ -20,8 +20,8 @@ prof-vg:
     interests: Cryptography
     main-subgroup: crypto
 
-prof-jd:
-    id: "prof-jd"
+jd:
+    id: "jd"
     display_name: "Jorge Duitama"
     webpage: "https://profesores.virtual.uniandes.edu.co/jaduitama/en/inicio-en/"
     image: img/people/fotoJorgeDuitama.jpg
@@ -29,8 +29,8 @@ prof-jd:
     bio: Associate Professor
     main-subgroup: bio
 
-prof-om:
-    id: "prof-om"
+om:
+    id: "om"
     display_name: "Olga Mariño"
     webpage: "https://profesores.virtual.uniandes.edu.co/olmarino/en/inicio-en/"
     image: img/people/fotoOlgaMarino.jpg
@@ -38,17 +38,8 @@ prof-om:
     bio: Associate Professor
     main-subgroup: ai
 
-prof-st:
-    id: "prof-st"
-    display_name: "Silvia Takahashi"
-    webpage: "https://profesores.virtual.uniandes.edu.co/stakahas/en/inicio-en/"
-    image: img/people/fotoSilviaTakahashi.jpg
-    role: labhead
-    bio: Associate Professor
-    main-subgroup: ai
-
-prof-hn:
-    id: "prof-hn"
+hn:
+    id: "hn"
     display_name: "Haydemar Nuñez"
     webpage: "https://profesores.virtual.uniandes.edu.co/hnunez/en/inicio-en/"
     image: img/people/fotoHaydemarNunez.jpg
@@ -56,8 +47,8 @@ prof-hn:
     bio: Distinguished Professor
     main-subgroup: ai
 
-prof-rm:
-    id: "prof-rm"
+rm:
+    id: "rm"
     display_name: "Ruben Manrique"
     image: img/people/fotoRubenManrique.jpg
     webpage: "https://profesores.virtual.uniandes.edu.co/rfmanrique/en/inicio-en/"
@@ -67,8 +58,8 @@ prof-rm:
 #Postdocs
 
 #PhDs
-phd-MateoSanabria:
-    id: "phd-mateoSanabria"
+MateoSanabria:
+    id: "mateoSanabria"
     display_name: "Mateo Sanabria"
     image: img/people/fotoMateoSanabria.png
     webpage: ""
@@ -76,8 +67,8 @@ phd-MateoSanabria:
     bio: Doctoral Teaching assistant
     main-subgroup: PiL
 
-phd-JCSanguino:
-    id: "phd-jcSanguino"
+JCSanguino:
+    id: "jcSanguino"
     display_name: "Juan Camilo Sanguino"
     image: img/people/fotoJuanSanguino.jpg
     webpage: ""
@@ -85,8 +76,8 @@ phd-JCSanguino:
     bio: Doctoral Research assistant
     main-subgroup: ai
 
-phd-DanielBarrero:
-    id: "phd-DanielBarrero"
+DanielBarrero:
+    id: "DanielBarrero"
     display_name: "Daniel Barrero"
     image: img/people/fotoDanielBarrero.jpg
     webpage: ""
@@ -94,8 +85,8 @@ phd-DanielBarrero:
     bio: Doctoral Research assistant 
     main-subgroup: PiL
 
-phd-ManuelMosquera:
-    id: "phd-ManuelMosquera"
+ManuelMosquera:
+    id: "ManuelMosquera"
     display_name: "Manuel Mosquera"
     image: img/people/temp.jpg
     webpage: ""
@@ -103,8 +94,8 @@ phd-ManuelMosquera:
     bio: Doctoral Research assistant 
     main-subgroup: ai
 
-phd-AlfredoMijares:
-    id: "phd-AlfredoMijares"
+AlfredoMijares:
+    id: "AlfredoMijares"
     display_name: "Alfredo Mijares"
     image: img/people/temp.jpg
     webpage: ""
@@ -112,8 +103,8 @@ phd-AlfredoMijares:
     bio: Doctoral Research assistant 
     main-subgroup: crypto
 
-phd-DanielMahecha:
-    id: "phd-DanielMahecha"
+DanielMahecha:
+    id: "DanielMahecha"
     display_name: "Daniel Mahecha"
     image: img/people/temp.jpg
     webpage: ""
@@ -121,8 +112,8 @@ phd-DanielMahecha:
     bio: Doctoral Research assistant 
     main-subgroup: bio
 
-phd-NicolasSegura:
-    id: "phd-NicolasSegura"
+NicolasSegura:
+    id: "NicolasSegura"
     display_name: "Nicolás Segura"
     image: img/people/temp.jpg
     webpage: ""
@@ -130,8 +121,8 @@ phd-NicolasSegura:
     bio: Doctoral Research assistant 
     main-subgroup: crypto
 
-phd-AndresFlorian:
-    id: "phd-AndresFlorian"
+AndresFlorian:
+    id: "AndresFlorian"
     display_name: "Andrés Florian"
     image: img/people/temp.jpg
     webpage: ""
@@ -172,7 +163,7 @@ JuanDiegoSanchez:
     display_name: "Juan Diego Sanchez"
     image: img/people/temp.jpg
     webpage: ""
-    role: ugrad
+    role: master
     bio: Master student
     main-subgroup: crypto
 

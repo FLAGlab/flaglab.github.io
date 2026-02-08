@@ -1,7 +1,17 @@
-exprof-rc:
-    id: "exprof-rc"
+rc:
+    id: "rc"
     display_name: "Rodrigo Cardoso"
     webpage: "https://profesores.virtual.uniandes.edu.co/rcardoso/en/inicio-en/"
     image: img/people/fotoRodrigoCardoso.jpg
-    role: alumni
+    role: prof
     bio: Associate Professor
+    main-subgroup: algo
+
+st:
+    id: "st"
+    display_name: "Silvia Takahashi"
+    webpage: "https://profesores.virtual.uniandes.edu.co/stakahas/en/inicio-en/"
+    image: img/people/fotoSilviaTakahashi.jpg
+    role: prof
+    bio: Associate Professor
+    main-subgroup: ai
