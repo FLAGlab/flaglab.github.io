@@ -139,6 +139,15 @@ phd-AndresFlorian:
     bio: Doctoral Research assistant
     main-subgroup: crypto
 
+CamiloBarreto:
+    id: "CamiloBarreto"
+    display_name: "Camilo Barreto"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: predoc
+    bio: Doctoral Research assistant
+    main-subgroup: ai
+
 #Master
 RauldelaRosa:
     id: "RauldelaRosa"
