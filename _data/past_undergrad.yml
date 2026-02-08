@@ -1,8 +1,270 @@
-alumni-JuanCamiloBonet:
-    id: "alumni-JuanCamiloBonet"
+ugrad-JuanCamiloBonet:
+    id: "ugrad-JuanCamiloBonet"
     display_name: "Juan Camilo Bonet"
     image: img/people/fotoJuanCamiloBonet.jpg
     webpage: ""
     role: ugrad
+    bio: Advanced undergrad student
+    main-subgroup: PiL
+
+ugrad-JuanFelipeCarballo:
+    id: "ugrad-JuanFelipeCarballo"
+    display_name: "Juan Felipe Carballo"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Undergrad student
+    main-subgroup: ai
+
+ugrad-SebastianOspino:
+    id: "ugrad-SebastianOspino"
+    display_name: "Sebastian Ospino"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Undergrad student
+    main-subgroup: ai
+
+ugrad-SantiagoRodriguez:
+    id: "ugrad-SantiagoRodriguez"
+    display_name: "Santiago Rodriguez"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Undergrad student
+    main-subgroup: ai
+    
+ugrad-NicolasLondono:
+    id: "ugrad-NicolasLondono"
+    display_name: "Nicolas Londoño"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
     bio: Undergrad student
     main-subgroup: PiL
+    
+ugrad-NicolasRozo:
+    id: "ugrad-NicolasRozo"
+    display_name: "Nicolas Rozo"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Undergrad student
+    main-subgroup: bio
+    
+ugrad-DanielaEspinosa:
+    id: "ugrad-DanielaEspinosa"
+    display_name: "Daniela Espinosa"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Undergrad student
+    main-subgroup: crypto
+    
+ugrad-JuanDavidVasquez:
+    id: "ugrad-JuanDavidVasquez"
+    display_name: "Juan David Vasquez"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Undergrad student
+    main-subgroup: crypto
+    
+ugrad-JuanAndresEslava:
+    id: "ugrad-JuanAndresEslava"
+    display_name: "Juan Andres Eslava"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Undergrad student
+    main-subgroup: crypto
+
+ugrad-AlejandroJoseSegura:
+    id: "ugrad-AlejandroJoseSegura"
+    display_name: "Alejandro Jose Segura"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Undergrad student
+    main-subgroup: crypto
+
+ugrad-JuanBernal:
+    id: "ugrad-JuanBernal"
+    display_name: "Juan Bernal"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Undergrad student
+    main-subgroup: ai
+
+ugrad-NicolasSaavedra:
+    id: "ugrad-NicolasSaavedra"
+    display_name: "Nicolas Saavedra"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Undergrad student
+    main-subgroup: PiL
+
+ugrad-NicolasRiveros:
+    id: "ugrad-NicolasRiveros"
+    display_name: "Nicolas Riveros"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Undergrad student
+    main-subgroup: ai
+
+ugrad-DavidCuevasAlba:
+    id: "ugrad-DavidCuevasAlba"
+    display_name: "David Cuevas Alba"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Undergrad student
+    main-subgroup: ai
+
+ugrad-EduardoJoseHerreraAlba:
+    id: "ugrad-EduardoJoseHerreraAlba"
+    display_name: "Eduardo Jose Herrera Alba"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Undergrad student
+    main-subgroup: ai
+
+ugrad-SergioAndresOliverosBarbosa:
+    id: "ugrad-SergioAndresOliverosBarbosa"
+    display_name: "Sergio Andres Oliveros Barbosa"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Undergrad student
+    main-subgroup: ai
+
+
+ugrad-JuanPabloBaron:
+    id: "ugrad-JuanPabloBaron"
+    display_name: "Juan Pablo Baron"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Undergrad student
+    main-subgroup: crypto
+
+ugrad-CarlosAndresPena:
+    id: "ugrad-CarlosAndresPena"
+    display_name: "Carlos Andres Peña"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Undergrad student
+    main-subgroup: crypto
+
+ugrad-IgnacioChaparro:
+    id: "ugrad-IgnacioChaparro"
+    display_name: "Ignacio Chaparro"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Undergrad student
+    main-subgroup: crypto
+
+ugrad-MiguelSantiagoRoa:
+    id: "ugrad-MiguelSantiagoRoa"
+    display_name: "Miguel Santiago Roa"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Undergrad student
+    main-subgroup: crypto
+
+ugrad-JuanCamiloLopez:
+    id: "ugrad-JuanCamiloLopez"
+    display_name: "Juan Camilo Lopez"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Undergrad student
+    main-subgroup: crypto
+
+ugrad-EricSebastianAlarcon:
+    id: "ugrad-EricSebastianAlarcon"
+    display_name: "Eric Sebastian Alarcon"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Undergrad student
+    main-subgroup: crypto
+
+ugrad-TomasSierraSanchez:
+    id: "ugrad-TomasSierraSanchez"
+    display_name: "Tomas Sierra Sanchez"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Undergrad student
+    main-subgroup: crypto
+
+ugrad-JulianMondragonAponte:
+    id: "ugrad-JulianMondragonAponte"
+    display_name: "Julian Mondragon Aponte"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Undergrad student
+    main-subgroup: crypto
+
+ugrad-DiegoAlejandroMaechaForero:
+    id: "ugrad-DiegoAlejandroMaechaForero"
+    display_name: "Diego Alejandro Maecha Forero"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Undergrad student
+    main-subgroup: ai
+
+ugrad-SantiagoMunozMartinez:
+    id: "ugrad-SantiagoMunozMartinez"
+    display_name: "Santiago Muñoz Martínez"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Undergrad student
+    main-subgroup: ai
+
+ugrad-NicolasBedoyaFigueroa:
+    id: "ugrad-NicolasBedoyaFigueroa"
+    display_name: "Nicolas Bedoya Figueroa"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Undergrad student
+    main-subgroup: ai
+
+ugrad-JoseAlejandroOvalleVillamil:
+    id: "ugrad-JoseAlejandroOvalleVillamil"
+    display_name: "Jose Alejandro Ovalle Villamil"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Undergrad student
+    main-subgroup: ai
+
+ugrad-DiegoFernandoOrtizRuiz:
+    id: "ugrad-DiegoFernandoOrtizRuiz"
+    display_name: "Diego Fernando Ortiz Ruiz"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Undergrad student
+    main-subgroup: ai
+
+ugrad-DanielaGonzalezOvalle:
+    id: "ugrad-DanielaGonzalezOvalle"
+    display_name: "Daniela Gonzalez Ovalle"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Undergrad student
+    main-subgroup: ai
