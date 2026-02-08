@@ -135,7 +135,7 @@ phd-AndresFlorian:
     display_name: "Andrés Florian"
     image: img/people/temp.jpg
     webpage: ""
-    role: phd
+    role: predoc
     bio: Doctoral Research assistant
     main-subgroup: crypto
 
