@@ -167,4 +167,211 @@ JuanDiegoSanchez:
     bio: Master student
     main-subgroup: crypto
 
+JhersonMedina:
+    id: "JhersonMedina"
+    display_name: "Jherson Medina"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: bio
+
+JuliethRincon:
+    id: "JuliethRincon"
+    display_name: "Julieth Rincon"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: bio
+
+JuanDiegoEnriquez:
+    id: "JuanDiegoEnriquez"
+    display_name: "Juan Diego Enriquez"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: bio
+
+ChristianRomero:
+    id: "ChristianRomero"
+    display_name: "Christian Romero"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: bio
+
+VictorCastaneda:
+    id: "VictorCastaneda"
+    display_name: "Victor Castañeda"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: bio
+
+KevinHerrera:
+    id: "KevinHerrera"
+    display_name: "Kevin Herrera"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: ai
+
+AndresParedes:
+    id: "AndresParedes"
+    display_name: "Andres Paredes"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: ai
+
+RauldelaRosa:
+    id: "RauldelaRosa"
+    display_name: "Raul de la Rosa"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: ai
+
+LuisBautista:
+    id: "LuisBautista"
+    display_name: "Luis Bautista"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: algo
+
+EstefaniaLaverde:
+    id: "EstefaniaLaverde"
+    display_name: "Estefania Laverde"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: crypto
+
 #Undergrads
+
+JuanDavidCepeda:
+    id: "JuanDavidCepeda"
+    display_name: "Juan David Cepeda"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Bachelor thesis student
+    main-subgroup: ai
+
+PaulinaArrazola:
+    id: "PaulinaArrazola"
+    display_name: "Paulina Arrazola"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Bachelor thesis student
+    main-subgroup: bio
+
+MauricioUrrego:
+    id: "MauricioUrrego"
+    display_name: "Mauricio Urrego"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Bachelor thesis student
+    main-subgroup: pil
+
+EdwardSanchez:
+    id: "EdwardSanchez"
+    display_name: "Edward Sanchez"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Bachelor thesis student
+    main-subgroup: ai
+
+AndresJulianBolivar:
+    id: "AndresJulianBolivar"
+    display_name: "Andres Julian Bolivar"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Bachelor thesis student
+    main-subgroup: pil
+ 
+CarlosDiaz:
+    id: "CarlosDiaz"
+    display_name: "Carlos Díaz"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Bachelor thesis student
+    main-subgroup: algo
+
+DavidBarbosa:
+    id: "DavidBarbosa"
+    display_name: "David Barbosa"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Bachelor thesis student
+    main-subgroup: pil
+
+NicolasContreras:
+    id: "NicolasContreras"
+    display_name: "Nicolas Contreras"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Bachelor thesis student
+    main-subgroup: algo
+
+NicolasContreras:
+    id: "NicolasContreras"
+    display_name: "Nicolas Contreras"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Bachelor thesis student
+    main-subgroup: crypto
+
+LauraMurcia:
+    id: "LauraMurcia"
+    display_name: "Laura Murcia"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Bachelor thesis student
+    main-subgroup: crypto
+
+JuanDavidDuarte:
+    id: "JuanDavidDuarte"
+    display_name: "Juan David Duarte"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Bachelor thesis student
+    main-subgroup: crypto
+
+RodrigoPaz:
+    id: "RodrigoPaz"
+    display_name: "Rodrigo Paz"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Bachelor thesis student
+    main-subgroup: crypto
+
+JuanEstebanVasquez:
+    id: "JuanEstebanVasquez"
+    display_name: "Juan Esteban Vasquez"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Bachelor thesis student
+    main-subgroup: crypto
