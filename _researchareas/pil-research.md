@@ -1,12 +1,11 @@
 ---
 title: Programming Language implementations
 long-title: Programming Language implementations (PiL)
-image: img/PiL.png
+image: img/pil.png
 description: We work on programming language design and implementation to reduce the complexity of software development
 
 people:
   - prof-nc
-  - prof-st
   
 layout: areas
 order: 1
