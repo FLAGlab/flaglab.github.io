@@ -2,7 +2,7 @@ phd-LauraGonzalez:
     id: "phd-LauraGonzalez"
     display_name: "Laura Gonzalez"
     image: img/people/fotoLauraGonzalez.jpg
-    webpage: "https://academia.uniandes.edu.co/AcademyCv/ln.gonzalez138"
+    graddate: 2024-11
     role: predoc
     bio: Doctoral Research assistant
     main-subgroup: bio
@@ -11,7 +11,7 @@ JCSanguino:
     id: "jcSanguino"
     display_name: "Juan Camilo Sanguino"
     image: img/people/fotoJuanSanguino.jpg
-    webpage: ""
+    graddate: 2025-11
     role: predoc
     bio: Doctoral Research assistant
     main-subgroup: ai
@@ -20,7 +20,7 @@ phd-JorgeDiaz:
     id: "phd-JorgeDiaz"
     display_name: "Jorge Diaz"
     image: img/people/fotoJorgeDiaz.jpg
-    webpage: "https://academia.uniandes.edu.co/AcademyCv/ji.diaz1"
+    graddate: 2025-12
     role: predoc
     bio: Doctoral Research assistant
     main-subgroup: bio
