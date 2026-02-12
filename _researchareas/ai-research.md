@@ -5,11 +5,11 @@ image: img/ai.png
 description: We perform fundamental research in artificial intelligence and machine learning approaches, and their application
 
 people:
-  - prof-om
-  - prof-st
-  - prof-nc
-  - prof-hn
-  - prof-rm
+  - om
+  - nc
+  - hn
+  - rm
+  - ManuelMosquera
   
 layout: areas
 order: 2
