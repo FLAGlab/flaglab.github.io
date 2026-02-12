@@ -59,7 +59,7 @@ rm:
 
 #PhDs
 MateoSanabria:
-    id: "mateoSanabria"
+    id: "MateoSanabria"
     display_name: "Mateo Sanabria"
     image: img/people/fotoMateoSanabria.png
     webpage: ""

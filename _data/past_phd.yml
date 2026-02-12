@@ -7,6 +7,15 @@ phd-LauraGonzalez:
     bio: Doctoral Research assistant
     main-subgroup: bio
 
+JCSanguino:
+    id: "jcSanguino"
+    display_name: "Juan Camilo Sanguino"
+    image: img/people/fotoJuanSanguino.jpg
+    webpage: ""
+    role: predoc
+    bio: Doctoral Research assistant
+    main-subgroup: ai
+
 phd-JorgeDiaz:
     id: "phd-JorgeDiaz"
     display_name: "Jorge Diaz"
