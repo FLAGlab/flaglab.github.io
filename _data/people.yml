@@ -8,7 +8,7 @@ nc:
     image: img/people/fotoNicolasCardozo.jpg
     bio: Associate Professor
     interests: Programming Languages, Reinforcement Learning
-    main-subgroup: PiL 
+    main-subgroup: pil 
 
 vg:
     id: "vg"
@@ -65,7 +65,7 @@ MateoSanabria:
     webpage: ""
     role: predoc
     bio: Doctoral Teaching assistant
-    main-subgroup: PiL
+    main-subgroup: pil
 
 JCSanguino:
     id: "jcSanguino"
@@ -83,7 +83,7 @@ DanielBarrero:
     webpage: ""
     role: predoc
     bio: Doctoral Research assistant 
-    main-subgroup: PiL
+    main-subgroup: pil
 
 ManuelMosquera:
     id: "ManuelMosquera"
