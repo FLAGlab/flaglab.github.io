@@ -2,7 +2,7 @@
 title: TAD-ah
 period: 2025
 level: master
-area: algorithms
+area: pil
 abstract: TAD-ah is a new language implementation based on Abstract Data Types (ADTs) that does not have null
 people: Nicolas Cardozo
 file: tad-ah

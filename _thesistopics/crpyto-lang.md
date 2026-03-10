@@ -2,7 +2,7 @@
 title: Evaluation of post-quantum cryptography languages
 period: 2025 
 level: undergrad
-area: PiL
+area: pil
 abstract: There are several frameworks and languages to implement post-quantum crytography algorithms. The purpose of this work is to evaluate their usability.
 people: Nicolas Cardozo, Camilo Escobar
 file: crypto-lang

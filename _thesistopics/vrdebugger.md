@@ -2,7 +2,7 @@
 title: VRDebugger
 period: 2024
 level: undergrad
-area: PiL
+area: pil
 abstract: Build interactive 3D development environments
 people: Nicolas Cardozo
 file: vrdebugger

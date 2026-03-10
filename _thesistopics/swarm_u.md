@@ -2,7 +2,7 @@
 title: Implementation and evaluation of Distributed Algorithms in a Swarm
 period: 2026 
 level: undergrad
-area: PiL
+area: pil
 abstract: Exploration of distributed algorithms and communication schemes in swarm environments
 people: Nicolas Cardozo
 file: swarm

@@ -2,7 +2,7 @@
 title: A complete Rust grammar
 period: 2025
 level: undergrad
-area: PiL
+area: pil
 abstract: Build a grammar and parser for the Rust programming language.
 people: Nicolas Cardozo
 file: rust-parser

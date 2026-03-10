@@ -2,7 +2,7 @@
 title: Two q-bit or not two q-bit
 period: 2026
 level: undergrad
-area: PiL 
+area: pil 
 abstract: Build programs on real programming languages for actual quantum computers
 people: Nicolas Cardozo
 file: 3qbit

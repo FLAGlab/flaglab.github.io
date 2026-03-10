@@ -2,7 +2,7 @@
 title: Linear types for Quantum computing in Gleam
 period: 2026
 level: undergrad
-area: PiL
+area: pil
 abstract: Develop a linear type system in gleam to be used in the development of Quantum computing programs
 people: Nicolas Cardozo
 file: linear-gleam

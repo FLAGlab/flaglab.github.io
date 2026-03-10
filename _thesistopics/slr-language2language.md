@@ -2,7 +2,7 @@
 title: Language to Language translation
 period: 2026
 level: undergrad
-area: PiL
+area: pil
 abstract: Review of existing techniques for language to language translations 
 people: Nicolas Cardozo
 file: slr-language2language

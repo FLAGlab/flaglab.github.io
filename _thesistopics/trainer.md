@@ -2,7 +2,7 @@
 title: Competitive Programming Trainer 
 period: 2021
 level: undergrad
-area: PiL
+area: pil
 abstract: Trainer for competitive programming competitions
 people: Nicolas Cardozo
 file: trainer

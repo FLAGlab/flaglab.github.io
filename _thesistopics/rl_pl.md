@@ -2,7 +2,7 @@
 title: A programming language for reinforcement learning
 period: 2024
 level: undergrad
-area: PiL
+area: pil
 abstract: Build programming language abstractions to facilitate the development of RL-based programs
 people: Nicolas Cardozo
 file: rl_pl

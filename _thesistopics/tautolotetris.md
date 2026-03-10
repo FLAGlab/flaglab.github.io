@@ -2,7 +2,7 @@
 title: Tautolotetris
 period: 2022
 level: undergrad
-area: PiL
+area: pil
 abstract: Develop a propositional logic-based tetris game 
 people: Nicolas Cardozo
 file: tautolotetris

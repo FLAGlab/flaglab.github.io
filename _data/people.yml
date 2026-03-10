@@ -55,6 +55,7 @@ rm:
     role: labhead
     bio: Assistant Professor  
     main-subgroup: ai
+
 #Postdocs
 
 #PhDs
@@ -62,7 +63,7 @@ MateoSanabria:
     id: "MateoSanabria"
     display_name: "Mateo Sanabria"
     image: img/people/fotoMateoSanabria.png
-    webpage: ""
+    webpage: "https://academia.uniandes.edu.co/AcademyCv/m.sanabriaa"
     role: predoc
     bio: Doctoral Teaching assistant
     main-subgroup: pil
@@ -248,6 +249,15 @@ EstefaniaLaverde:
     bio: Master student
     main-subgroup: crypto
 
+EstefaniaLaverde:
+    id: "EstefaniaLaverde"
+    display_name: "Estefania Laverde"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: ai
+    
 #Undergrads
 
 JuanDavidCepeda:
