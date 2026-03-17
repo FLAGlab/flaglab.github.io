@@ -249,20 +249,173 @@ EstefaniaLaverde:
     bio: Master student
     main-subgroup: crypto
 
-EstefaniaLaverde:
-    id: "EstefaniaLaverde"
-    display_name: "Estefania Laverde"
+CamiloAndresCaceres:
+    id: "CamiloAndresCaceres"
+    display_name: "Camilo Andres Caceres"
     image: img/people/temp.jpg
     webpage: ""
     role: master
     bio: Master student
     main-subgroup: ai
-    
+
+GustavoAndresMendez:
+    id: "GustavoAndresMendez"
+    display_name: "Gustavo Andres Mendez"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: ai
+
+MiguelAngelRuiz:
+    id: "MiguelAngelRuiz"
+    display_name: "Miguel Angel Ruiz"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: ai
+
+TomasAcosta:
+    id: "TomasAcosta"
+    display_name: "Tomas Acosta"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: ai
+
+HervyJoseBenitez:
+    id: "HervyJoseBenitez"
+    display_name: "Hervy José Benítez"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: ai
+
+DavidAlejandroFuquen:
+    id: "DavidAlejandroFuquen"
+    display_name: "David Alejandro Fuquen"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: ai
+
+JeffersonHernandez:
+    id: "JeffersonHernandez"
+    display_name: "Jefferson Hernandez"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: ai
+
 #Undergrads
 
 JuanDavidCepeda:
     id: "JuanDavidCepeda"
     display_name: "Juan David Cepeda"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Bachelor thesis student
+    main-subgroup: ai
+
+MariaPualaMurillo:
+    id: "MariaPualaMurillo"
+    display_name: "Maria Paula Murillo"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Bachelor thesis student
+    main-subgroup: ai
+
+GabrielPadilla:
+    id: "GabrielPadilla"
+    display_name: "Gabriel Padilla"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Bachelor thesis student
+    main-subgroup: ai
+
+JuanCamiloPacheco:
+    id: "JuanCamiloPacheco"
+    display_name: "Juan Camilo Pacheco"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Bachelor thesis student
+    main-subgroup: ai
+
+JuanJoseRamirez:
+    id: "JuanJoseRamirez"
+    display_name: "Juan Jose Ramirez"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Bachelor thesis student
+    main-subgroup: ai
+
+MariaLuciaBenavides:
+    id: "MariaLuciaBenavides"
+    display_name: "Maria Lucia Benavides"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Bachelor thesis student
+    main-subgroup: ai
+
+JuanDiegoOsorio:
+    id: "JuanDiegoOsorio"
+    display_name: "Juan Diego Osorio"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Bachelor thesis student
+    main-subgroup: ai
+
+IgnacioChaparro:
+    id: "IgnacioChaparro"
+    display_name: "Ignacio Chaparro"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Bachelor thesis student
+    main-subgroup: ai
+
+MariaJoseMantilla:
+    id: "MariaJoseMantilla"
+    display_name: "Maria Jose Mantilla"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Bachelor thesis student
+    main-subgroup: ai
+
+DanielFelipeTrivino:
+    id: "DanielFelipeTrivino"
+    display_name: "Daniel Felipe Triviño"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Bachelor thesis student
+    main-subgroup: ai
+
+MariaAlejandraPinzon:
+    id: "MariaAlejandraPinzon"
+    display_name: "Maria Alejandra Pinzon"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Bachelor thesis student
+    main-subgroup: ai
+
+SantiagoArenas:
+    id: "SantiagoArenas"
+    display_name: "Santiago Arenas"
     image: img/people/temp.jpg
     webpage: ""
     role: ugrad
