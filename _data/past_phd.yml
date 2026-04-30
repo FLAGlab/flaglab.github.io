@@ -1,5 +1,5 @@
-phd-LauraGonzalez:
-    id: "phd-LauraGonzalez"
+LauraGonzalez:
+    id: "LauraGonzalez"
     display_name: "Laura Gonzalez"
     image: img/people/fotoLauraGonzalez.jpg
     graddate: 2024-11
@@ -16,8 +16,8 @@ JCSanguino:
     bio: Doctoral Research assistant
     main-subgroup: ai
 
-phd-JorgeDiaz:
-    id: "phd-JorgeDiaz"
+JorgeDiaz:
+    id: "JorgeDiaz"
     display_name: "Jorge Diaz"
     image: img/people/fotoJorgeDiaz.jpg
     graddate: 2025-12

@@ -1,4 +1,4 @@
-past-CamiloCabrera:
+CamiloCabrera:
     id: "other-CamiloCabrera"
     display_name: "Camilo Cabrera"
     image: img/people/temp.jpg
@@ -7,7 +7,7 @@ past-CamiloCabrera:
     bio: Teaching assistant
     main-subgroup: PiL
 
-past-JuanCastaneda:
+JuanCastaneda:
     id: "other-JuanCastaneda"
     display_name: "Juan Fernando Castañeda"
     image: img/people/fotoJuanCastaneda.jpg
@@ -16,8 +16,8 @@ past-JuanCastaneda:
     bio: Teaching assistant
     main-subgroup: PiL
 
-master-LucasGandara:
-    id: "master-LucasGandara"
+LucasGandara:
+    id: "LucasGandara"
     display_name: "Lucas Gandara"
     image: img/people/temp.jpg
     webpage: ""
@@ -25,8 +25,8 @@ master-LucasGandara:
     bio: Master student
     main-subgroup: ai
 
-master-AlejandroMedina:
-    id: "master-AlejandroMedina"
+AlejandroMedina:
+    id: "AlejandroMedina"
     display_name: "Alejandro Medina"
     image: img/people/temp.jpg
     webpage: ""
@@ -34,8 +34,8 @@ master-AlejandroMedina:
     bio: Master student
     main-subgroup: ai
 
-master-LeonardoAngel:
-    id: "master-LeonardoAngel"
+LeonardoAngel:
+    id: "LeonardoAngel"
     display_name: "Leonardo Angel"
     image: img/people/temp.jpg
     webpage: ""
@@ -43,8 +43,8 @@ master-LeonardoAngel:
     bio: Master student
     main-subgroup: PiL
 
-master-IsabellaMartinez:
-    id: "master-IsabellaMartinez"
+IsabellaMartinez:
+    id: "IsabellaMartinez"
     display_name: "Isabella Martinez"
     image: img/people/temp.jpg
     webpage: ""
@@ -52,8 +52,8 @@ master-IsabellaMartinez:
     bio: Master student
     main-subgroup: crypto
 
-master-EstefaniaLaverde:
-    id: "master-EstefaniaLaverde"
+EstefaniaLaverde:
+    id: "EstefaniaLaverde"
     display_name: "Estefania Laverde"
     image: img/people/temp.jpg
     webpage: ""
@@ -61,8 +61,8 @@ master-EstefaniaLaverde:
     bio: Master student
     main-subgroup: crypto
 
-master-LauraRodriguez:
-    id: "master-LauraRodriguez"
+LauraRodriguez:
+    id: "LauraRodriguez"
     display_name: "Laura Rodriguez"
     image: img/people/fotoLauraRodriguez.jpeg
     webpage: ""
@@ -70,8 +70,8 @@ master-LauraRodriguez:
     bio: Scholarship awarded student
     main-subgroup: ai
 
-master-SebastianLemmus:
-    id: "master-SebastianLemus"
+SebastianLemmus:
+    id: "SebastianLemus"
     display_name: "Sebastián Lemus"
     image: img/people/temp.jpg
     webpage: ""
