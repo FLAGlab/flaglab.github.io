@@ -313,6 +313,14 @@ JeffersonHernandez:
     main-subgroup: ai
 
 #Undergrads
+CarlaGonzalez:
+    id: "CarlaGonzalez"
+    display_name: "Carla Gonzalez"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: ugrad
+    bio: Bachelor student
+    main-subgroup: pil
 
 JuanDavidCepeda:
     id: "JuanDavidCepeda"
