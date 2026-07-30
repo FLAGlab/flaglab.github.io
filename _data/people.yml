@@ -128,19 +128,37 @@ CamiloBarreto:
     image: img/people/temp.jpg
     webpage: ""
     role: predoc
-    bio: Doctoral Research assistant
+    bio: Doctoral Student
     main-subgroup: ai
 
-#Master
 RauldelaRosa:
     id: "RauldelaRosa"
     display_name: "Raul de la Rosa"
     image: img/people/temp.jpg
     webpage: ""
-    role: master
-    bio: Master student
+    role: predoc
+    bio: Doctoral Student
     main-subgroup: ai
 
+MillerTrujillo:
+    id: "MillerTrujillo"
+    display_name: "Miller Trujillo"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: predoc
+    bio: Doctoral Research Assistant
+    main-subgroup: ai
+
+NicolasDelahoz:
+    id: "NicolasDelahoz"
+    display_name: "Nicolas De la Hoz"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: predoc
+    bio: Doctoral Student
+    main-subgroup: ai
+
+#Master
 AnamariaHenao:
     id: "AnamariaHenao"
     display_name: "Ana Maria Henao"
@@ -195,15 +213,6 @@ ChristianRomero:
     bio: Master student
     main-subgroup: bio
 
-VictorCastaneda:
-    id: "VictorCastaneda"
-    display_name: "Victor Castañeda"
-    image: img/people/temp.jpg
-    webpage: ""
-    role: master
-    bio: Master student
-    main-subgroup: ai
-
 KevinHerrera:
     id: "KevinHerrera"
     display_name: "Kevin Herrera"
@@ -221,24 +230,6 @@ AndresParedes:
     role: master
     bio: Master student
     main-subgroup: ai
-
-RauldelaRosa:
-    id: "RauldelaRosa"
-    display_name: "Raul de la Rosa"
-    image: img/people/temp.jpg
-    webpage: ""
-    role: master
-    bio: Master student
-    main-subgroup: ai
-
-LuisBautista:
-    id: "LuisBautista"
-    display_name: "Luis Bautista"
-    image: img/people/temp.jpg
-    webpage: ""
-    role: master
-    bio: Master student
-    main-subgroup: algo
 
 EstefaniaLaverde:
     id: "EstefaniaLaverde"

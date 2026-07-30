@@ -78,3 +78,13 @@ SebastianLemmus:
     role: master
     bio: Master student
     main-subgroup: PiL
+
+
+VictorCastaneda:
+    id: "VictorCastaneda"
+    display_name: "Victor Castañeda"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: ai
