@@ -80,6 +80,16 @@ SebastianLemmus:
     main-subgroup: PiL
 
 
+LuisBautista:
+    id: "LuisBautista"
+    display_name: "Luis Bautista"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: algo
+
+
 VictorCastaneda:
     id: "VictorCastaneda"
     display_name: "Victor Castañeda"

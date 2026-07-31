@@ -80,7 +80,7 @@ DanielBarrero:
 ManuelMosquera:
     id: "ManuelMosquera"
     display_name: "Manuel Mosquera"
-    image: img/people/temp.jpg
+    image: img/people/fotoManuelMosquera.jpg
     webpage: ""
     role: predoc
     bio: Doctoral Research assistant 
@@ -107,7 +107,7 @@ DanielMahecha:
 NicolasSegura:
     id: "NicolasSegura"
     display_name: "Nicolás Segura"
-    image: img/people/temp.jpg
+    image: img/people/fotoNicolasSegura.jpg
     webpage: ""
     role: predoc
     bio: Doctoral Research assistant 
@@ -158,6 +158,16 @@ NicolasDelahoz:
     bio: Doctoral Student
     main-subgroup: ai
 
+LuisManrique:
+    id: "LuisManrique"
+    display_name: "Luis Gerardo Manrique"
+    image: img/people/fotoLuisManrique.jpg
+    webpage: ""
+    role: predoc
+    bio: Doctoral Student
+    main-subgroup: ai
+
+
 #Master
 AnamariaHenao:
     id: "AnamariaHenao"
@@ -171,7 +181,7 @@ AnamariaHenao:
 JuanDiegoSanchez:
     id: "JuanDiegoSanchez"
     display_name: "Juan Diego Sanchez"
-    image: img/people/temp.jpg
+    image: img/people/fotoJuanDiegoSanchez.jpg
     webpage: ""
     role: master
     bio: Master student
