@@ -89,7 +89,7 @@ ManuelMosquera:
 AlfredoMijares:
     id: "AlfredoMijares"
     display_name: "Alfredo Mijares"
-    image: img/people/temp.jpg
+    image: img/people/fotoAlfredoMijares.jpg
     webpage: ""
     role: predoc
     bio: Doctoral Research assistant 
@@ -317,7 +317,7 @@ JeffersonHernandez:
 CarlaGonzalez:
     id: "CarlaGonzalez"
     display_name: "Carla Gonzalez"
-    image: img/people/temp.jpg
+    image: img/people/fotoCarlaGonzalez.jpg
     webpage: ""
     role: ugrad
     bio: Bachelor student
