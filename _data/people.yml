@@ -80,7 +80,7 @@ DanielBarrero:
 ManuelMosquera:
     id: "ManuelMosquera"
     display_name: "Manuel Mosquera"
-    image: img/people/fotoManuelMosquera.jpg
+    image: img/people/fotoManuelMosquera.jpeg
     webpage: ""
     role: predoc
     bio: Doctoral Research assistant 
@@ -89,7 +89,7 @@ ManuelMosquera:
 AlfredoMijares:
     id: "AlfredoMijares"
     display_name: "Alfredo Mijares"
-    image: img/people/fotoAlfredoMijares.jpg
+    image: img/people/fotoAlfredoMijares.png
     webpage: ""
     role: predoc
     bio: Doctoral Research assistant 
@@ -98,7 +98,7 @@ AlfredoMijares:
 DanielMahecha:
     id: "DanielMahecha"
     display_name: "Daniel Mahecha"
-    image: img/people/temp.jpg
+    image: img/people/fotoDanielMahecha.png
     webpage: ""
     role: predoc
     bio: Doctoral Research assistant 
@@ -107,7 +107,7 @@ DanielMahecha:
 NicolasSegura:
     id: "NicolasSegura"
     display_name: "Nicolás Segura"
-    image: img/people/fotoNicolasSegura.jpg
+    image: img/people/fotoNicolasSegura.png
     webpage: ""
     role: predoc
     bio: Doctoral Research assistant 
@@ -161,7 +161,7 @@ NicolasDelahoz:
 LuisManrique:
     id: "LuisManrique"
     display_name: "Luis Gerardo Manrique"
-    image: img/people/fotoLuisManrique.jpg
+    image: img/people/fotoLuisManrique.jpeg
     webpage: ""
     role: predoc
     bio: Doctoral Student
@@ -172,7 +172,7 @@ LuisManrique:
 AnamariaHenao:
     id: "AnamariaHenao"
     display_name: "Ana Maria Henao"
-    image: img/people/fotoAnamariaHenao.jpg
+    image: img/people/fotoAnamariaHenao.jpeg
     webpage: ""
     role: master
     bio: Master student
@@ -181,7 +181,7 @@ AnamariaHenao:
 JuanDiegoSanchez:
     id: "JuanDiegoSanchez"
     display_name: "Juan Diego Sanchez"
-    image: img/people/fotoJuanDiegoSanchez.jpg
+    image: img/people/fotoJuanDiegoSanchez.jpeg
     webpage: ""
     role: master
     bio: Master student
@@ -317,7 +317,7 @@ JeffersonHernandez:
 CarlaGonzalez:
     id: "CarlaGonzalez"
     display_name: "Carla Gonzalez"
-    image: img/people/fotoCarlaGonzalez.jpg
+    image: img/people/fotoCarlaGonzalez.jpeg
     webpage: ""
     role: ugrad
     bio: Bachelor student
