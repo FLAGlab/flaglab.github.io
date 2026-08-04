@@ -89,10 +89,91 @@ LuisBautista:
     bio: Master student
     main-subgroup: algo
 
-
 VictorCastaneda:
     id: "VictorCastaneda"
     display_name: "Victor Castañeda"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: ai
+
+JhersonMedina:
+    id: "JhersonMedina"
+    display_name: "Jherson Medina"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: bio
+
+
+JuliethRincon:
+    id: "JuliethRincon"
+    display_name: "Julieth Rincon"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: bio
+
+JuanDiegoEnriquez:
+    id: "JuanDiegoEnriquez"
+    display_name: "Juan Diego Enriquez"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: bio
+
+ChristianRomero:
+    id: "ChristianRomero"
+    display_name: "Christian Romero"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: bio
+
+CamiloAndresCaceres:
+    id: "CamiloAndresCaceres"
+    display_name: "Camilo Andres Caceres"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: ai
+
+GustavoAndresMendez:
+    id: "GustavoAndresMendez"
+    display_name: "Gustavo Andres Mendez"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: ai
+
+MiguelAngelRuiz:
+    id: "MiguelAngelRuiz"
+    display_name: "Miguel Angel Ruiz"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: ai
+
+HervyJoseBenitez:
+    id: "HervyJoseBenitez"
+    display_name: "Hervy José Benítez"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: ai
+
+DavidAlejandroFuquen:
+    id: "DavidAlejandroFuquen"
+    display_name: "David Alejandro Fuquen"
     image: img/people/temp.jpg
     webpage: ""
     role: master

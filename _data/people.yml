@@ -187,41 +187,50 @@ JuanDiegoSanchez:
     bio: Master student
     main-subgroup: crypto
 
-JhersonMedina:
-    id: "JhersonMedina"
-    display_name: "Jherson Medina"
+EstefaniaLaverde:
+    id: "EstefaniaLaverde"
+    display_name: "Estefania Laverde"
     image: img/people/temp.jpg
     webpage: ""
     role: master
     bio: Master student
-    main-subgroup: bio
+    main-subgroup: crypto
 
-JuliethRincon:
-    id: "JuliethRincon"
-    display_name: "Julieth Rincon"
+SantiagoMartinez:
+    id: "SantiagoMartinez"
+    display_name: "Santiago Martinez"
     image: img/people/temp.jpg
     webpage: ""
     role: master
     bio: Master student
-    main-subgroup: bio
+    main-subgroup: crypto
 
-JuanDiegoEnriquez:
-    id: "JuanDiegoEnriquez"
-    display_name: "Juan Diego Enriquez"
+AndresGamez:
+    id: "AndresGamez"
+    display_name: "Andrés Gamez"
     image: img/people/temp.jpg
     webpage: ""
     role: master
     bio: Master student
-    main-subgroup: bio
+    main-subgroup: crypto
 
-ChristianRomero:
-    id: "ChristianRomero"
-    display_name: "Christian Romero"
+EderCarbonero:
+    id: "EderCarbonero"
+    display_name: "Eder Carbonero"
     image: img/people/temp.jpg
     webpage: ""
     role: master
     bio: Master student
-    main-subgroup: bio
+    main-subgroup: crypto
+
+JuanCamiloLopez:
+    id: "JuanCamiloLopez"
+    display_name: "Juan Camilo Lopez"
+    image: img/people/temp.jpg
+    webpage: ""
+    role: master
+    bio: Master student
+    main-subgroup: crypto
 
 KevinHerrera:
     id: "KevinHerrera"
@@ -241,63 +250,9 @@ AndresParedes:
     bio: Master student
     main-subgroup: ai
 
-EstefaniaLaverde:
-    id: "EstefaniaLaverde"
-    display_name: "Estefania Laverde"
-    image: img/people/temp.jpg
-    webpage: ""
-    role: master
-    bio: Master student
-    main-subgroup: crypto
-
-CamiloAndresCaceres:
-    id: "CamiloAndresCaceres"
-    display_name: "Camilo Andres Caceres"
-    image: img/people/temp.jpg
-    webpage: ""
-    role: master
-    bio: Master student
-    main-subgroup: ai
-
-GustavoAndresMendez:
-    id: "GustavoAndresMendez"
-    display_name: "Gustavo Andres Mendez"
-    image: img/people/temp.jpg
-    webpage: ""
-    role: master
-    bio: Master student
-    main-subgroup: ai
-
-MiguelAngelRuiz:
-    id: "MiguelAngelRuiz"
-    display_name: "Miguel Angel Ruiz"
-    image: img/people/temp.jpg
-    webpage: ""
-    role: master
-    bio: Master student
-    main-subgroup: ai
-
 TomasAcosta:
     id: "TomasAcosta"
     display_name: "Tomas Acosta"
-    image: img/people/temp.jpg
-    webpage: ""
-    role: master
-    bio: Master student
-    main-subgroup: ai
-
-HervyJoseBenitez:
-    id: "HervyJoseBenitez"
-    display_name: "Hervy José Benítez"
-    image: img/people/temp.jpg
-    webpage: ""
-    role: master
-    bio: Master student
-    main-subgroup: ai
-
-DavidAlejandroFuquen:
-    id: "DavidAlejandroFuquen"
-    display_name: "David Alejandro Fuquen"
     image: img/people/temp.jpg
     webpage: ""
     role: master
