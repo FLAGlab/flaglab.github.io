@@ -4,7 +4,8 @@ long-title: Bioinformatics Tools and Algorithms
 image: img/bio.png
 description: We design new algorithms to solve bioinformatics problems
 people:
-  - prof-jd  
+  - jd  
+  - DanielMahecha
 layout: areas
 order: 4
 ---

@@ -5,11 +5,13 @@ image: img/ai.png
 description: We perform fundamental research in artificial intelligence and machine learning approaches, and their application
 
 people:
-  - om
   - nc
   - hn
   - rm
   - ManuelMosquera
+  - MillerTrjillo
+  - NicolasDelahoz
+  - LuisManrique
   
 layout: areas
 order: 2
@@ -21,13 +23,23 @@ These approaches are applied in a variety of domains including technology enchan
 
 ### Natural Language Processing
 
-Development of NLP and Large Language Models (LLMs)
+Development of NLP and Large Language Models (LLMs) at FLAG lab is divided into different topics of interest.
+
+1. Working on memory models to improve the agent reasoning across sessions, as well as the incorporation of new knowledge that can be effectively exploited by agents.
+
+1. Developing explainability techniques to help undesrtand the internal reasoning process of agents and the reasons why certain decisions are taking.
+
+1. Evaluation of LLMs and their role for software development.
+
+1. Generation of datasets and analysis of low resource languages.
 
 ### Reinforcement Learning
 
-We are actively working on Reinforcement Learning (RL) techniques in collaboration with the Science Foundation Ireland center for research training in AI, Trinity College Dublin, and the [Software Design lab](https://thesoftwaredesignlab.github.io) at Uniandes.
+Our research in Reinforcement Learning (RL) is split into three main themes. (1) The development of new RL algorithms and techniques to improve learning and explore interaction between agents. In particular, we are interested in accelerating/improvong agent learning in environments to fulfill complex tasks.(2) Exploring the use of RL for the development of adaptive systems at a programming language level, and the proposal of programming language abstractions to manage/hide the complexity of RL algorithms. (3) The evolution and adaptations of Rl agents through their life with life-long learning techniques. (4) Creating software development and analysis tools for RL programs, with emphasis on software quality and debugging to improve the experience of RL developers.
 
-We are interested in developpign: (1) New RL algorithms to improve learning and explore interaction between agents. (2) programming languages with the appropriate abstractions to express/hide the complexity of RL algorithms. (3) Software development and analysis tools for RL programs, with emphasis on software quality and debugging.
+Our work is applied to robotic environments and industrial environments in federated and distributed systems.
+
+Most of our work on RL is developed in collaboration with the Science Foundation Ireland center for research training in AI, at Trinity College Dublin.
 
 ### Machine Learning
 

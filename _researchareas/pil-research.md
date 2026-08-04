@@ -16,7 +16,7 @@ order: 1
 The PiL pilar of FLAGlab focuses on the design and implementation of new programming languages and paradigms for the development of new generation software systems.
 
 Our work is centered in the development of Domain Specific Languages (DSLs), type systems, and the
-verification and validation of software sytems at the programming language level. We are currently working programming languages for smart, interconnected, and next generation environments.
+verification and validation of software sytems at the programming language level. We are currently working on programming languages for smart, interconnected, and next generation environments.
 
 ### Smart Environments
 
