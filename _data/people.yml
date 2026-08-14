@@ -89,7 +89,7 @@ ManuelMosquera:
 AlfredoMijares:
     id: "AlfredoMijares"
     display_name: "Alfredo Mijares"
-    image: img/people/fotoAlfredoMijares.png
+    image: img/people/fotoAlfredoMijares.jpeg
     webpage: ""
     role: predoc
     bio: Doctoral Research assistant 
@@ -116,7 +116,7 @@ NicolasSegura:
 AndresFlorian:
     id: "AndresFlorian"
     display_name: "Andrés Florian"
-    image: img/people/temp.jpg
+    image: img/people/fotoAndresFlorian.jpeg
     webpage: ""
     role: predoc
     bio: Doctoral Research assistant
