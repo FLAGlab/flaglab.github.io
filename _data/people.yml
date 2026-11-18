@@ -29,15 +29,6 @@ jd:
     bio: Associate Professor
     main-subgroup: bio
 
-om:
-    id: "om"
-    display_name: "Olga Mariño"
-    webpage: "https://profesores.virtual.uniandes.edu.co/olmarino/en/inicio-en/"
-    image: img/people/fotoOlgaMarino.jpg
-    role: labhead
-    bio: Associate Professor
-    main-subgroup: ai
-
 hn:
     id: "hn"
     display_name: "Haydemar Nuñez"
@@ -52,6 +43,15 @@ rm:
     display_name: "Ruben Manrique"
     image: img/people/fotoRubenManrique.jpg
     webpage: "https://profesores.virtual.uniandes.edu.co/rfmanrique/en/inicio-en/"
+    role: labhead
+    bio: Assistant Professor  
+    main-subgroup: ai
+
+dg:
+    id: "dg"
+    display_name: "Daniel Gonzalez"
+    image: img/people/fotoDanielGonzalez.jpg
+    webpage: ""
     role: labhead
     bio: Assistant Professor  
     main-subgroup: ai

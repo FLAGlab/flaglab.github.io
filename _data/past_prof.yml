@@ -15,3 +15,12 @@ st:
     role: prof
     bio: Associate Professor
     main-subgroup: ai
+
+om:
+    id: "om"
+    display_name: "Olga Mariño"
+    webpage: "https://profesores.virtual.uniandes.edu.co/olmarino/en/inicio-en/"
+    image: img/people/fotoOlgaMarino.jpg
+    role: labhead
+    bio: Associate Professor
+    main-subgroup: ai
