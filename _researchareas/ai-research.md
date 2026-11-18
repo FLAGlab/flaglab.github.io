@@ -8,8 +8,9 @@ people:
   - nc
   - hn
   - rm
+  - dg
   - ManuelMosquera
-  - MillerTrjillo
+  - MillerTrujillo
   - NicolasDelahoz
   - LuisManrique
   
